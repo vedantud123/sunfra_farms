@@ -1,0 +1,11 @@
+[30-Jul-2025 06:32:04 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test2/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[30-Jul-2025 06:32:16 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test2/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[31-Jul-2025 00:17:48 America/Chicago] PHP Parse error:  syntax error, unexpected variable "$shead_list" in /home2/sunfra/public_html/sunfra.com/farm/test2/feedrawmaterial/feed_to_shead_json_to_web.php on line 29
+[31-Jul-2025 00:17:50 America/Chicago] PHP Parse error:  syntax error, unexpected variable "$shead_list" in /home2/sunfra/public_html/sunfra.com/farm/test2/feedrawmaterial/feed_to_shead_json_to_web.php on line 29
+[31-Jul-2025 00:19:44 America/Chicago] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home2/sunfra/public_html/sunfra.com/farm/test2/feedrawmaterial/feed_to_shead_json_to_web.php on line 30
+[31-Jul-2025 00:19:46 America/Chicago] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home2/sunfra/public_html/sunfra.com/farm/test2/feedrawmaterial/feed_to_shead_json_to_web.php on line 30
+[31-Jul-2025 00:23:23 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home2/sunfra/public_html/sunfra.com/farm/test2/feedrawmaterial/feed_to_shead_json_to_web.php on line 31
+[31-Jul-2025 00:23:24 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home2/sunfra/public_html/sunfra.com/farm/test2/feedrawmaterial/feed_to_shead_json_to_web.php on line 31
+[31-Jul-2025 00:23:32 America/Chicago] PHP Parse error:  Unclosed '(' in /home2/sunfra/public_html/sunfra.com/farm/test2/feedrawmaterial/feed_to_shead_json_to_web.php on line 17
+[31-Jul-2025 00:23:33 America/Chicago] PHP Warning:  Array to string conversion in /home2/sunfra/public_html/sunfra.com/farm/test2/feedrawmaterial/feed_to_shead_json_to_web.php on line 31
+[31-Jul-2025 00:23:34 America/Chicago] PHP Warning:  Array to string conversion in /home2/sunfra/public_html/sunfra.com/farm/test2/feedrawmaterial/feed_to_shead_json_to_web.php on line 31

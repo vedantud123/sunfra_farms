@@ -1,0 +1,5 @@
+[13-Jan-2026 02:08:51 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra_dealers/feedrawmaterial_d/feed_raw_materialNewEdit_d.php:44
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra_dealers/feedrawmaterial_d/feed_raw_materialNewEdit_d.php(44): mysqli->query('INSERT INTO fee...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra_dealers/feedrawmaterial_d/feed_raw_materialNewEdit_d.php on line 44

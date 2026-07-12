@@ -1,0 +1,488 @@
+[18-Dec-2024 09:54:13 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 8
+[18-Dec-2024 09:54:13 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 40
+[18-Dec-2024 09:54:13 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 46
+[18-Dec-2024 09:54:13 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 52
+[18-Dec-2024 09:54:13 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 58
+[18-Dec-2024 09:56:40 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[18-Dec-2024 09:56:40 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[18-Dec-2024 09:56:40 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[18-Dec-2024 09:56:40 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[18-Dec-2024 09:58:28 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[18-Dec-2024 09:58:28 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[18-Dec-2024 09:58:28 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[18-Dec-2024 09:58:28 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[18-Dec-2024 09:58:28 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[18-Dec-2024 09:59:21 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[18-Dec-2024 09:59:21 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[18-Dec-2024 09:59:21 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[18-Dec-2024 09:59:21 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[18-Dec-2024 09:59:21 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[18-Dec-2024 09:59:25 America/Chicago] PHP Warning:  Undefined array key "batch_id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 27
+[18-Dec-2024 10:02:10 America/Chicago] PHP Warning:  Undefined array key "batch_id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 32
+[18-Dec-2024 10:02:10 America/Chicago] PHP Warning:  Undefined array key "breed" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 33
+[18-Dec-2024 10:02:10 America/Chicago] PHP Warning:  Undefined array key "hatchDate" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 34
+[18-Dec-2024 10:02:10 America/Chicago] PHP Warning:  Undefined array key "noOfChicks" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 35
+[18-Dec-2024 10:02:10 America/Chicago] PHP Warning:  Undefined array key "sheadNo" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 36
+[18-Dec-2024 10:02:11 America/Chicago] PHP Warning:  Undefined array key "batch_id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 32
+[18-Dec-2024 10:02:11 America/Chicago] PHP Warning:  Undefined array key "breed" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 33
+[18-Dec-2024 10:02:11 America/Chicago] PHP Warning:  Undefined array key "hatchDate" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 34
+[18-Dec-2024 10:02:11 America/Chicago] PHP Warning:  Undefined array key "noOfChicks" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 35
+[18-Dec-2024 10:02:11 America/Chicago] PHP Warning:  Undefined array key "sheadNo" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 36
+[18-Dec-2024 10:02:13 America/Chicago] PHP Warning:  Undefined array key "batch_id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 32
+[18-Dec-2024 10:02:13 America/Chicago] PHP Warning:  Undefined array key "breed" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 33
+[18-Dec-2024 10:02:13 America/Chicago] PHP Warning:  Undefined array key "hatchDate" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 34
+[18-Dec-2024 10:02:13 America/Chicago] PHP Warning:  Undefined array key "noOfChicks" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 35
+[18-Dec-2024 10:02:13 America/Chicago] PHP Warning:  Undefined array key "sheadNo" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 36
+[18-Dec-2024 11:14:10 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[18-Dec-2024 11:14:10 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[18-Dec-2024 11:14:10 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[18-Dec-2024 11:14:10 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[18-Dec-2024 11:14:10 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[18-Dec-2024 11:14:31 America/Chicago] PHP Warning:  Undefined array key "batch_id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 27
+[18-Dec-2024 22:28:37 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[18-Dec-2024 22:28:37 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[18-Dec-2024 22:28:37 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[18-Dec-2024 22:28:37 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[18-Dec-2024 22:28:37 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[18-Dec-2024 22:28:43 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[18-Dec-2024 22:28:43 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[18-Dec-2024 22:28:43 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[18-Dec-2024 22:28:43 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[18-Dec-2024 22:28:43 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 00:06:02 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[19-Dec-2024 00:06:02 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 00:06:02 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 00:06:02 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 00:06:02 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 00:06:23 America/Chicago] PHP Warning:  Undefined array key "batch_id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 27
+[19-Dec-2024 00:16:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[19-Dec-2024 00:16:01 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 00:16:01 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 00:16:01 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 00:16:01 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 00:16:10 America/Chicago] PHP Warning:  Undefined array key "batch_id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 27
+[19-Dec-2024 00:16:33 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[19-Dec-2024 00:16:33 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 00:16:33 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 00:16:33 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 00:16:33 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 00:16:48 America/Chicago] PHP Warning:  Undefined array key "batch_id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 27
+[19-Dec-2024 00:18:03 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[19-Dec-2024 00:18:03 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 00:18:03 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 00:18:03 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 00:18:03 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 00:18:15 America/Chicago] PHP Warning:  Undefined array key "batch_id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 27
+[19-Dec-2024 00:19:02 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[19-Dec-2024 00:19:02 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 00:19:02 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 00:19:02 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 00:19:02 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 00:19:10 America/Chicago] PHP Warning:  Undefined array key "batch_id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 27
+[19-Dec-2024 00:31:56 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:31:56 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:31:56 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:31:56 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:31:56 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:31:56 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:31:56 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:31:56 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:31:56 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:31:56 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:31:56 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:31:56 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:31:56 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:33:49 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:33:49 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:33:49 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:33:49 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:33:49 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:33:49 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:33:49 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:33:49 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:33:49 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:33:49 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:33:49 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:33:49 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:33:49 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:34:29 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:29 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:29 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:29 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:29 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:29 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:29 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:29 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:29 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:29 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:29 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:29 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:29 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:45 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:45 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:45 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:45 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:45 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:45 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:45 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:45 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:45 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:45 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:45 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:45 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:45 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:54 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:54 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:54 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:54 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:54 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:54 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:54 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:54 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:54 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:54 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:54 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:54 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:54 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:55 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:55 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:55 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:55 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:55 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:55 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:55 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:55 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:55 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:55 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:55 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:55 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:34:55 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 38
+[19-Dec-2024 00:35:01 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 00:35:01 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 00:35:01 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 00:35:01 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 00:35:05 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 00:35:05 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 00:35:05 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 00:35:05 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 00:35:09 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 00:35:09 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 00:35:09 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 00:35:09 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 00:35:25 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:35:25 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:35:25 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:35:25 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:35:25 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:35:25 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:35:25 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:35:25 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:35:25 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:35:25 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:35:25 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:35:25 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:35:25 America/Chicago] PHP Warning:  Undefined variable $field7name in /home2/sunfra/public_html/sunfra.com/farm/batch/batch.php on line 37
+[19-Dec-2024 00:35:27 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 00:35:27 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 00:35:27 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 00:35:27 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 00:35:37 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[19-Dec-2024 00:35:37 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 00:35:37 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 00:35:37 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 00:35:37 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 00:35:40 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 00:35:40 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 00:35:40 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 00:35:40 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 00:40:22 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 00:40:22 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 00:40:22 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 00:40:22 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 00:57:52 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[19-Dec-2024 00:57:52 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 00:57:52 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 00:57:52 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 00:57:52 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 01:13:02 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[19-Dec-2024 01:13:02 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 01:13:02 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 01:13:02 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 01:13:02 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 01:14:16 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[19-Dec-2024 01:14:16 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 01:14:16 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 01:14:16 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 01:14:16 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 01:56:22 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[19-Dec-2024 01:56:22 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 01:56:22 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 01:56:22 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 01:56:22 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 03:27:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[19-Dec-2024 03:27:30 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 03:27:30 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 03:27:30 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 03:27:30 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 03:33:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[19-Dec-2024 03:33:15 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 03:33:15 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 03:33:15 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 03:33:15 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 03:33:54 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[19-Dec-2024 03:33:54 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 03:33:54 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 03:33:54 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 03:33:54 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 03:35:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[19-Dec-2024 03:35:24 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 03:35:24 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 03:35:24 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 03:35:24 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 03:35:24 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 64
+[19-Dec-2024 03:35:31 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[19-Dec-2024 03:35:31 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 03:35:31 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 03:35:31 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 03:35:31 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 03:35:31 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 64
+[19-Dec-2024 03:35:50 America/Chicago] PHP Warning:  Undefined array key "batch_id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 27
+[19-Dec-2024 03:36:05 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where batch_id='16'' at line 1 in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php:44
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php(44): mysqli_query(Object(mysqli), 'update batch se...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 44
+[19-Dec-2024 03:36:10 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where batch_id='16'' at line 1 in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php:44
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php(44): mysqli_query(Object(mysqli), 'update batch se...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 44
+[19-Dec-2024 03:37:18 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where batch_id='16'' at line 1 in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php:44
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php(44): mysqli_query(Object(mysqli), 'update batch se...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 44
+[19-Dec-2024 03:37:28 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where batch_id='16'' at line 1 in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php:44
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php(44): mysqli_query(Object(mysqli), 'update batch se...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 44
+[19-Dec-2024 03:39:13 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where batch_id='16'' at line 1 in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php:44
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php(44): mysqli_query(Object(mysqli), 'UPDATE  batch S...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 44
+[19-Dec-2024 03:48:08 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[19-Dec-2024 03:48:08 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 03:48:08 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 03:48:08 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 03:48:08 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 03:48:08 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 64
+[19-Dec-2024 03:48:27 America/Chicago] PHP Warning:  Undefined array key "batch_id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 27
+[19-Dec-2024 03:52:18 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[19-Dec-2024 03:52:18 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 03:52:18 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 03:52:18 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 03:52:18 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 03:52:18 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 64
+[19-Dec-2024 03:52:34 America/Chicago] PHP Warning:  Undefined array key "batch_id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 27
+[19-Dec-2024 03:53:13 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[19-Dec-2024 03:53:13 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 03:53:13 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 03:53:13 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 03:53:13 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 03:53:13 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 64
+[19-Dec-2024 03:53:27 America/Chicago] PHP Warning:  Undefined array key "batch_id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 27
+[19-Dec-2024 03:54:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[19-Dec-2024 03:54:49 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 03:54:49 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 03:54:49 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 03:54:49 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 03:54:49 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 64
+[19-Dec-2024 03:56:13 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 9
+[19-Dec-2024 03:56:13 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 41
+[19-Dec-2024 03:56:13 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 47
+[19-Dec-2024 03:56:13 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 53
+[19-Dec-2024 03:56:13 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 59
+[19-Dec-2024 03:56:13 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 64
+[19-Dec-2024 03:56:38 America/Chicago] PHP Warning:  Undefined array key "batch_id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 27
+[19-Dec-2024 03:57:33 America/Chicago] PHP Parse error:  syntax error, unexpected identifier "batch", expecting "," or ";" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 67
+[19-Dec-2024 03:57:40 America/Chicago] PHP Parse error:  syntax error, unexpected identifier "batch", expecting "," or ";" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 67
+[19-Dec-2024 03:58:05 America/Chicago] PHP Parse error:  syntax error, unexpected identifier "batch", expecting "," or ";" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 67
+[19-Dec-2024 04:00:35 America/Chicago] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 58
+[26-Dec-2024 04:42:29 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 18
+[26-Dec-2024 04:42:29 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 50
+[26-Dec-2024 04:42:29 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 56
+[26-Dec-2024 04:42:29 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 62
+[26-Dec-2024 04:42:29 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 68
+[26-Dec-2024 04:42:29 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 73
+[26-Dec-2024 05:36:00 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 18
+[26-Dec-2024 05:36:00 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 50
+[26-Dec-2024 05:36:00 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 56
+[26-Dec-2024 05:36:00 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 62
+[26-Dec-2024 05:36:00 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 68
+[26-Dec-2024 05:36:00 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 73
+[27-Dec-2024 01:40:19 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 18
+[27-Dec-2024 01:40:19 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 50
+[27-Dec-2024 01:40:19 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 56
+[27-Dec-2024 01:40:19 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 62
+[27-Dec-2024 01:40:19 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 68
+[27-Dec-2024 01:40:19 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 73
+[27-Dec-2024 01:47:23 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 128
+[27-Dec-2024 01:47:23 America/Chicago] PHP Warning:  Undefined variable $batch_id in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 148
+[27-Dec-2024 01:47:23 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 152
+[27-Dec-2024 01:47:23 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 156
+[27-Dec-2024 01:47:23 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 160
+[27-Dec-2024 01:47:23 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 164
+[27-Dec-2024 01:47:23 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 168
+[27-Dec-2024 01:48:33 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 128
+[27-Dec-2024 01:48:33 America/Chicago] PHP Warning:  Undefined variable $batch_id in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 148
+[27-Dec-2024 01:48:33 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 152
+[27-Dec-2024 01:48:33 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 156
+[27-Dec-2024 01:48:33 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 160
+[27-Dec-2024 01:48:33 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 164
+[27-Dec-2024 01:48:33 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 168
+[27-Dec-2024 01:57:43 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 128
+[27-Dec-2024 01:57:43 America/Chicago] PHP Warning:  Undefined variable $batch_id in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 148
+[27-Dec-2024 01:57:43 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 152
+[27-Dec-2024 01:57:43 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 156
+[27-Dec-2024 01:57:43 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 160
+[27-Dec-2024 01:57:43 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 164
+[27-Dec-2024 01:57:43 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 168
+[27-Dec-2024 01:57:50 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 128
+[27-Dec-2024 01:57:50 America/Chicago] PHP Warning:  Undefined variable $batch_id in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 148
+[27-Dec-2024 01:57:50 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 152
+[27-Dec-2024 01:57:50 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 156
+[27-Dec-2024 01:57:50 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 160
+[27-Dec-2024 01:57:50 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 164
+[27-Dec-2024 01:57:50 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 168
+[27-Dec-2024 02:22:08 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 128
+[27-Dec-2024 02:22:08 America/Chicago] PHP Warning:  Undefined variable $batch_id in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 148
+[27-Dec-2024 02:22:08 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 152
+[27-Dec-2024 02:22:08 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 156
+[27-Dec-2024 02:22:08 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 160
+[27-Dec-2024 02:22:08 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 164
+[27-Dec-2024 02:22:08 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 168
+[27-Dec-2024 02:31:41 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 128
+[27-Dec-2024 02:31:41 America/Chicago] PHP Warning:  Undefined variable $batch_id in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 148
+[27-Dec-2024 02:31:41 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 152
+[27-Dec-2024 02:31:41 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 156
+[27-Dec-2024 02:31:41 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 160
+[27-Dec-2024 02:31:41 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 164
+[27-Dec-2024 02:31:41 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 168
+[27-Dec-2024 02:34:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 128
+[27-Dec-2024 02:34:42 America/Chicago] PHP Warning:  Undefined variable $batch_id in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 148
+[27-Dec-2024 02:34:42 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 152
+[27-Dec-2024 02:34:42 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 156
+[27-Dec-2024 02:34:42 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 160
+[27-Dec-2024 02:34:42 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 164
+[27-Dec-2024 02:34:42 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 168
+[27-Dec-2024 21:24:21 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 128
+[27-Dec-2024 21:24:21 America/Chicago] PHP Warning:  Undefined variable $batch_id in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 148
+[27-Dec-2024 21:24:21 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 152
+[27-Dec-2024 21:24:21 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 156
+[27-Dec-2024 21:24:21 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 160
+[27-Dec-2024 21:24:21 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 164
+[27-Dec-2024 21:24:21 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 168
+[27-Dec-2024 21:26:51 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 128
+[27-Dec-2024 21:26:51 America/Chicago] PHP Warning:  Undefined variable $batch_id in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 148
+[27-Dec-2024 21:26:51 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 152
+[27-Dec-2024 21:26:51 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 156
+[27-Dec-2024 21:26:51 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 160
+[27-Dec-2024 21:26:51 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 164
+[27-Dec-2024 21:26:51 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 168
+[27-Dec-2024 21:29:15 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 128
+[27-Dec-2024 21:29:15 America/Chicago] PHP Warning:  Undefined variable $batch_id in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 148
+[27-Dec-2024 21:29:15 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 152
+[27-Dec-2024 21:29:15 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 156
+[27-Dec-2024 21:29:15 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 160
+[27-Dec-2024 21:29:15 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 164
+[27-Dec-2024 21:29:15 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 168
+[27-Dec-2024 21:29:28 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 128
+[27-Dec-2024 21:29:28 America/Chicago] PHP Warning:  Undefined variable $batch_id in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 148
+[27-Dec-2024 21:29:28 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 152
+[27-Dec-2024 21:29:28 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 156
+[27-Dec-2024 21:29:28 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 160
+[27-Dec-2024 21:29:28 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 164
+[27-Dec-2024 21:29:28 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 168
+[30-Dec-2024 00:33:06 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 128
+[30-Dec-2024 00:33:06 America/Chicago] PHP Warning:  Undefined variable $batch_id in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 148
+[30-Dec-2024 00:33:06 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 152
+[30-Dec-2024 00:33:06 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 156
+[30-Dec-2024 00:33:06 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 160
+[30-Dec-2024 00:33:06 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 164
+[30-Dec-2024 00:33:06 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 168
+[30-Dec-2024 00:46:52 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 128
+[30-Dec-2024 00:46:52 America/Chicago] PHP Warning:  Undefined variable $batch_id in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 148
+[30-Dec-2024 00:46:52 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 152
+[30-Dec-2024 00:46:52 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 156
+[30-Dec-2024 00:46:52 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 160
+[30-Dec-2024 00:46:52 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 164
+[30-Dec-2024 00:46:52 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 168
+[30-Dec-2024 00:47:06 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 128
+[30-Dec-2024 00:47:06 America/Chicago] PHP Warning:  Undefined variable $batch_id in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 148
+[30-Dec-2024 00:47:06 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 152
+[30-Dec-2024 00:47:06 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 156
+[30-Dec-2024 00:47:06 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 160
+[30-Dec-2024 00:47:06 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 164
+[30-Dec-2024 00:47:06 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 168
+[30-Dec-2024 00:47:28 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 128
+[30-Dec-2024 00:47:28 America/Chicago] PHP Warning:  Undefined variable $batch_id in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 148
+[30-Dec-2024 00:47:28 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 152
+[30-Dec-2024 00:47:28 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 156
+[30-Dec-2024 00:47:28 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 160
+[30-Dec-2024 00:47:28 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 164
+[30-Dec-2024 00:47:28 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 168
+[30-Dec-2024 00:47:37 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 128
+[30-Dec-2024 00:47:37 America/Chicago] PHP Warning:  Undefined variable $batch_id in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 148
+[30-Dec-2024 00:47:37 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 152
+[30-Dec-2024 00:47:37 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 156
+[30-Dec-2024 00:47:37 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 160
+[30-Dec-2024 00:47:37 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 164
+[30-Dec-2024 00:47:37 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 168
+[30-Dec-2024 00:53:26 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 128
+[30-Dec-2024 00:53:26 America/Chicago] PHP Warning:  Undefined variable $batch_id in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 148
+[30-Dec-2024 00:53:26 America/Chicago] PHP Warning:  Undefined variable $breed in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 153
+[30-Dec-2024 00:53:26 America/Chicago] PHP Warning:  Undefined variable $hatchDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 158
+[30-Dec-2024 00:53:26 America/Chicago] PHP Warning:  Undefined variable $noOfChicks in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 163
+[30-Dec-2024 00:53:26 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 166
+[30-Dec-2024 00:53:26 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 168
+[30-Dec-2024 00:53:26 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 169
+[30-Dec-2024 00:53:26 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 170
+[30-Dec-2024 00:53:26 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 171
+[30-Dec-2024 00:53:26 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 172
+[30-Dec-2024 00:53:26 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 173
+[30-Dec-2024 00:53:26 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 174
+[30-Dec-2024 00:53:26 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 175
+[30-Dec-2024 00:53:26 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 180
+[30-Dec-2024 00:53:26 America/Chicago] PHP Warning:  Undefined variable $cullDate in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 185
+[30-Dec-2024 00:55:35 America/Chicago] PHP Parse error:  syntax error, unexpected identifier "value", expecting "," or ";" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchNewEdit.php on line 172
+[30-Dec-2024 04:18:36 America/Chicago] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home2/sunfra/public_html/sunfra.com/farm/batch/batchEdit.php on line 48
+[05-Feb-2025 10:28:58 Asia/Kolkata] PHP Warning:  Undefined variable $startDate in /home2/sunfra/public_html/sunfra.com/farm/batch/test.php on line 122
+[05-Feb-2025 10:28:58 Asia/Kolkata] PHP Warning:  Undefined variable $startDate in /home2/sunfra/public_html/sunfra.com/farm/batch/test.php on line 122
+[05-Feb-2025 10:28:58 Asia/Kolkata] PHP Warning:  Undefined variable $startDate in /home2/sunfra/public_html/sunfra.com/farm/batch/test.php on line 122
+[05-Feb-2025 10:28:58 Asia/Kolkata] PHP Warning:  Undefined variable $startDate in /home2/sunfra/public_html/sunfra.com/farm/batch/test.php on line 122
+[05-Feb-2025 10:28:58 Asia/Kolkata] PHP Warning:  Undefined variable $startDate in /home2/sunfra/public_html/sunfra.com/farm/batch/test.php on line 122
+[05-Feb-2025 10:28:58 Asia/Kolkata] PHP Warning:  Undefined variable $startDate in /home2/sunfra/public_html/sunfra.com/farm/batch/test.php on line 122
+[05-Feb-2025 10:28:58 Asia/Kolkata] PHP Warning:  Undefined variable $startDate in /home2/sunfra/public_html/sunfra.com/farm/batch/test.php on line 122
+[05-Feb-2025 10:28:58 Asia/Kolkata] PHP Warning:  Undefined variable $startDate in /home2/sunfra/public_html/sunfra.com/farm/batch/test.php on line 122
+[05-Feb-2025 10:28:58 Asia/Kolkata] PHP Warning:  Undefined variable $startDate in /home2/sunfra/public_html/sunfra.com/farm/batch/test.php on line 122
+[05-Feb-2025 10:28:58 Asia/Kolkata] PHP Warning:  Undefined variable $startDate in /home2/sunfra/public_html/sunfra.com/farm/batch/test.php on line 122
+[05-Feb-2025 10:28:58 Asia/Kolkata] PHP Warning:  Undefined variable $startDate in /home2/sunfra/public_html/sunfra.com/farm/batch/test.php on line 122
+[05-Feb-2025 10:28:58 Asia/Kolkata] PHP Warning:  Undefined variable $startDate in /home2/sunfra/public_html/sunfra.com/farm/batch/test.php on line 122
+[05-Feb-2025 10:28:58 Asia/Kolkata] PHP Warning:  Undefined variable $startDate in /home2/sunfra/public_html/sunfra.com/farm/batch/test.php on line 122
+[05-Feb-2025 10:28:58 Asia/Kolkata] PHP Warning:  Undefined variable $startDate in /home2/sunfra/public_html/sunfra.com/farm/batch/test.php on line 122
+[05-Feb-2025 10:33:34 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, DateInterval given in /home2/sunfra/public_html/sunfra.com/farm/batch/test.php:131
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/batch/test.php(131): htmlspecialchars(Object(DateInterval))
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/batch/test.php on line 131
+[05-Feb-2025 10:34:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Object of class DateTime could not be converted to string in /home2/sunfra/public_html/sunfra.com/farm/batch/test.php:121
+Stack trace:
+#0 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/batch/test.php on line 121
+[05-Feb-2025 10:36:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Object of class DateTime could not be converted to string in /home2/sunfra/public_html/sunfra.com/farm/batch/test.php:122
+Stack trace:
+#0 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/batch/test.php on line 122
+[05-Feb-2025 00:20:23 America/Chicago] PHP Parse error:  syntax error, unexpected single-quoted string ".$runningDays." in /home2/sunfra/public_html/sunfra.com/farm/batch/test.php on line 134

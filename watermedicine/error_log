@@ -1,0 +1,30 @@
+[03-Mar-2025 00:06:45 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'feed_rawMaterial_name' in 'field list' in /home2/sunfra/public_html/sunfra.com/farm/watermedicine/water_medicine.php:195
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/watermedicine/water_medicine.php(195): mysqli->query('delete fd\r\n\t\tFR...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/watermedicine/water_medicine.php on line 195
+[03-Mar-2025 00:08:24 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'feed_rawMaterial_name' in 'field list' in /home2/sunfra/public_html/sunfra.com/farm/watermedicine/water_medicine.php:195
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/watermedicine/water_medicine.php(195): mysqli->query('delete fd\r\n\t\tFR...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/watermedicine/water_medicine.php on line 195
+[03-Mar-2025 00:09:12 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'feed_rawMaterial_name' in 'field list' in /home2/sunfra/public_html/sunfra.com/farm/watermedicine/water_medicine.php:195
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/watermedicine/water_medicine.php(195): mysqli->query('delete fd\r\n\t\tFR...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/watermedicine/water_medicine.php on line 195
+[03-Mar-2025 00:12:28 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'feed_rawMaterial_name' in 'field list' in /home2/sunfra/public_html/sunfra.com/farm/watermedicine/water_medicine.php:195
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/watermedicine/water_medicine.php(195): mysqli->query('delete fd\r\n\t\tFR...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/watermedicine/water_medicine.php on line 195
+[03-Mar-2025 00:21:05 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'feed_rawMaterial_name' in 'field list' in /home2/sunfra/public_html/sunfra.com/farm/watermedicine/water_medicine.php:195
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/watermedicine/water_medicine.php(195): mysqli->query('delete fd\r\n\t\tFR...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/watermedicine/water_medicine.php on line 195
+[03-Mar-2025 00:21:08 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'feed_rawMaterial_name' in 'field list' in /home2/sunfra/public_html/sunfra.com/farm/watermedicine/water_medicine.php:195
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/watermedicine/water_medicine.php(195): mysqli->query('delete fd\r\n\t\tFR...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/watermedicine/water_medicine.php on line 195

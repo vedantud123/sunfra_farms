@@ -1,0 +1,25 @@
+[14-Jul-2025 08:57:51 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_global_user.feed_rawMaterial' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php:41
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php(41): mysqli->query('INSERT INTO fee...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php on line 41
+[14-Jul-2025 08:57:52 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_global_user.feed_rawMaterial' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php:41
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php(41): mysqli->query('INSERT INTO fee...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php on line 41
+[14-Jul-2025 08:57:53 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_global_user.feed_rawMaterial' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php:41
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php(41): mysqli->query('INSERT INTO fee...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php on line 41
+[14-Jul-2025 08:57:55 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_global_user.feed_rawMaterial' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php:41
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php(41): mysqli->query('INSERT INTO fee...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php on line 41
+[14-Jul-2025 08:57:55 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_global_user.feed_rawMaterial' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php:41
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php(41): mysqli->query('INSERT INTO fee...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php on line 41

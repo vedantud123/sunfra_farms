@@ -1,0 +1,287 @@
+[26-Dec-2024 05:06:09 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogEdit.php on line 34
+[26-Dec-2024 05:06:09 America/Chicago] PHP Warning:  Undefined variable $batch_Id in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogEdit.php on line 61
+[26-Dec-2024 05:06:09 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '.2024-12-19.', 254, 456, 45, 25255, 21547, 210, 85.317758859632, 52.25)' at line 2 in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogEdit.php:65
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogEdit.php(65): mysqli_query(Object(mysqli), 'INSERT INTO day...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogEdit.php on line 65
+[26-Dec-2024 05:06:14 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 18
+[26-Dec-2024 05:06:14 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 57
+[26-Dec-2024 05:06:14 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 62
+[26-Dec-2024 05:06:14 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 68
+[26-Dec-2024 05:06:14 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 74
+[26-Dec-2024 05:06:14 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 79
+[26-Dec-2024 05:06:14 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 84
+[26-Dec-2024 05:06:14 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 89
+[26-Dec-2024 05:06:14 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 94
+[26-Dec-2024 05:06:14 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 99
+[26-Dec-2024 05:06:16 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 18
+[26-Dec-2024 05:06:16 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 57
+[26-Dec-2024 05:06:16 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 62
+[26-Dec-2024 05:06:16 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 68
+[26-Dec-2024 05:06:16 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 74
+[26-Dec-2024 05:06:16 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 79
+[26-Dec-2024 05:06:16 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 84
+[26-Dec-2024 05:06:16 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 89
+[26-Dec-2024 05:06:16 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 94
+[26-Dec-2024 05:06:16 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 99
+[26-Dec-2024 05:06:33 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogEdit.php on line 34
+[26-Dec-2024 05:06:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 18
+[26-Dec-2024 05:06:40 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 57
+[26-Dec-2024 05:06:40 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 62
+[26-Dec-2024 05:06:40 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 68
+[26-Dec-2024 05:06:40 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 74
+[26-Dec-2024 05:06:40 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 79
+[26-Dec-2024 05:06:40 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 84
+[26-Dec-2024 05:06:40 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 89
+[26-Dec-2024 05:06:40 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 94
+[26-Dec-2024 05:06:40 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 99
+[26-Dec-2024 05:06:54 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogEdit.php on line 34
+[26-Dec-2024 05:06:54 America/Chicago] PHP Warning:  Undefined variable $batch_Id in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogEdit.php on line 61
+[26-Dec-2024 05:06:54 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '.2024-12-26.', 2252, 51520, 2, 25852, 17000, 70, 65.75893547888, 48.70)' at line 2 in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogEdit.php:65
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogEdit.php(65): mysqli_query(Object(mysqli), 'INSERT INTO day...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogEdit.php on line 65
+[26-Dec-2024 05:06:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 18
+[26-Dec-2024 05:06:56 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 57
+[26-Dec-2024 05:06:56 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 62
+[26-Dec-2024 05:06:56 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 68
+[26-Dec-2024 05:06:56 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 74
+[26-Dec-2024 05:06:56 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 79
+[26-Dec-2024 05:06:56 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 84
+[26-Dec-2024 05:06:56 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 89
+[26-Dec-2024 05:06:56 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 94
+[26-Dec-2024 05:06:56 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 99
+[26-Dec-2024 05:07:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogEdit.php on line 34
+[26-Dec-2024 05:10:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 18
+[26-Dec-2024 05:10:24 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 57
+[26-Dec-2024 05:10:24 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 62
+[26-Dec-2024 05:10:24 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 68
+[26-Dec-2024 05:10:24 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 74
+[26-Dec-2024 05:10:24 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 79
+[26-Dec-2024 05:10:24 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 84
+[26-Dec-2024 05:10:24 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 89
+[26-Dec-2024 05:10:24 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 94
+[26-Dec-2024 05:10:24 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 99
+[26-Dec-2024 05:10:36 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogEdit.php on line 34
+[26-Dec-2024 05:10:56 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 18
+[26-Dec-2024 05:10:56 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 57
+[26-Dec-2024 05:10:56 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 62
+[26-Dec-2024 05:10:56 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 68
+[26-Dec-2024 05:10:56 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 74
+[26-Dec-2024 05:10:56 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 79
+[26-Dec-2024 05:10:56 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 84
+[26-Dec-2024 05:10:56 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 89
+[26-Dec-2024 05:10:56 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 94
+[26-Dec-2024 05:10:56 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 99
+[26-Dec-2024 05:11:23 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 18
+[26-Dec-2024 05:11:23 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 57
+[26-Dec-2024 05:11:23 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 62
+[26-Dec-2024 05:11:23 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 68
+[26-Dec-2024 05:11:23 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 74
+[26-Dec-2024 05:11:23 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 79
+[26-Dec-2024 05:11:23 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 84
+[26-Dec-2024 05:11:23 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 89
+[26-Dec-2024 05:11:23 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 94
+[26-Dec-2024 05:11:23 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 99
+[26-Dec-2024 05:15:51 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 18
+[26-Dec-2024 05:15:51 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 57
+[26-Dec-2024 05:15:51 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 62
+[26-Dec-2024 05:15:51 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 68
+[26-Dec-2024 05:15:51 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 74
+[26-Dec-2024 05:15:51 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 79
+[26-Dec-2024 05:15:51 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 84
+[26-Dec-2024 05:15:51 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 89
+[26-Dec-2024 05:15:51 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 94
+[26-Dec-2024 05:15:51 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 99
+[26-Dec-2024 05:35:46 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 18
+[26-Dec-2024 05:35:46 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 57
+[26-Dec-2024 05:35:46 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 62
+[26-Dec-2024 05:35:46 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 68
+[26-Dec-2024 05:35:46 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 74
+[26-Dec-2024 05:35:46 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 79
+[26-Dec-2024 05:35:46 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 84
+[26-Dec-2024 05:35:46 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 89
+[26-Dec-2024 05:35:46 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 94
+[26-Dec-2024 05:35:46 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 99
+[26-Dec-2024 05:35:47 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 18
+[26-Dec-2024 05:35:47 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 57
+[26-Dec-2024 05:35:47 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 62
+[26-Dec-2024 05:35:47 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 68
+[26-Dec-2024 05:35:47 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 74
+[26-Dec-2024 05:35:47 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 79
+[26-Dec-2024 05:35:47 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 84
+[26-Dec-2024 05:35:47 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 89
+[26-Dec-2024 05:35:47 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 94
+[26-Dec-2024 05:35:47 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 99
+[27-Dec-2024 01:58:09 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 18
+[27-Dec-2024 01:58:09 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 57
+[27-Dec-2024 01:58:09 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 62
+[27-Dec-2024 01:58:09 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 68
+[27-Dec-2024 01:58:09 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 74
+[27-Dec-2024 01:58:09 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 79
+[27-Dec-2024 01:58:09 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 84
+[27-Dec-2024 01:58:09 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 89
+[27-Dec-2024 01:58:09 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 94
+[27-Dec-2024 01:58:09 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 99
+[27-Dec-2024 02:01:31 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 18
+[27-Dec-2024 02:01:31 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 57
+[27-Dec-2024 02:01:31 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 62
+[27-Dec-2024 02:01:31 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 68
+[27-Dec-2024 02:01:31 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 74
+[27-Dec-2024 02:01:31 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 79
+[27-Dec-2024 02:01:31 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 84
+[27-Dec-2024 02:01:31 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 89
+[27-Dec-2024 02:01:31 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 94
+[27-Dec-2024 02:01:31 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 99
+[27-Dec-2024 02:01:40 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 18
+[27-Dec-2024 02:01:40 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 57
+[27-Dec-2024 02:01:40 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 62
+[27-Dec-2024 02:01:40 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 68
+[27-Dec-2024 02:01:40 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 74
+[27-Dec-2024 02:01:40 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 79
+[27-Dec-2024 02:01:40 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 84
+[27-Dec-2024 02:01:40 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 89
+[27-Dec-2024 02:01:40 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 94
+[27-Dec-2024 02:01:40 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 99
+[27-Dec-2024 02:03:04 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 110
+[27-Dec-2024 02:03:04 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 146
+[27-Dec-2024 02:03:04 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 151
+[27-Dec-2024 02:03:04 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 156
+[27-Dec-2024 02:03:04 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 161
+[27-Dec-2024 02:03:04 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 166
+[27-Dec-2024 02:03:04 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 171
+[27-Dec-2024 02:03:04 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 176
+[27-Dec-2024 02:03:04 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 181
+[27-Dec-2024 02:03:04 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 186
+[27-Dec-2024 02:04:53 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 110
+[27-Dec-2024 02:04:53 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 146
+[27-Dec-2024 02:04:53 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 151
+[27-Dec-2024 02:04:53 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 156
+[27-Dec-2024 02:04:53 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 161
+[27-Dec-2024 02:04:53 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 166
+[27-Dec-2024 02:04:53 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 171
+[27-Dec-2024 02:04:53 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 176
+[27-Dec-2024 02:04:53 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 181
+[27-Dec-2024 02:04:53 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 186
+[27-Dec-2024 02:05:30 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 110
+[27-Dec-2024 02:05:30 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 146
+[27-Dec-2024 02:05:30 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 151
+[27-Dec-2024 02:05:30 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 156
+[27-Dec-2024 02:05:30 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 161
+[27-Dec-2024 02:05:30 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 166
+[27-Dec-2024 02:05:30 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 171
+[27-Dec-2024 02:05:30 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 176
+[27-Dec-2024 02:05:30 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 181
+[27-Dec-2024 02:05:30 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 186
+[27-Dec-2024 02:08:02 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 110
+[27-Dec-2024 02:08:02 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 146
+[27-Dec-2024 02:08:02 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 151
+[27-Dec-2024 02:08:02 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 156
+[27-Dec-2024 02:08:02 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 161
+[27-Dec-2024 02:08:02 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 166
+[27-Dec-2024 02:08:02 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 171
+[27-Dec-2024 02:08:02 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 176
+[27-Dec-2024 02:08:02 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 181
+[27-Dec-2024 02:08:02 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 186
+[27-Dec-2024 02:22:24 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 110
+[27-Dec-2024 02:22:24 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 146
+[27-Dec-2024 02:22:24 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 151
+[27-Dec-2024 02:22:24 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 156
+[27-Dec-2024 02:22:24 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 161
+[27-Dec-2024 02:22:24 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 166
+[27-Dec-2024 02:22:24 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 171
+[27-Dec-2024 02:22:24 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 176
+[27-Dec-2024 02:22:24 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 181
+[27-Dec-2024 02:22:24 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 186
+[27-Dec-2024 02:32:01 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 110
+[27-Dec-2024 02:32:01 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 146
+[27-Dec-2024 02:32:01 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 151
+[27-Dec-2024 02:32:01 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 156
+[27-Dec-2024 02:32:01 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 161
+[27-Dec-2024 02:32:01 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 166
+[27-Dec-2024 02:32:01 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 171
+[27-Dec-2024 02:32:01 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 176
+[27-Dec-2024 02:32:01 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 181
+[27-Dec-2024 02:32:01 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 186
+[27-Dec-2024 07:14:48 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 110
+[27-Dec-2024 07:14:48 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 146
+[27-Dec-2024 07:14:48 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 151
+[27-Dec-2024 07:14:48 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 156
+[27-Dec-2024 07:14:48 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 161
+[27-Dec-2024 07:14:48 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 166
+[27-Dec-2024 07:14:48 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 171
+[27-Dec-2024 07:14:48 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 176
+[27-Dec-2024 07:14:48 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 181
+[27-Dec-2024 07:14:48 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 186
+[30-Dec-2024 04:22:33 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 110
+[30-Dec-2024 04:22:33 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 146
+[30-Dec-2024 04:22:33 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 151
+[30-Dec-2024 04:22:33 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 156
+[30-Dec-2024 04:22:33 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 161
+[30-Dec-2024 04:22:33 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 166
+[30-Dec-2024 04:22:33 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 171
+[30-Dec-2024 04:22:33 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 176
+[30-Dec-2024 04:22:33 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 181
+[30-Dec-2024 04:22:33 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 186
+[30-Dec-2024 04:23:52 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 110
+[30-Dec-2024 04:23:52 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 146
+[30-Dec-2024 04:23:52 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 151
+[30-Dec-2024 04:23:52 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 156
+[30-Dec-2024 04:23:52 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 161
+[30-Dec-2024 04:23:52 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 166
+[30-Dec-2024 04:23:52 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 171
+[30-Dec-2024 04:23:52 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 176
+[30-Dec-2024 04:23:52 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 181
+[30-Dec-2024 04:23:52 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 186
+[30-Dec-2024 04:24:19 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 110
+[30-Dec-2024 04:24:19 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 146
+[30-Dec-2024 04:24:19 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 151
+[30-Dec-2024 04:24:19 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 156
+[30-Dec-2024 04:24:19 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 161
+[30-Dec-2024 04:24:19 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 166
+[30-Dec-2024 04:24:19 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 171
+[30-Dec-2024 04:24:19 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 176
+[30-Dec-2024 04:24:19 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 181
+[30-Dec-2024 04:24:19 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 186
+[30-Dec-2024 04:24:38 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 110
+[30-Dec-2024 04:24:38 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 146
+[30-Dec-2024 04:24:38 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 151
+[30-Dec-2024 04:24:38 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 156
+[30-Dec-2024 04:24:38 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 161
+[30-Dec-2024 04:24:38 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 166
+[30-Dec-2024 04:24:38 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 171
+[30-Dec-2024 04:24:38 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 176
+[30-Dec-2024 04:24:38 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 181
+[30-Dec-2024 04:24:38 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 186
+[08-Jan-2025 00:30:11 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 110
+[08-Jan-2025 00:30:11 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 146
+[08-Jan-2025 00:30:11 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 151
+[08-Jan-2025 00:30:11 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 156
+[08-Jan-2025 00:30:11 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 161
+[08-Jan-2025 00:30:11 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 166
+[08-Jan-2025 00:30:11 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 171
+[08-Jan-2025 00:30:11 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 176
+[08-Jan-2025 00:30:11 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 181
+[08-Jan-2025 00:30:11 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 186
+[09-Jan-2025 06:47:14 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 110
+[09-Jan-2025 06:47:14 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 146
+[09-Jan-2025 06:47:14 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 151
+[09-Jan-2025 06:47:14 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 156
+[09-Jan-2025 06:47:14 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 161
+[09-Jan-2025 06:47:14 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 166
+[09-Jan-2025 06:47:14 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 171
+[09-Jan-2025 06:47:14 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 176
+[09-Jan-2025 06:47:14 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 181
+[09-Jan-2025 06:47:14 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 186
+[09-Jan-2025 06:49:17 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 110
+[09-Jan-2025 06:49:17 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 146
+[09-Jan-2025 06:49:17 America/Chicago] PHP Warning:  Undefined variable $date in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 151
+[09-Jan-2025 06:49:17 America/Chicago] PHP Warning:  Undefined variable $feed in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 156
+[09-Jan-2025 06:49:17 America/Chicago] PHP Warning:  Undefined variable $water in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 161
+[09-Jan-2025 06:49:17 America/Chicago] PHP Warning:  Undefined variable $mortality in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 166
+[09-Jan-2025 06:49:17 America/Chicago] PHP Warning:  Undefined variable $liveBirds in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 171
+[09-Jan-2025 06:49:17 America/Chicago] PHP Warning:  Undefined variable $eggsTotal in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 176
+[09-Jan-2025 06:49:17 America/Chicago] PHP Warning:  Undefined variable $eggsDamaged in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 181
+[09-Jan-2025 06:49:17 America/Chicago] PHP Warning:  Undefined variable $eggWeight in /home2/sunfra/public_html/sunfra.com/farm/daylog/daylogNewEdit.php on line 186

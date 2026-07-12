@@ -1,0 +1,120 @@
+[14-Jul-2025 08:57:51 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_global_user.feed_rawMaterial' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php:41
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php(41): mysqli->query('INSERT INTO fee...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php on line 41
+[14-Jul-2025 08:57:52 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_global_user.feed_rawMaterial' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php:41
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php(41): mysqli->query('INSERT INTO fee...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php on line 41
+[14-Jul-2025 08:57:53 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_global_user.feed_rawMaterial' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php:41
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php(41): mysqli->query('INSERT INTO fee...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php on line 41
+[14-Jul-2025 08:57:55 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_global_user.feed_rawMaterial' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php:41
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php(41): mysqli->query('INSERT INTO fee...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php on line 41
+[14-Jul-2025 08:57:55 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_global_user.feed_rawMaterial' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php:41
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php(41): mysqli->query('INSERT INTO fee...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_save.php on line 41
+[22-Jul-2025 02:46:26 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[22-Jul-2025 02:53:50 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[24-Jul-2025 23:34:16 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[24-Jul-2025 23:35:54 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[25-Jul-2025 00:10:24 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[25-Jul-2025 00:16:25 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[25-Jul-2025 00:17:14 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[25-Jul-2025 00:17:23 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[25-Jul-2025 00:20:13 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[25-Jul-2025 22:50:15 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[26-Jul-2025 00:39:05 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[26-Jul-2025 00:50:16 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[26-Jul-2025 01:01:48 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[26-Jul-2025 04:11:41 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[26-Jul-2025 05:21:34 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[26-Jul-2025 05:47:55 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[26-Jul-2025 05:56:00 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[26-Jul-2025 05:56:42 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[26-Jul-2025 11:56:49 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[27-Jul-2025 12:18:03 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[29-Jul-2025 03:20:09 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[29-Jul-2025 03:26:51 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[29-Jul-2025 03:27:28 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[29-Jul-2025 03:33:02 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[29-Jul-2025 03:47:33 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[29-Jul-2025 04:00:14 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[29-Jul-2025 04:02:48 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[29-Jul-2025 04:03:35 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[29-Jul-2025 06:06:09 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[29-Jul-2025 06:30:32 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[29-Jul-2025 10:23:54 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[29-Jul-2025 10:25:46 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[29-Jul-2025 10:27:42 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[29-Jul-2025 10:37:27 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[30-Jul-2025 03:27:50 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[30-Jul-2025 03:30:08 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[30-Jul-2025 04:28:05 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[30-Jul-2025 13:29:27 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[31-Jul-2025 06:58:27 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[31-Jul-2025 07:09:32 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[31-Jul-2025 07:16:42 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[31-Jul-2025 07:23:33 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[31-Jul-2025 07:27:39 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[31-Jul-2025 07:30:42 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[01-Aug-2025 03:26:50 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[02-Aug-2025 00:36:13 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[02-Aug-2025 01:05:18 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[02-Aug-2025 04:32:46 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[02-Aug-2025 04:57:13 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[02-Aug-2025 05:39:07 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[02-Aug-2025 10:52:42 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[02-Aug-2025 10:52:55 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[02-Aug-2025 10:53:48 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[03-Aug-2025 07:33:49 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[03-Aug-2025 07:34:46 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[03-Aug-2025 07:48:30 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[04-Aug-2025 06:33:53 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[04-Aug-2025 07:25:17 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[05-Aug-2025 04:17:33 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[05-Aug-2025 08:34:18 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[05-Aug-2025 08:36:44 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[05-Aug-2025 08:49:54 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[05-Aug-2025 08:50:14 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[05-Aug-2025 08:50:44 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[05-Aug-2025 08:50:50 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[05-Aug-2025 08:51:38 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[05-Aug-2025 08:51:40 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[05-Aug-2025 08:53:28 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[05-Aug-2025 09:27:10 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[06-Aug-2025 06:45:53 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[09-Aug-2025 06:07:34 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[11-Aug-2025 05:45:09 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[11-Aug-2025 06:06:02 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[12-Aug-2025 04:21:42 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[12-Aug-2025 06:07:30 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[15-Aug-2025 23:08:21 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[15-Aug-2025 23:10:44 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[22-Aug-2025 23:10:25 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[24-Aug-2025 05:06:41 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[24-Aug-2025 05:06:59 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[26-Aug-2025 00:53:09 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[26-Aug-2025 00:54:28 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[26-Aug-2025 01:05:43 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[26-Aug-2025 01:14:46 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[06-Sep-2025 06:34:32 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[06-Sep-2025 06:43:25 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[19-Sep-2025 05:14:00 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[30-Sep-2025 00:40:54 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[30-Sep-2025 00:41:14 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[30-Sep-2025 01:03:35 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[30-Sep-2025 05:30:28 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[30-Sep-2025 05:40:49 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[30-Sep-2025 06:01:31 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[30-Sep-2025 06:38:31 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299
+[03-Oct-2025 07:47:48 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedrawmaterial/feed_raw_material_json_to_web.php on line 299

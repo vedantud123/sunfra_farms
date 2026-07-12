@@ -1,0 +1,25 @@
+[02-Oct-2025 01:00:03 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_global_user.config_feature' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/configuration/config_supervisor_json.php:20
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/configuration/config_supervisor_json.php(20): mysqli_prepare(Object(mysqli), 'SELECT id, feat...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/configuration/config_supervisor_json.php on line 20
+[02-Oct-2025 01:02:01 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_global_user.config_feature' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/configuration/config_supervisor_json.php:20
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/configuration/config_supervisor_json.php(20): mysqli_prepare(Object(mysqli), 'SELECT id, feat...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/configuration/config_supervisor_json.php on line 20
+[03-Oct-2025 02:08:16 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_global_user.config_feature' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/configuration/config_supervisor_json.php:20
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/configuration/config_supervisor_json.php(20): mysqli_prepare(Object(mysqli), 'SELECT id, feat...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/configuration/config_supervisor_json.php on line 20
+[03-Oct-2025 02:08:22 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_global_user.config_feature' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/configuration/config_supervisor_json.php:20
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/configuration/config_supervisor_json.php(20): mysqli_prepare(Object(mysqli), 'SELECT id, feat...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/configuration/config_supervisor_json.php on line 20
+[03-Oct-2025 02:08:27 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_global_user.config_feature' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/configuration/config_supervisor_json.php:20
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/configuration/config_supervisor_json.php(20): mysqli_prepare(Object(mysqli), 'SELECT id, feat...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/configuration/config_supervisor_json.php on line 20

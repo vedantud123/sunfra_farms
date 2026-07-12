@@ -1,0 +1,176 @@
+[28-Mar-2025 15:57:17 Asia/Kolkata] Received Time: 05:30
+[28-Mar-2025 15:57:53 Asia/Kolkata] Received Time: 05:30
+[28-Mar-2025 16:11:53 Asia/Kolkata] Received Time: 03.15
+[28-Mar-2025 16:12:43 Asia/Kolkata] Received Time: 03.19,06.17
+[28-Mar-2025 16:15:49 Asia/Kolkata] Received Time: 05:15
+[28-Mar-2025 16:17:21 Asia/Kolkata] Received Time: 04:16
+[02-Apr-2025 13:05:55 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, string given in /home2/sunfra/public_html/sunfra.com/farm/task/test_task_list.php:58
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/test_task_list.php(58): array_map('trim', '03:15,15:30,18:...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/test_task_list.php on line 58
+[23-Apr-2025 08:30:22 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 08:40:45 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:15:48 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:16:45 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:16:46 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:16:49 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:17:05 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:17:07 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:17:10 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:17:15 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:17:49 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:17:51 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:18:04 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:18:07 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:18:13 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:18:20 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:18:23 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:18:56 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:18:58 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:21:22 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:21:25 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:21:36 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:21:39 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:30:31 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:30:55 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:42:16 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:46:57 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:47:25 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:47:39 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:47:43 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:49:35 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:49:43 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32
+[23-Apr-2025 09:49:43 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'repeation' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php:32
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php(32): mysqli->prepare('SELECT * FROM f...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/task/assigned_task.php on line 32

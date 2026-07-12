@@ -1,0 +1,301 @@
+[05-Aug-2025 09:25:27 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:25:27 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:25:27 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:32:12 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:32:12 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:32:12 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:32:14 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:32:14 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:32:14 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:32:14 America/Chicago] PHP Warning:  Undefined variable $batch_ids in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 574
+[05-Aug-2025 09:32:29 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:32:29 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:32:29 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:32:29 America/Chicago] PHP Warning:  Undefined variable $batch_ids in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 574
+[05-Aug-2025 09:32:47 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:32:47 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:32:47 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:32:47 America/Chicago] PHP Warning:  Undefined variable $batch_ids in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 574
+[05-Aug-2025 09:32:49 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:32:49 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:32:49 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:32:49 America/Chicago] PHP Warning:  Undefined variable $batch_ids in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 574
+[05-Aug-2025 09:33:03 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:33:03 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:33:03 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:33:05 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:33:05 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:33:05 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:33:05 America/Chicago] PHP Warning:  Undefined variable $batch_ids in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 574
+[05-Aug-2025 09:33:15 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:33:15 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:33:15 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:33:17 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:33:17 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:33:17 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:34:12 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:34:12 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:34:12 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:34:14 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:34:14 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:34:14 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:34:59 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:34:59 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:34:59 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:35:17 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:35:17 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:35:17 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:35:27 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:35:27 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:35:27 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:35:37 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:35:37 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:35:37 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:36:08 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:36:08 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:36:08 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:36:32 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:36:32 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:36:32 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:40:41 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:40:41 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:40:41 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:40:44 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:40:44 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:40:44 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:40:51 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:40:51 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:40:51 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:40:54 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:40:54 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:40:54 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:40:57 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:40:57 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:40:57 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:41:08 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:41:08 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:41:08 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:41:10 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:41:10 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:41:10 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:41:19 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:41:19 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:41:19 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:41:22 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:41:22 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:41:22 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:41:48 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:41:48 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:41:48 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:41:51 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:41:51 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:41:51 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[05-Aug-2025 09:42:27 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:42:27 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 61
+[05-Aug-2025 09:42:27 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 64
+[18-Aug-2025 02:53:14 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 72
+[18-Aug-2025 02:53:14 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 72
+[18-Aug-2025 02:53:14 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 75
+[18-Aug-2025 05:08:44 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 72
+[18-Aug-2025 05:08:44 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 72
+[18-Aug-2025 05:08:44 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 75
+[18-Aug-2025 05:53:01 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 72
+[18-Aug-2025 05:53:01 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 72
+[18-Aug-2025 05:53:01 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 75
+[18-Aug-2025 06:10:01 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 72
+[18-Aug-2025 06:10:01 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 72
+[18-Aug-2025 06:10:01 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 75
+[18-Aug-2025 06:10:05 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 72
+[18-Aug-2025 06:10:05 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 72
+[18-Aug-2025 06:10:05 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 75
+[18-Aug-2025 06:17:05 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[18-Aug-2025 06:17:05 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[18-Aug-2025 06:17:05 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 110
+[18-Aug-2025 06:17:13 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[18-Aug-2025 06:17:13 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[18-Aug-2025 06:17:13 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 110
+[19-Aug-2025 01:03:39 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[19-Aug-2025 01:03:39 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[19-Aug-2025 01:03:39 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 110
+[19-Aug-2025 01:08:54 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[19-Aug-2025 01:08:54 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[19-Aug-2025 01:08:54 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 110
+[19-Aug-2025 01:15:50 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[19-Aug-2025 01:15:50 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[19-Aug-2025 01:15:50 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 110
+[19-Aug-2025 04:07:24 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[19-Aug-2025 04:07:24 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[19-Aug-2025 04:07:24 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 110
+[19-Aug-2025 05:14:26 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[19-Aug-2025 05:14:26 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[19-Aug-2025 05:14:26 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 110
+[19-Aug-2025 05:14:44 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[19-Aug-2025 05:14:44 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[19-Aug-2025 05:14:44 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 110
+[19-Aug-2025 07:02:42 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[19-Aug-2025 07:02:42 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[19-Aug-2025 07:02:42 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 110
+[19-Aug-2025 07:05:54 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[19-Aug-2025 07:05:54 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[19-Aug-2025 07:05:54 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 110
+[19-Aug-2025 07:10:18 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[19-Aug-2025 07:10:18 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[19-Aug-2025 07:10:18 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 110
+[19-Aug-2025 08:20:05 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[19-Aug-2025 08:20:05 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[19-Aug-2025 08:20:05 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 110
+[20-Aug-2025 00:43:46 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[20-Aug-2025 00:43:46 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[20-Aug-2025 00:43:46 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 110
+[20-Aug-2025 00:44:03 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[20-Aug-2025 00:44:03 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[20-Aug-2025 00:44:03 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 110
+[20-Aug-2025 00:44:51 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[20-Aug-2025 00:44:51 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[20-Aug-2025 00:44:51 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 110
+[20-Aug-2025 00:44:58 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[20-Aug-2025 00:44:58 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[20-Aug-2025 00:44:58 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 110
+[20-Aug-2025 00:51:06 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[20-Aug-2025 00:51:06 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[20-Aug-2025 00:51:06 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 110
+[20-Aug-2025 01:57:56 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[20-Aug-2025 01:57:56 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[20-Aug-2025 01:57:56 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 110
+[21-Aug-2025 03:48:07 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[21-Aug-2025 03:48:07 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[21-Aug-2025 03:48:07 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 110
+[21-Aug-2025 06:58:41 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[21-Aug-2025 06:58:41 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[21-Aug-2025 06:58:41 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 110
+[26-Aug-2025 01:47:18 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[26-Aug-2025 01:47:18 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[26-Aug-2025 01:47:18 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 110
+[28-Aug-2025 00:53:04 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[28-Aug-2025 00:53:04 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[28-Aug-2025 00:53:04 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 110
+[28-Aug-2025 00:54:36 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[28-Aug-2025 00:54:36 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 107
+[28-Aug-2025 00:54:36 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 110
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key 1 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 103
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 103
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 106
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key 2 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 103
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 103
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 106
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key 8 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 103
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 103
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 106
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key 3 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 103
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 103
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 106
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key 5 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 103
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 103
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 106
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key 7 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 103
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 103
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 106
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key 6 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 103
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 103
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 106
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key 4 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 103
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 103
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 106
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key "Chick" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 114
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key "total_live_birds" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 114
+[28-Aug-2025 01:00:26 America/Chicago] PHP Warning:  Undefined array key "max_running_weeks" in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 117
+[13-Oct-2025 07:56:45 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 580
+[13-Oct-2025 07:56:45 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 580
+[13-Oct-2025 08:16:36 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 580
+[13-Oct-2025 08:16:36 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 580
+[10-Nov-2025 07:13:25 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 580
+[10-Nov-2025 07:13:25 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 580
+[10-Nov-2025 07:13:25 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 580
+[10-Nov-2025 07:13:25 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 580
+[10-Nov-2025 07:13:25 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 580
+[10-Nov-2025 07:13:25 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 580
+[06-Feb-2026 08:55:41 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[06-Feb-2026 08:55:41 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[06-Feb-2026 08:55:41 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[06-Feb-2026 08:55:41 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[06-Feb-2026 08:55:41 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[06-Feb-2026 08:55:41 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[06-Feb-2026 08:57:39 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_save.php:59
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_save.php(59): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_save.php on line 59
+[06-Feb-2026 08:59:56 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[06-Feb-2026 08:59:56 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[06-Feb-2026 08:59:56 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[06-Feb-2026 08:59:56 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[06-Feb-2026 08:59:56 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[06-Feb-2026 08:59:56 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[06-Feb-2026 09:00:47 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_save.php:59
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_save.php(59): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_save.php on line 59
+[06-Feb-2026 09:03:06 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[06-Feb-2026 09:03:06 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[06-Feb-2026 09:03:06 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[06-Feb-2026 09:03:06 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[06-Feb-2026 09:03:06 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[06-Feb-2026 09:03:06 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[06-Feb-2026 09:03:38 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_save.php:59
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_save.php(59): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_save.php on line 59
+[06-Feb-2026 09:03:39 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_save.php:59
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_save.php(59): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_save.php on line 59
+[06-Feb-2026 09:06:38 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[06-Feb-2026 09:06:38 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[06-Feb-2026 09:06:38 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[06-Feb-2026 09:06:38 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[06-Feb-2026 09:06:38 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[06-Feb-2026 09:06:38 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[10-Feb-2026 08:55:43 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[10-Feb-2026 08:55:43 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[10-Feb-2026 08:55:43 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[10-Feb-2026 08:55:43 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[10-Feb-2026 08:55:43 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[10-Feb-2026 08:55:43 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[10-Feb-2026 08:57:04 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_save.php:59
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_save.php(59): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_save.php on line 59
+[12-Feb-2026 08:20:21 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[12-Feb-2026 08:20:21 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[12-Feb-2026 08:20:21 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[12-Feb-2026 08:20:21 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[12-Feb-2026 08:20:21 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[12-Feb-2026 08:20:21 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[12-Feb-2026 21:51:04 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[12-Feb-2026 21:51:04 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[12-Feb-2026 21:51:04 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[12-Feb-2026 21:51:04 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[12-Feb-2026 21:51:04 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[12-Feb-2026 21:51:04 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[10-Mar-2026 04:54:19 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[10-Mar-2026 12:31:37 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[10-Mar-2026 12:32:07 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[10-Mar-2026 12:32:22 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[10-Mar-2026 12:32:36 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[10-Mar-2026 12:32:53 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[10-Mar-2026 12:33:04 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[12-Mar-2026 04:48:21 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[12-Mar-2026 10:20:03 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[13-Mar-2026 13:13:55 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[13-Mar-2026 13:14:43 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[13-Mar-2026 13:14:57 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[13-Mar-2026 13:15:09 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[13-Mar-2026 13:15:23 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[13-Mar-2026 13:15:35 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[13-Mar-2026 13:15:46 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[13-Mar-2026 13:15:56 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581
+[14-Mar-2026 09:21:53 America/Chicago] PHP Warning:  Undefined variable $latestBatch in /home2/sunfra/public_html/sunfra.com/farm/sunfra/batch/batch_json_to_web.php on line 581

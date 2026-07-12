@@ -1,0 +1,97 @@
+[21-Jul-2025 12:12:12 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_save.php:121
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_save.php(121): mysqli_stmt->bind_param('sssiiissssi', '2025-07-21', 'N/A', 'test2', 0, 0, 20.0, 'Manual Entry', 'Manual', '', '', 'Manual entry wi...', 3)
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_save.php on line 121
+[21-Jul-2025 12:15:34 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_save.php:109
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_save.php(109): mysqli_stmt->bind_param('sssiiissssi', '2025-07-21', NULL, 'test2', NULL, NULL, 20.0, NULL, 'Manual', NULL, NULL, NULL, 3)
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_save.php on line 109
+[21-Jul-2025 12:19:20 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_save.php:109
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_save.php(109): mysqli_stmt->bind_param('sssiiissssi', '2025-07-21', NULL, 'test2', NULL, NULL, 20.0, NULL, 'Manual', NULL, NULL, NULL, 3)
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_save.php on line 109
+[21-Jul-2025 12:19:25 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_save.php:109
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_save.php(109): mysqli_stmt->bind_param('sssiiissssi', '2025-07-21', NULL, 'test2', NULL, NULL, 20.0, NULL, 'Manual', NULL, NULL, NULL, 3)
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_save.php on line 109
+[21-Jul-2025 12:56:02 Asia/Kolkata] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_json_to_web_test.php on line 268
+[21-Jul-2025 12:56:02 Asia/Kolkata] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_json_to_web_test.php on line 276
+[21-Jul-2025 12:56:04 Asia/Kolkata] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_json_to_web_test.php on line 268
+[21-Jul-2025 12:56:04 Asia/Kolkata] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_json_to_web_test.php on line 276
+[21-Jul-2025 12:56:06 Asia/Kolkata] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_json_to_web_test.php on line 268
+[21-Jul-2025 12:56:06 Asia/Kolkata] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_json_to_web_test.php on line 276
+[21-Jul-2025 12:58:15 Asia/Kolkata] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_json_to_web_test.php on line 271
+[21-Jul-2025 12:58:17 Asia/Kolkata] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_json_to_web_test.php on line 271
+[21-Jul-2025 12:58:52 Asia/Kolkata] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_json_to_web_test.php on line 273
+[21-Jul-2025 12:58:54 Asia/Kolkata] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_json_to_web_test.php on line 273
+[21-Jul-2025 12:59:10 Asia/Kolkata] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_json_to_web_test.php on line 275
+[21-Jul-2025 12:59:55 Asia/Kolkata] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_json_to_web_test.php on line 275
+[21-Jul-2025 13:00:12 Asia/Kolkata] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_json_to_web_test.php on line 275
+[21-Jul-2025 13:00:39 Asia/Kolkata] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_json_to_web_test.php on line 275
+[21-Jul-2025 13:02:36 Asia/Kolkata] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_json_to_web_test.php on line 274
+[21-Jul-2025 04:45:53 America/Chicago] PHP Parse error:  syntax error, unexpected string content "vehicleN", expecting "]" in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_json_to_web_test.php on line 204
+[21-Jul-2025 04:47:05 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_json_to_web_test.php on line 10
+[21-Jul-2025 04:48:04 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_json_to_web_test.php on line 271
+[21-Jul-2025 05:15:05 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/sunfra/public_html/sunfra.com/farm/test/weighbridge_json_to_web_test.php on line 10
+[21-Jul-2025 06:11:28 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 256
+[21-Jul-2025 06:11:28 America/Chicago] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 262
+[21-Jul-2025 06:11:28 America/Chicago] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 262
+[21-Jul-2025 06:11:28 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 266
+[21-Jul-2025 06:11:32 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 256
+[21-Jul-2025 06:11:32 America/Chicago] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 262
+[21-Jul-2025 06:11:32 America/Chicago] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 262
+[21-Jul-2025 06:11:32 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 266
+[21-Jul-2025 06:11:47 America/Chicago] PHP Parse error:  Unclosed '{' on line 363 in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 365
+[21-Jul-2025 06:11:49 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 256
+[21-Jul-2025 06:12:23 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 256
+[21-Jul-2025 06:12:40 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 258
+[21-Jul-2025 06:12:43 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 258
+[21-Jul-2025 06:13:05 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 256
+[21-Jul-2025 06:14:44 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 256
+[21-Jul-2025 06:15:20 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 257
+[21-Jul-2025 06:15:30 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 257
+[21-Jul-2025 06:15:57 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 257
+[21-Jul-2025 06:16:14 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 257
+[21-Jul-2025 06:16:33 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 257
+[21-Jul-2025 06:17:01 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 257
+[21-Jul-2025 06:17:20 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 257
+[21-Jul-2025 06:18:00 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 257
+[21-Jul-2025 06:55:18 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 257
+[21-Jul-2025 07:01:46 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 258
+[21-Jul-2025 07:01:49 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 258
+[21-Jul-2025 07:06:47 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 256
+[21-Jul-2025 07:06:47 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/vedant.php on line 3
+[21-Jul-2025 07:06:49 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 256
+[21-Jul-2025 07:06:49 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/vedant.php on line 3
+[21-Jul-2025 07:07:19 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 256
+[21-Jul-2025 07:07:19 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 264
+[21-Jul-2025 07:07:35 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 256
+[21-Jul-2025 07:07:35 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 264
+[21-Jul-2025 07:07:37 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 256
+[21-Jul-2025 07:07:37 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 264
+[21-Jul-2025 07:07:44 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 256
+[21-Jul-2025 07:07:44 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 264
+[21-Jul-2025 07:07:59 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 255
+[21-Jul-2025 07:07:59 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 263
+[21-Jul-2025 07:08:01 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 255
+[21-Jul-2025 07:08:01 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 263
+[21-Jul-2025 07:08:04 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 255
+[21-Jul-2025 07:08:04 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 263
+[21-Jul-2025 07:08:35 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 254
+[21-Jul-2025 07:08:35 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 262
+[21-Jul-2025 07:08:53 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 256
+[21-Jul-2025 07:09:30 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 236
+[21-Jul-2025 07:09:57 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 265
+[21-Jul-2025 07:12:05 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 264
+[21-Jul-2025 07:18:06 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 340
+[21-Jul-2025 07:20:06 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 340
+[21-Jul-2025 08:32:44 America/Chicago] PHP Parse error:  Unclosed '{' on line 421 in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 422
+[21-Jul-2025 08:46:33 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/sunfra/public_html/sunfra.com/farm/test/batch_json_to_web_test.php on line 444
+[21-Jul-2025 10:41:22 America/Chicago] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/sunfra/public_html/sunfra.com/farm/balaji/test/batch_json_to_web.php on line 99
+[21-Jul-2025 10:41:25 America/Chicago] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/sunfra/public_html/sunfra.com/farm/balaji/test/batch_json_to_web.php on line 99
+[21-Jul-2025 10:42:11 America/Chicago] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/sunfra/public_html/sunfra.com/farm/balaji/test/batch_json_to_web.php on line 99
+[21-Jul-2025 10:52:06 America/Chicago] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/sunfra/public_html/sunfra.com/farm/balaji/test/batch_json_to_web.php on line 99

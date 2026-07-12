@@ -1,0 +1,71 @@
+[13-Aug-2025 00:29:17 America/Chicago] PHP Warning:  Undefined array key "client_id" in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/labour_master_json_to_web.php on line 471
+[18-Aug-2025 01:46:17 America/Chicago] PHP Warning:  include(../config/db.php): Failed to open stream: No such file or directory in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_json.php on line 4
+[18-Aug-2025 01:46:17 America/Chicago] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_json.php on line 4
+[18-Aug-2025 01:46:17 America/Chicago] PHP Warning:  Undefined variable $conn in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_json.php on line 14
+[18-Aug-2025 01:46:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_json.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_json.php on line 14
+[18-Aug-2025 01:46:25 America/Chicago] PHP Warning:  include(../config/db.php): Failed to open stream: No such file or directory in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php on line 4
+[18-Aug-2025 01:46:25 America/Chicago] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php on line 4
+[18-Aug-2025 01:46:25 America/Chicago] PHP Warning:  Undefined variable $conn in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php on line 22
+[18-Aug-2025 01:46:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php on line 22
+[18-Aug-2025 01:46:28 America/Chicago] PHP Warning:  include(../config/db.php): Failed to open stream: No such file or directory in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php on line 4
+[18-Aug-2025 01:46:28 America/Chicago] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php on line 4
+[18-Aug-2025 01:46:28 America/Chicago] PHP Warning:  Undefined variable $conn in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php on line 22
+[18-Aug-2025 01:46:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php on line 22
+[18-Aug-2025 01:46:34 America/Chicago] PHP Warning:  include(../config/db.php): Failed to open stream: No such file or directory in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php on line 4
+[18-Aug-2025 01:46:34 America/Chicago] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php on line 4
+[18-Aug-2025 01:46:34 America/Chicago] PHP Warning:  Undefined variable $conn in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php on line 22
+[18-Aug-2025 01:46:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php on line 22
+[18-Aug-2025 01:46:41 America/Chicago] PHP Warning:  include(../config/db.php): Failed to open stream: No such file or directory in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php on line 4
+[18-Aug-2025 01:46:41 America/Chicago] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php on line 4
+[18-Aug-2025 01:46:41 America/Chicago] PHP Warning:  Undefined variable $conn in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php on line 22
+[18-Aug-2025 01:46:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php on line 22
+[18-Aug-2025 01:49:18 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_global_user.assigned_master' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_json.php:21
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_json.php(21): mysqli_prepare(Object(mysqli), 'SELECT id, loca...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_json.php on line 21
+[18-Aug-2025 01:49:20 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_global_user.assigned_master' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php:28
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php(28): mysqli_prepare(Object(mysqli), 'SELECT id FROM ...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php on line 28
+[18-Aug-2025 01:49:22 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_global_user.assigned_master' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php:28
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php(28): mysqli_prepare(Object(mysqli), 'SELECT id FROM ...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php on line 28
+[18-Aug-2025 02:08:23 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'date' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_json.php:21
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_json.php(21): mysqli_prepare(Object(mysqli), 'SELECT id, loca...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_json.php on line 21
+[18-Aug-2025 02:08:24 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'date' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php:28
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php(28): mysqli_prepare(Object(mysqli), 'SELECT id FROM ...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php on line 28
+[18-Aug-2025 02:08:26 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'date' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php:28
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php(28): mysqli_prepare(Object(mysqli), 'SELECT id FROM ...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php on line 28
+[18-Aug-2025 02:08:27 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'date' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php:28
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php(28): mysqli_prepare(Object(mysqli), 'SELECT id FROM ...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test2/attendance/assigned_master_save.php on line 28

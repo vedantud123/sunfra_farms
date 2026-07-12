@@ -1,0 +1,3242 @@
+[
+    {
+        "id": 772,
+        "sheadNo": "shead_3",
+        "tons": 65545,
+        "timestamp": "2025-07-15 16:31:10"
+    },
+    {
+        "id": 771,
+        "sheadNo": "grower",
+        "tons": 555,
+        "timestamp": "2025-07-14 19:24:28"
+    },
+    {
+        "id": 770,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-06-29 18:51:12"
+    },
+    {
+        "id": 769,
+        "sheadNo": "shead_7",
+        "tons": 2,
+        "timestamp": "2025-06-29 18:51:04"
+    },
+    {
+        "id": 768,
+        "sheadNo": "shead_6",
+        "tons": 2,
+        "timestamp": "2025-06-29 18:50:58"
+    },
+    {
+        "id": 767,
+        "sheadNo": "shead_5",
+        "tons": 2,
+        "timestamp": "2025-06-29 18:50:53"
+    },
+    {
+        "id": 766,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-06-29 18:50:48"
+    },
+    {
+        "id": 765,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-06-29 18:50:44"
+    },
+    {
+        "id": 764,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-06-29 18:50:36"
+    },
+    {
+        "id": 763,
+        "sheadNo": "grower",
+        "tons": 2,
+        "timestamp": "2025-06-28 17:13:46"
+    },
+    {
+        "id": 762,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-06-28 17:13:40"
+    },
+    {
+        "id": 761,
+        "sheadNo": "shead_7",
+        "tons": 3,
+        "timestamp": "2025-06-28 17:13:34"
+    },
+    {
+        "id": 760,
+        "sheadNo": "shead_6",
+        "tons": 2,
+        "timestamp": "2025-06-28 17:13:29"
+    },
+    {
+        "id": 759,
+        "sheadNo": "shead_5",
+        "tons": 3,
+        "timestamp": "2025-06-28 17:13:19"
+    },
+    {
+        "id": 758,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-06-28 17:13:13"
+    },
+    {
+        "id": 757,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-06-28 17:13:06"
+    },
+    {
+        "id": 756,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-06-28 17:13:00"
+    },
+    {
+        "id": 755,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-06-28 17:12:56"
+    },
+    {
+        "id": 754,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-06-27 17:35:29"
+    },
+    {
+        "id": 753,
+        "sheadNo": "shead_7",
+        "tons": 2,
+        "timestamp": "2025-06-27 17:35:24"
+    },
+    {
+        "id": 752,
+        "sheadNo": "shead_6",
+        "tons": 3,
+        "timestamp": "2025-06-27 17:35:18"
+    },
+    {
+        "id": 751,
+        "sheadNo": "shead_5",
+        "tons": 2,
+        "timestamp": "2025-06-27 17:35:01"
+    },
+    {
+        "id": 750,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-06-27 17:34:56"
+    },
+    {
+        "id": 749,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-06-27 17:34:51"
+    },
+    {
+        "id": 748,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-06-27 17:34:45"
+    },
+    {
+        "id": 747,
+        "sheadNo": "shead_1",
+        "tons": 1,
+        "timestamp": "2025-06-27 17:34:40"
+    },
+    {
+        "id": 746,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-06-26 18:03:17"
+    },
+    {
+        "id": 745,
+        "sheadNo": "shead_7",
+        "tons": 2,
+        "timestamp": "2025-06-26 18:03:10"
+    },
+    {
+        "id": 744,
+        "sheadNo": "shead_5",
+        "tons": 2,
+        "timestamp": "2025-06-26 18:02:45"
+    },
+    {
+        "id": 743,
+        "sheadNo": "shead_4",
+        "tons": 3,
+        "timestamp": "2025-06-26 18:02:38"
+    },
+    {
+        "id": 742,
+        "sheadNo": "shead_3",
+        "tons": 3,
+        "timestamp": "2025-06-26 18:02:33"
+    },
+    {
+        "id": 741,
+        "sheadNo": "shead_2",
+        "tons": 3,
+        "timestamp": "2025-06-26 18:02:24"
+    },
+    {
+        "id": 740,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-06-26 18:02:20"
+    },
+    {
+        "id": 739,
+        "sheadNo": "grower",
+        "tons": 2,
+        "timestamp": "2025-06-25 17:50:12"
+    },
+    {
+        "id": 738,
+        "sheadNo": "shead_8",
+        "tons": 3,
+        "timestamp": "2025-06-25 17:15:43"
+    },
+    {
+        "id": 737,
+        "sheadNo": "shead_7",
+        "tons": 3,
+        "timestamp": "2025-06-25 17:15:36"
+    },
+    {
+        "id": 736,
+        "sheadNo": "shead_6",
+        "tons": 3,
+        "timestamp": "2025-06-25 17:15:30"
+    },
+    {
+        "id": 735,
+        "sheadNo": "shead_5",
+        "tons": 3,
+        "timestamp": "2025-06-25 17:15:22"
+    },
+    {
+        "id": 734,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-06-25 17:15:15"
+    },
+    {
+        "id": 733,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-06-25 17:15:10"
+    },
+    {
+        "id": 732,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-06-25 17:15:03"
+    },
+    {
+        "id": 731,
+        "sheadNo": "shead_1",
+        "tons": 3,
+        "timestamp": "2025-06-25 17:14:58"
+    },
+    {
+        "id": 730,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-06-24 17:52:24"
+    },
+    {
+        "id": 729,
+        "sheadNo": "shead_7",
+        "tons": 2,
+        "timestamp": "2025-06-24 17:52:18"
+    },
+    {
+        "id": 728,
+        "sheadNo": "shead_5",
+        "tons": 2,
+        "timestamp": "2025-06-24 17:50:06"
+    },
+    {
+        "id": 727,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-06-24 17:49:52"
+    },
+    {
+        "id": 726,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-06-24 17:49:47"
+    },
+    {
+        "id": 725,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-06-24 17:49:42"
+    },
+    {
+        "id": 724,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-06-24 17:49:38"
+    },
+    {
+        "id": 723,
+        "sheadNo": "grower",
+        "tons": 2,
+        "timestamp": "2025-06-23 17:17:29"
+    },
+    {
+        "id": 722,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-06-23 17:17:22"
+    },
+    {
+        "id": 721,
+        "sheadNo": "shead_7",
+        "tons": 1,
+        "timestamp": "2025-06-23 17:17:08"
+    },
+    {
+        "id": 720,
+        "sheadNo": "shead_6",
+        "tons": 1,
+        "timestamp": "2025-06-23 17:16:54"
+    },
+    {
+        "id": 719,
+        "sheadNo": "shead_5",
+        "tons": 2,
+        "timestamp": "2025-06-23 17:16:40"
+    },
+    {
+        "id": 718,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-06-23 17:16:33"
+    },
+    {
+        "id": 717,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-06-23 17:16:27"
+    },
+    {
+        "id": 716,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-06-23 17:16:22"
+    },
+    {
+        "id": 715,
+        "sheadNo": "shead_1",
+        "tons": 1,
+        "timestamp": "2025-06-23 17:16:16"
+    },
+    {
+        "id": 714,
+        "sheadNo": "shead_6",
+        "tons": 2,
+        "timestamp": "2025-06-22 16:04:55"
+    },
+    {
+        "id": 713,
+        "sheadNo": "grower",
+        "tons": 2,
+        "timestamp": "2025-06-22 16:04:21"
+    },
+    {
+        "id": 712,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-06-22 16:04:15"
+    },
+    {
+        "id": 711,
+        "sheadNo": "shead_7",
+        "tons": 2,
+        "timestamp": "2025-06-22 16:04:10"
+    },
+    {
+        "id": 710,
+        "sheadNo": "shead_5",
+        "tons": 2,
+        "timestamp": "2025-06-22 16:04:05"
+    },
+    {
+        "id": 709,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-06-22 16:03:59"
+    },
+    {
+        "id": 708,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-06-22 16:03:47"
+    },
+    {
+        "id": 707,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-06-22 16:03:42"
+    },
+    {
+        "id": 706,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-06-22 16:03:35"
+    },
+    {
+        "id": 705,
+        "sheadNo": "shead_8",
+        "tons": 3,
+        "timestamp": "2025-06-21 17:08:58"
+    },
+    {
+        "id": 704,
+        "sheadNo": "shead_7",
+        "tons": 3,
+        "timestamp": "2025-06-21 17:08:49"
+    },
+    {
+        "id": 703,
+        "sheadNo": "shead_6",
+        "tons": 3,
+        "timestamp": "2025-06-21 17:08:43"
+    },
+    {
+        "id": 702,
+        "sheadNo": "shead_5",
+        "tons": 3,
+        "timestamp": "2025-06-21 17:08:37"
+    },
+    {
+        "id": 701,
+        "sheadNo": "shead_4",
+        "tons": 3,
+        "timestamp": "2025-06-21 17:08:30"
+    },
+    {
+        "id": 700,
+        "sheadNo": "shead_3",
+        "tons": 3,
+        "timestamp": "2025-06-21 17:08:25"
+    },
+    {
+        "id": 699,
+        "sheadNo": "shead_2",
+        "tons": 3,
+        "timestamp": "2025-06-21 17:08:20"
+    },
+    {
+        "id": 698,
+        "sheadNo": "shead_1",
+        "tons": 3,
+        "timestamp": "2025-06-21 17:08:15"
+    },
+    {
+        "id": 697,
+        "sheadNo": "chick",
+        "tons": 1,
+        "timestamp": "2025-06-20 19:44:49"
+    },
+    {
+        "id": 696,
+        "sheadNo": "shead_8",
+        "tons": 3,
+        "timestamp": "2025-06-20 19:44:43"
+    },
+    {
+        "id": 695,
+        "sheadNo": "shead_7",
+        "tons": 2,
+        "timestamp": "2025-06-20 19:44:34"
+    },
+    {
+        "id": 694,
+        "sheadNo": "shead_6",
+        "tons": 3,
+        "timestamp": "2025-06-20 19:44:26"
+    },
+    {
+        "id": 693,
+        "sheadNo": "shead_5",
+        "tons": 2,
+        "timestamp": "2025-06-20 19:44:08"
+    },
+    {
+        "id": 692,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-06-20 19:44:02"
+    },
+    {
+        "id": 691,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-06-20 19:43:55"
+    },
+    {
+        "id": 690,
+        "sheadNo": "shead_1",
+        "tons": 1,
+        "timestamp": "2025-06-20 19:43:43"
+    },
+    {
+        "id": 689,
+        "sheadNo": "shead_7",
+        "tons": 3,
+        "timestamp": "2025-06-19 17:55:43"
+    },
+    {
+        "id": 688,
+        "sheadNo": "shead_5",
+        "tons": 3,
+        "timestamp": "2025-06-19 17:55:37"
+    },
+    {
+        "id": 687,
+        "sheadNo": "shead_4",
+        "tons": 3,
+        "timestamp": "2025-06-19 17:55:31"
+    },
+    {
+        "id": 686,
+        "sheadNo": "shead_3",
+        "tons": 3,
+        "timestamp": "2025-06-19 17:55:26"
+    },
+    {
+        "id": 685,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-06-19 17:55:20"
+    },
+    {
+        "id": 684,
+        "sheadNo": "shead_2",
+        "tons": 3,
+        "timestamp": "2025-06-19 17:55:15"
+    },
+    {
+        "id": 683,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-06-19 17:55:06"
+    },
+    {
+        "id": 682,
+        "sheadNo": "chick",
+        "tons": 2,
+        "timestamp": "2025-06-18 17:35:46"
+    },
+    {
+        "id": 681,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-06-18 17:35:41"
+    },
+    {
+        "id": 680,
+        "sheadNo": "shead_7",
+        "tons": 2,
+        "timestamp": "2025-06-18 17:35:34"
+    },
+    {
+        "id": 679,
+        "sheadNo": "shead_6",
+        "tons": 2,
+        "timestamp": "2025-06-18 17:35:27"
+    },
+    {
+        "id": 678,
+        "sheadNo": "shead_5",
+        "tons": 2,
+        "timestamp": "2025-06-18 17:35:22"
+    },
+    {
+        "id": 677,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-06-18 17:35:17"
+    },
+    {
+        "id": 676,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-06-18 17:35:13"
+    },
+    {
+        "id": 675,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-06-18 17:35:08"
+    },
+    {
+        "id": 674,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-06-18 17:35:03"
+    },
+    {
+        "id": 673,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-06-17 19:51:44"
+    },
+    {
+        "id": 672,
+        "sheadNo": "shead_6",
+        "tons": 2,
+        "timestamp": "2025-06-17 19:51:39"
+    },
+    {
+        "id": 671,
+        "sheadNo": "shead_5",
+        "tons": 2,
+        "timestamp": "2025-06-17 19:51:33"
+    },
+    {
+        "id": 670,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-06-17 19:51:28"
+    },
+    {
+        "id": 669,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-06-17 19:51:23"
+    },
+    {
+        "id": 668,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-06-17 19:51:19"
+    },
+    {
+        "id": 667,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-06-17 19:51:14"
+    },
+    {
+        "id": 666,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-06-16 20:10:31"
+    },
+    {
+        "id": 665,
+        "sheadNo": "shead_7",
+        "tons": 2,
+        "timestamp": "2025-06-16 20:10:24"
+    },
+    {
+        "id": 664,
+        "sheadNo": "shead_6",
+        "tons": 2,
+        "timestamp": "2025-06-16 20:10:18"
+    },
+    {
+        "id": 663,
+        "sheadNo": "shead_5",
+        "tons": 2,
+        "timestamp": "2025-06-16 20:10:11"
+    },
+    {
+        "id": 662,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-06-16 20:10:05"
+    },
+    {
+        "id": 661,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-06-16 20:10:00"
+    },
+    {
+        "id": 660,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-06-16 20:09:54"
+    },
+    {
+        "id": 659,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-06-16 20:09:49"
+    },
+    {
+        "id": 658,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-06-16 16:12:58"
+    },
+    {
+        "id": 657,
+        "sheadNo": "shead_7",
+        "tons": 2,
+        "timestamp": "2025-06-16 16:12:50"
+    },
+    {
+        "id": 656,
+        "sheadNo": "shead_6",
+        "tons": 2,
+        "timestamp": "2025-06-16 16:12:43"
+    },
+    {
+        "id": 655,
+        "sheadNo": "shead_5",
+        "tons": 2,
+        "timestamp": "2025-06-16 16:12:37"
+    },
+    {
+        "id": 654,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-06-16 16:12:32"
+    },
+    {
+        "id": 653,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-06-16 16:12:21"
+    },
+    {
+        "id": 652,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-06-16 16:12:09"
+    },
+    {
+        "id": 651,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-06-16 16:12:04"
+    },
+    {
+        "id": 650,
+        "sheadNo": "shead_7",
+        "tons": 3,
+        "timestamp": "2025-06-15 19:57:04"
+    },
+    {
+        "id": 649,
+        "sheadNo": "shead_6",
+        "tons": 2,
+        "timestamp": "2025-06-15 19:57:51"
+    },
+    {
+        "id": 648,
+        "sheadNo": "shead_5",
+        "tons": 3,
+        "timestamp": "2025-06-15 19:56:41"
+    },
+    {
+        "id": 647,
+        "sheadNo": "shead_4",
+        "tons": 3,
+        "timestamp": "2025-06-15 19:56:32"
+    },
+    {
+        "id": 646,
+        "sheadNo": "shead_2",
+        "tons": 3,
+        "timestamp": "2025-06-15 19:56:26"
+    },
+    {
+        "id": 645,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-06-15 19:56:16"
+    },
+    {
+        "id": 644,
+        "sheadNo": "chick",
+        "tons": 3,
+        "timestamp": "2025-06-15 19:56:07"
+    },
+    {
+        "id": 643,
+        "sheadNo": "shead_8",
+        "tons": 6,
+        "timestamp": "2025-06-15 19:55:48"
+    },
+    {
+        "id": 642,
+        "sheadNo": "shead_3",
+        "tons": 6,
+        "timestamp": "2025-06-15 19:55:37"
+    },
+    {
+        "id": 641,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-06-13 18:23:12"
+    },
+    {
+        "id": 640,
+        "sheadNo": "shead_7",
+        "tons": 2,
+        "timestamp": "2025-06-13 18:23:06"
+    },
+    {
+        "id": 639,
+        "sheadNo": "shead_6",
+        "tons": 2,
+        "timestamp": "2025-06-13 18:22:59"
+    },
+    {
+        "id": 638,
+        "sheadNo": "shead_5",
+        "tons": 3,
+        "timestamp": "2025-06-13 18:22:52"
+    },
+    {
+        "id": 637,
+        "sheadNo": "shead_4",
+        "tons": 3,
+        "timestamp": "2025-06-13 18:22:47"
+    },
+    {
+        "id": 636,
+        "sheadNo": "shead_3",
+        "tons": 3,
+        "timestamp": "2025-06-13 18:22:43"
+    },
+    {
+        "id": 635,
+        "sheadNo": "shead_2",
+        "tons": 3,
+        "timestamp": "2025-06-13 18:22:33"
+    },
+    {
+        "id": 634,
+        "sheadNo": "shead_1",
+        "tons": 3,
+        "timestamp": "2025-06-13 18:22:29"
+    },
+    {
+        "id": 633,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-06-12 19:35:01"
+    },
+    {
+        "id": 632,
+        "sheadNo": "shead_7",
+        "tons": 2,
+        "timestamp": "2025-06-12 19:34:55"
+    },
+    {
+        "id": 631,
+        "sheadNo": "shead_5",
+        "tons": 2,
+        "timestamp": "2025-06-12 19:34:48"
+    },
+    {
+        "id": 630,
+        "sheadNo": "shead_4",
+        "tons": 3,
+        "timestamp": "2025-06-12 19:34:43"
+    },
+    {
+        "id": 629,
+        "sheadNo": "shead_3",
+        "tons": 3,
+        "timestamp": "2025-06-12 19:34:37"
+    },
+    {
+        "id": 628,
+        "sheadNo": "shead_2",
+        "tons": 3,
+        "timestamp": "2025-06-12 19:34:32"
+    },
+    {
+        "id": 627,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-06-12 19:34:26"
+    },
+    {
+        "id": 626,
+        "sheadNo": "chick",
+        "tons": 2,
+        "timestamp": "2025-06-11 21:41:32"
+    },
+    {
+        "id": 625,
+        "sheadNo": "shead_8",
+        "tons": 3,
+        "timestamp": "2025-06-11 21:41:23"
+    },
+    {
+        "id": 624,
+        "sheadNo": "shead_7",
+        "tons": 3,
+        "timestamp": "2025-06-11 21:41:14"
+    },
+    {
+        "id": 623,
+        "sheadNo": "shead_6",
+        "tons": 4,
+        "timestamp": "2025-06-11 21:41:08"
+    },
+    {
+        "id": 622,
+        "sheadNo": "shead_5",
+        "tons": 3,
+        "timestamp": "2025-06-11 21:40:59"
+    },
+    {
+        "id": 621,
+        "sheadNo": "shead_4",
+        "tons": 1,
+        "timestamp": "2025-06-11 21:40:54"
+    },
+    {
+        "id": 620,
+        "sheadNo": "shead_3",
+        "tons": 1,
+        "timestamp": "2025-06-11 21:40:47"
+    },
+    {
+        "id": 619,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-06-11 21:40:41"
+    },
+    {
+        "id": 618,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-06-11 21:40:36"
+    },
+    {
+        "id": 617,
+        "sheadNo": "shead_8",
+        "tons": 3,
+        "timestamp": "2025-06-10 19:15:59"
+    },
+    {
+        "id": 616,
+        "sheadNo": "shead_7",
+        "tons": 2,
+        "timestamp": "2025-06-10 19:15:51"
+    },
+    {
+        "id": 615,
+        "sheadNo": "shead_5",
+        "tons": 2,
+        "timestamp": "2025-06-10 19:15:44"
+    },
+    {
+        "id": 614,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-06-10 19:15:40"
+    },
+    {
+        "id": 613,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-06-10 19:15:35"
+    },
+    {
+        "id": 612,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-06-10 19:15:30"
+    },
+    {
+        "id": 611,
+        "sheadNo": "shead_1",
+        "tons": 3,
+        "timestamp": "2025-06-10 19:15:23"
+    },
+    {
+        "id": 610,
+        "sheadNo": "shead_7",
+        "tons": 3,
+        "timestamp": "2025-06-09 18:07:08"
+    },
+    {
+        "id": 609,
+        "sheadNo": "shead_5",
+        "tons": 3,
+        "timestamp": "2025-06-09 18:07:00"
+    },
+    {
+        "id": 608,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-06-09 18:06:54"
+    },
+    {
+        "id": 607,
+        "sheadNo": "shead_3",
+        "tons": 3,
+        "timestamp": "2025-06-09 18:06:45"
+    },
+    {
+        "id": 606,
+        "sheadNo": "shead_2",
+        "tons": 3,
+        "timestamp": "2025-06-09 18:06:40"
+    },
+    {
+        "id": 605,
+        "sheadNo": "shead_1",
+        "tons": 3,
+        "timestamp": "2025-06-09 18:06:33"
+    },
+    {
+        "id": 604,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-06-08 17:47:18"
+    },
+    {
+        "id": 603,
+        "sheadNo": "shead_7",
+        "tons": 4,
+        "timestamp": "2025-06-08 17:47:11"
+    },
+    {
+        "id": 602,
+        "sheadNo": "shead_5",
+        "tons": 5,
+        "timestamp": "2025-06-08 17:46:51"
+    },
+    {
+        "id": 601,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-06-08 17:46:44"
+    },
+    {
+        "id": 600,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-06-08 17:46:38"
+    },
+    {
+        "id": 599,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-06-08 17:46:32"
+    },
+    {
+        "id": 598,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-06-08 17:46:27"
+    },
+    {
+        "id": 597,
+        "sheadNo": "chick",
+        "tons": 2,
+        "timestamp": "2025-06-06 19:06:00"
+    },
+    {
+        "id": 596,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-06-06 19:05:53"
+    },
+    {
+        "id": 595,
+        "sheadNo": "shead_7",
+        "tons": 2,
+        "timestamp": "2025-06-06 19:05:41"
+    },
+    {
+        "id": 594,
+        "sheadNo": "shead_6",
+        "tons": 4,
+        "timestamp": "2025-06-06 19:05:28"
+    },
+    {
+        "id": 593,
+        "sheadNo": "shead_5",
+        "tons": 2,
+        "timestamp": "2025-06-06 19:05:21"
+    },
+    {
+        "id": 592,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-06-06 19:05:16"
+    },
+    {
+        "id": 591,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-06-06 19:05:07"
+    },
+    {
+        "id": 590,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-06-06 19:05:02"
+    },
+    {
+        "id": 589,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-06-06 19:04:56"
+    },
+    {
+        "id": 588,
+        "sheadNo": "grower",
+        "tons": 1,
+        "timestamp": "2025-06-05 18:16:17"
+    },
+    {
+        "id": 587,
+        "sheadNo": "chick",
+        "tons": 2,
+        "timestamp": "2025-06-05 18:16:11"
+    },
+    {
+        "id": 586,
+        "sheadNo": "shead_8",
+        "tons": 3,
+        "timestamp": "2025-06-05 18:16:06"
+    },
+    {
+        "id": 585,
+        "sheadNo": "shead_7",
+        "tons": 3,
+        "timestamp": "2025-06-05 18:16:00"
+    },
+    {
+        "id": 584,
+        "sheadNo": "shead_5",
+        "tons": 3,
+        "timestamp": "2025-06-05 18:15:54"
+    },
+    {
+        "id": 583,
+        "sheadNo": "shead_4",
+        "tons": 3,
+        "timestamp": "2025-06-05 18:15:47"
+    },
+    {
+        "id": 582,
+        "sheadNo": "shead_3",
+        "tons": 3,
+        "timestamp": "2025-06-05 18:15:42"
+    },
+    {
+        "id": 581,
+        "sheadNo": "shead_2",
+        "tons": 3,
+        "timestamp": "2025-06-05 18:15:37"
+    },
+    {
+        "id": 580,
+        "sheadNo": "shead_1",
+        "tons": 3,
+        "timestamp": "2025-06-05 18:15:32"
+    },
+    {
+        "id": 579,
+        "sheadNo": "grower",
+        "tons": 2,
+        "timestamp": "2025-06-04 17:34:48"
+    },
+    {
+        "id": 578,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-06-04 17:34:43"
+    },
+    {
+        "id": 577,
+        "sheadNo": "shead_7",
+        "tons": 2,
+        "timestamp": "2025-06-04 17:34:37"
+    },
+    {
+        "id": 576,
+        "sheadNo": "shead_5",
+        "tons": 2,
+        "timestamp": "2025-06-04 17:34:30"
+    },
+    {
+        "id": 575,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-06-04 17:34:25"
+    },
+    {
+        "id": 574,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-06-04 17:34:20"
+    },
+    {
+        "id": 573,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-06-04 17:34:14"
+    },
+    {
+        "id": 572,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-06-04 17:34:08"
+    },
+    {
+        "id": 571,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-06-03 16:54:32"
+    },
+    {
+        "id": 570,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-06-03 16:54:24"
+    },
+    {
+        "id": 569,
+        "sheadNo": "shead_3",
+        "tons": 4,
+        "timestamp": "2025-06-03 16:54:17"
+    },
+    {
+        "id": 568,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-06-03 16:54:11"
+    },
+    {
+        "id": 567,
+        "sheadNo": "shead_5",
+        "tons": 2,
+        "timestamp": "2025-06-03 16:54:06"
+    },
+    {
+        "id": 566,
+        "sheadNo": "shead_8",
+        "tons": 3,
+        "timestamp": "2025-06-03 16:53:29"
+    },
+    {
+        "id": 565,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-06-02 17:35:02"
+    },
+    {
+        "id": 564,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-06-02 17:34:58"
+    },
+    {
+        "id": 563,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-06-02 17:34:40"
+    },
+    {
+        "id": 562,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-06-02 17:34:34"
+    },
+    {
+        "id": 561,
+        "sheadNo": "shead_5",
+        "tons": 2,
+        "timestamp": "2025-06-02 17:34:25"
+    },
+    {
+        "id": 560,
+        "sheadNo": "shead_7",
+        "tons": 2,
+        "timestamp": "2025-06-02 17:34:19"
+    },
+    {
+        "id": 559,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-06-02 17:34:12"
+    },
+    {
+        "id": 558,
+        "sheadNo": "chick",
+        "tons": 2,
+        "timestamp": "2025-06-02 17:34:01"
+    },
+    {
+        "id": 557,
+        "sheadNo": "grower",
+        "tons": 4,
+        "timestamp": "2025-06-02 17:33:49"
+    },
+    {
+        "id": 556,
+        "sheadNo": "shead_1",
+        "tons": 3,
+        "timestamp": "2025-06-01 17:38:12"
+    },
+    {
+        "id": 555,
+        "sheadNo": "shead_2",
+        "tons": 3,
+        "timestamp": "2025-06-01 17:38:05"
+    },
+    {
+        "id": 554,
+        "sheadNo": "shead_3",
+        "tons": 3,
+        "timestamp": "2025-06-01 17:38:00"
+    },
+    {
+        "id": 553,
+        "sheadNo": "shead_4",
+        "tons": 3,
+        "timestamp": "2025-06-01 17:37:54"
+    },
+    {
+        "id": 552,
+        "sheadNo": "shead_5",
+        "tons": 3,
+        "timestamp": "2025-06-01 17:37:47"
+    },
+    {
+        "id": 551,
+        "sheadNo": "shead_8",
+        "tons": 4,
+        "timestamp": "2025-06-01 17:37:31"
+    },
+    {
+        "id": 550,
+        "sheadNo": "grower",
+        "tons": 2,
+        "timestamp": "2025-05-31 17:20:28"
+    },
+    {
+        "id": 549,
+        "sheadNo": "shead_8",
+        "tons": 3,
+        "timestamp": "2025-05-31 17:20:23"
+    },
+    {
+        "id": 548,
+        "sheadNo": "shead_7",
+        "tons": 2,
+        "timestamp": "2025-05-31 17:20:16"
+    },
+    {
+        "id": 547,
+        "sheadNo": "shead_5",
+        "tons": 3,
+        "timestamp": "2025-05-31 17:20:09"
+    },
+    {
+        "id": 546,
+        "sheadNo": "shead_4",
+        "tons": 3,
+        "timestamp": "2025-05-31 17:20:02"
+    },
+    {
+        "id": 545,
+        "sheadNo": "shead_3",
+        "tons": 4,
+        "timestamp": "2025-05-31 17:19:55"
+    },
+    {
+        "id": 544,
+        "sheadNo": "shead_2",
+        "tons": 3,
+        "timestamp": "2025-05-31 17:19:50"
+    },
+    {
+        "id": 543,
+        "sheadNo": "shead_1",
+        "tons": 3,
+        "timestamp": "2025-05-31 17:19:45"
+    },
+    {
+        "id": 542,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-05-30 17:51:12"
+    },
+    {
+        "id": 541,
+        "sheadNo": "shead_8",
+        "tons": 3,
+        "timestamp": "2025-05-30 16:05:26"
+    },
+    {
+        "id": 540,
+        "sheadNo": "shead_7",
+        "tons": 3,
+        "timestamp": "2025-05-30 16:05:19"
+    },
+    {
+        "id": 539,
+        "sheadNo": "shead_5",
+        "tons": 4,
+        "timestamp": "2025-05-30 16:05:10"
+    },
+    {
+        "id": 538,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-05-30 16:05:01"
+    },
+    {
+        "id": 537,
+        "sheadNo": "shead_1",
+        "tons": 3,
+        "timestamp": "2025-05-30 16:04:57"
+    },
+    {
+        "id": 536,
+        "sheadNo": "shead_8",
+        "tons": 3,
+        "timestamp": "2025-05-28 16:14:18"
+    },
+    {
+        "id": 535,
+        "sheadNo": "shead_7",
+        "tons": 3,
+        "timestamp": "2025-05-28 16:14:11"
+    },
+    {
+        "id": 534,
+        "sheadNo": "shead_5",
+        "tons": 3,
+        "timestamp": "2025-05-28 16:14:04"
+    },
+    {
+        "id": 533,
+        "sheadNo": "shead_4",
+        "tons": 3,
+        "timestamp": "2025-05-28 16:13:59"
+    },
+    {
+        "id": 532,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-05-28 16:13:45"
+    },
+    {
+        "id": 531,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-05-28 16:13:39"
+    },
+    {
+        "id": 530,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-05-28 16:13:31"
+    },
+    {
+        "id": 529,
+        "sheadNo": "shead_5",
+        "tons": 2,
+        "timestamp": "2025-05-27 17:57:26"
+    },
+    {
+        "id": 528,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-05-27 17:57:21"
+    },
+    {
+        "id": 527,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-05-27 17:57:14"
+    },
+    {
+        "id": 526,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-05-27 17:57:09"
+    },
+    {
+        "id": 525,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-05-27 17:57:04"
+    },
+    {
+        "id": 524,
+        "sheadNo": "shead_8",
+        "tons": 1,
+        "timestamp": "2025-05-26 16:30:34"
+    },
+    {
+        "id": 523,
+        "sheadNo": "shead_5",
+        "tons": 2,
+        "timestamp": "2025-05-26 16:30:26"
+    },
+    {
+        "id": 522,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-05-26 16:30:21"
+    },
+    {
+        "id": 521,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-05-26 16:30:15"
+    },
+    {
+        "id": 520,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-05-26 16:30:10"
+    },
+    {
+        "id": 519,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-05-26 16:30:04"
+    },
+    {
+        "id": 512,
+        "sheadNo": "grower",
+        "tons": 3,
+        "timestamp": "2025-05-25 18:40:07"
+    },
+    {
+        "id": 511,
+        "sheadNo": "chick",
+        "tons": 2,
+        "timestamp": "2025-05-25 18:40:02"
+    },
+    {
+        "id": 510,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-05-25 18:39:56"
+    },
+    {
+        "id": 509,
+        "sheadNo": "shead_7",
+        "tons": 2,
+        "timestamp": "2025-05-25 18:39:51"
+    },
+    {
+        "id": 508,
+        "sheadNo": "shead_5",
+        "tons": 2,
+        "timestamp": "2025-05-25 18:39:44"
+    },
+    {
+        "id": 507,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-05-25 18:39:39"
+    },
+    {
+        "id": 506,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-05-25 18:39:34"
+    },
+    {
+        "id": 505,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-05-25 18:39:29"
+    },
+    {
+        "id": 504,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-05-25 18:39:24"
+    },
+    {
+        "id": 503,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-05-24 16:51:36"
+    },
+    {
+        "id": 502,
+        "sheadNo": "shead_7",
+        "tons": 2,
+        "timestamp": "2025-05-24 16:51:31"
+    },
+    {
+        "id": 501,
+        "sheadNo": "shead_5",
+        "tons": 2,
+        "timestamp": "2025-05-24 16:51:25"
+    },
+    {
+        "id": 500,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-05-24 16:51:21"
+    },
+    {
+        "id": 499,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-05-24 16:51:16"
+    },
+    {
+        "id": 498,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-05-24 16:51:12"
+    },
+    {
+        "id": 497,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-05-24 16:51:07"
+    },
+    {
+        "id": 496,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-05-23 17:37:08"
+    },
+    {
+        "id": 495,
+        "sheadNo": "shead_7",
+        "tons": 2,
+        "timestamp": "2025-05-23 17:37:01"
+    },
+    {
+        "id": 494,
+        "sheadNo": "shead_3",
+        "tons": 4,
+        "timestamp": "2025-05-23 17:31:17"
+    },
+    {
+        "id": 493,
+        "sheadNo": "shead_4",
+        "tons": 3,
+        "timestamp": "2025-05-23 17:31:05"
+    },
+    {
+        "id": 492,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-05-23 17:30:48"
+    },
+    {
+        "id": 491,
+        "sheadNo": "grower",
+        "tons": 4,
+        "timestamp": "2025-05-23 17:30:38"
+    },
+    {
+        "id": 490,
+        "sheadNo": "shead_1",
+        "tons": 1,
+        "timestamp": "2025-05-23 17:30:30"
+    },
+    {
+        "id": 489,
+        "sheadNo": "shead_5",
+        "tons": 2,
+        "timestamp": "2025-05-23 17:30:19"
+    },
+    {
+        "id": 486,
+        "sheadNo": "Shead 8",
+        "tons": 4,
+        "timestamp": "2025-05-22 16:39:46"
+    },
+    {
+        "id": 485,
+        "sheadNo": "Shead 7",
+        "tons": 2,
+        "timestamp": "2025-05-22 16:39:40"
+    },
+    {
+        "id": 484,
+        "sheadNo": "Shead 5",
+        "tons": 2,
+        "timestamp": "2025-05-22 16:39:33"
+    },
+    {
+        "id": 483,
+        "sheadNo": "Shead 2",
+        "tons": 2,
+        "timestamp": "2025-05-22 16:39:17"
+    },
+    {
+        "id": 482,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-05-22 16:39:10"
+    },
+    {
+        "id": 481,
+        "sheadNo": "Chick",
+        "tons": 2,
+        "timestamp": "2025-05-21 18:12:41"
+    },
+    {
+        "id": 480,
+        "sheadNo": "Shead 8",
+        "tons": 2,
+        "timestamp": "2025-05-21 18:12:36"
+    },
+    {
+        "id": 479,
+        "sheadNo": "Shead 7",
+        "tons": 2,
+        "timestamp": "2025-05-21 18:12:29"
+    },
+    {
+        "id": 478,
+        "sheadNo": "Shead 5",
+        "tons": 3,
+        "timestamp": "2025-05-21 18:12:21"
+    },
+    {
+        "id": 477,
+        "sheadNo": "Shead 4",
+        "tons": 3,
+        "timestamp": "2025-05-21 18:12:14"
+    },
+    {
+        "id": 476,
+        "sheadNo": "Shead 3",
+        "tons": 2,
+        "timestamp": "2025-05-21 18:12:09"
+    },
+    {
+        "id": 475,
+        "sheadNo": "Shead 2",
+        "tons": 3,
+        "timestamp": "2025-05-21 18:12:04"
+    },
+    {
+        "id": 474,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-05-21 18:12:00"
+    },
+    {
+        "id": 473,
+        "sheadNo": "Shead 5",
+        "tons": 1,
+        "timestamp": "2025-05-20 18:04:24"
+    },
+    {
+        "id": 472,
+        "sheadNo": "Shead 4",
+        "tons": 5,
+        "timestamp": "2025-05-20 18:03:27"
+    },
+    {
+        "id": 471,
+        "sheadNo": "Shead 1",
+        "tons": 3,
+        "timestamp": "2025-05-20 18:03:11"
+    },
+    {
+        "id": 470,
+        "sheadNo": "Shead 2",
+        "tons": 2,
+        "timestamp": "2025-05-20 18:03:01"
+    },
+    {
+        "id": 469,
+        "sheadNo": "Shead 3",
+        "tons": 1,
+        "timestamp": "2025-05-20 18:02:36"
+    },
+    {
+        "id": 468,
+        "sheadNo": "Shead 3",
+        "tons": 3,
+        "timestamp": "2025-05-20 18:02:20"
+    },
+    {
+        "id": 467,
+        "sheadNo": "Shead 7",
+        "tons": 2,
+        "timestamp": "2025-05-20 18:02:07"
+    },
+    {
+        "id": 466,
+        "sheadNo": "Shead 8",
+        "tons": 2,
+        "timestamp": "2025-05-20 18:02:01"
+    },
+    {
+        "id": 465,
+        "sheadNo": "Grower",
+        "tons": 2,
+        "timestamp": "2025-05-20 18:01:52"
+    },
+    {
+        "id": 464,
+        "sheadNo": "Shead 7",
+        "tons": 1,
+        "timestamp": "2025-05-19 18:24:11"
+    },
+    {
+        "id": 463,
+        "sheadNo": "Grower",
+        "tons": 2,
+        "timestamp": "2025-05-19 18:12:41"
+    },
+    {
+        "id": 462,
+        "sheadNo": "Shead 8",
+        "tons": 3,
+        "timestamp": "2025-05-19 18:12:22"
+    },
+    {
+        "id": 461,
+        "sheadNo": "Shead 7",
+        "tons": 3,
+        "timestamp": "2025-05-19 18:12:13"
+    },
+    {
+        "id": 460,
+        "sheadNo": "Shead 5",
+        "tons": 3,
+        "timestamp": "2025-05-19 18:12:03"
+    },
+    {
+        "id": 459,
+        "sheadNo": "Shead 3",
+        "tons": 3,
+        "timestamp": "2025-05-19 18:11:49"
+    },
+    {
+        "id": 458,
+        "sheadNo": "Shead 2",
+        "tons": 3,
+        "timestamp": "2025-05-19 18:11:43"
+    },
+    {
+        "id": 457,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-05-19 18:11:39"
+    },
+    {
+        "id": 456,
+        "sheadNo": "Shead 8",
+        "tons": 3,
+        "timestamp": "2025-05-18 18:20:43"
+    },
+    {
+        "id": 455,
+        "sheadNo": "Shead 7",
+        "tons": 1,
+        "timestamp": "2025-05-18 18:20:34"
+    },
+    {
+        "id": 454,
+        "sheadNo": "Shead 5",
+        "tons": 3,
+        "timestamp": "2025-05-18 18:20:20"
+    },
+    {
+        "id": 453,
+        "sheadNo": "Shead 4",
+        "tons": 3,
+        "timestamp": "2025-05-18 18:20:12"
+    },
+    {
+        "id": 452,
+        "sheadNo": "Shead 3",
+        "tons": 3,
+        "timestamp": "2025-05-18 18:20:05"
+    },
+    {
+        "id": 451,
+        "sheadNo": "Shead 2",
+        "tons": 2,
+        "timestamp": "2025-05-18 18:19:59"
+    },
+    {
+        "id": 450,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-05-18 18:19:55"
+    },
+    {
+        "id": 449,
+        "sheadNo": "Shead 7",
+        "tons": 2,
+        "timestamp": "2025-05-17 17:28:53"
+    },
+    {
+        "id": 448,
+        "sheadNo": "Shead 5",
+        "tons": 2,
+        "timestamp": "2025-05-17 17:28:48"
+    },
+    {
+        "id": 447,
+        "sheadNo": "Shead 3",
+        "tons": 3,
+        "timestamp": "2025-05-17 17:28:41"
+    },
+    {
+        "id": 446,
+        "sheadNo": "Shead 2",
+        "tons": 1,
+        "timestamp": "2025-05-17 17:28:37"
+    },
+    {
+        "id": 445,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-05-17 17:28:31"
+    },
+    {
+        "id": 444,
+        "sheadNo": "Chick",
+        "tons": 1,
+        "timestamp": "2025-05-16 19:23:24"
+    },
+    {
+        "id": 443,
+        "sheadNo": "Shead 8",
+        "tons": 3,
+        "timestamp": "2025-05-16 19:23:18"
+    },
+    {
+        "id": 442,
+        "sheadNo": "Shead 7",
+        "tons": 3,
+        "timestamp": "2025-05-16 19:23:10"
+    },
+    {
+        "id": 441,
+        "sheadNo": "Shead 5",
+        "tons": 3,
+        "timestamp": "2025-05-16 19:23:03"
+    },
+    {
+        "id": 440,
+        "sheadNo": "Shead 4",
+        "tons": 3,
+        "timestamp": "2025-05-16 19:22:52"
+    },
+    {
+        "id": 439,
+        "sheadNo": "Shead 3",
+        "tons": 3,
+        "timestamp": "2025-05-16 19:22:45"
+    },
+    {
+        "id": 438,
+        "sheadNo": "Shead 2",
+        "tons": 3,
+        "timestamp": "2025-05-16 19:22:40"
+    },
+    {
+        "id": 437,
+        "sheadNo": "Shead 1",
+        "tons": 3,
+        "timestamp": "2025-05-16 19:22:34"
+    },
+    {
+        "id": 436,
+        "sheadNo": "Grower",
+        "tons": 2,
+        "timestamp": "2025-05-14 18:24:48"
+    },
+    {
+        "id": 435,
+        "sheadNo": "Shead 8",
+        "tons": 2,
+        "timestamp": "2025-05-14 18:24:42"
+    },
+    {
+        "id": 434,
+        "sheadNo": "Shead 5",
+        "tons": 2,
+        "timestamp": "2025-05-14 18:24:31"
+    },
+    {
+        "id": 433,
+        "sheadNo": "Shead 4",
+        "tons": 3,
+        "timestamp": "2025-05-14 18:24:26"
+    },
+    {
+        "id": 432,
+        "sheadNo": "Shead 3",
+        "tons": 3,
+        "timestamp": "2025-05-14 18:24:21"
+    },
+    {
+        "id": 431,
+        "sheadNo": "Shead 2",
+        "tons": 3,
+        "timestamp": "2025-05-14 18:24:16"
+    },
+    {
+        "id": 430,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-05-14 18:24:11"
+    },
+    {
+        "id": 429,
+        "sheadNo": "Grower",
+        "tons": 2,
+        "timestamp": "2025-05-12 09:28:01"
+    },
+    {
+        "id": 428,
+        "sheadNo": "Shead 8",
+        "tons": 2,
+        "timestamp": "2025-05-12 09:28:01"
+    },
+    {
+        "id": 427,
+        "sheadNo": "Shead 5",
+        "tons": 2,
+        "timestamp": "2025-05-12 09:28:01"
+    },
+    {
+        "id": 426,
+        "sheadNo": "Shead 4",
+        "tons": 2,
+        "timestamp": "2025-05-12 09:28:01"
+    },
+    {
+        "id": 425,
+        "sheadNo": "Shead 3",
+        "tons": 2,
+        "timestamp": "2025-05-12 09:28:01"
+    },
+    {
+        "id": 424,
+        "sheadNo": "Shead 2",
+        "tons": 2,
+        "timestamp": "2025-05-12 09:28:01"
+    },
+    {
+        "id": 423,
+        "sheadNo": "Shead 1",
+        "tons": 5,
+        "timestamp": "2025-05-12 09:28:01"
+    },
+    {
+        "id": 422,
+        "sheadNo": "Shead 8",
+        "tons": 3,
+        "timestamp": "2025-05-11 19:13:25"
+    },
+    {
+        "id": 421,
+        "sheadNo": "Shead 7",
+        "tons": 2,
+        "timestamp": "2025-05-11 19:13:18"
+    },
+    {
+        "id": 420,
+        "sheadNo": "Shead 5",
+        "tons": 3,
+        "timestamp": "2025-05-11 19:13:12"
+    },
+    {
+        "id": 419,
+        "sheadNo": "Shead 4",
+        "tons": 3,
+        "timestamp": "2025-05-11 19:13:06"
+    },
+    {
+        "id": 418,
+        "sheadNo": "Shead 3",
+        "tons": 3,
+        "timestamp": "2025-05-11 19:13:02"
+    },
+    {
+        "id": 417,
+        "sheadNo": "Shead 2",
+        "tons": 4,
+        "timestamp": "2025-05-11 19:12:56"
+    },
+    {
+        "id": 416,
+        "sheadNo": "Grower",
+        "tons": 2,
+        "timestamp": "2025-05-10 18:23:55"
+    },
+    {
+        "id": 415,
+        "sheadNo": "Shead 8",
+        "tons": 3,
+        "timestamp": "2025-05-10 18:23:46"
+    },
+    {
+        "id": 414,
+        "sheadNo": "Shead 5",
+        "tons": 3,
+        "timestamp": "2025-05-10 18:23:38"
+    },
+    {
+        "id": 413,
+        "sheadNo": "Shead 4",
+        "tons": 2,
+        "timestamp": "2025-05-10 18:23:30"
+    },
+    {
+        "id": 412,
+        "sheadNo": "Shead 3",
+        "tons": 2,
+        "timestamp": "2025-05-10 18:23:21"
+    },
+    {
+        "id": 411,
+        "sheadNo": "Shead 2",
+        "tons": 3,
+        "timestamp": "2025-05-10 18:23:14"
+    },
+    {
+        "id": 410,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-05-10 18:23:08"
+    },
+    {
+        "id": 409,
+        "sheadNo": "Chick",
+        "tons": 2,
+        "timestamp": "2025-05-09 16:54:42"
+    },
+    {
+        "id": 408,
+        "sheadNo": "Shead 8",
+        "tons": 3,
+        "timestamp": "2025-05-09 16:54:36"
+    },
+    {
+        "id": 407,
+        "sheadNo": "Shead 7",
+        "tons": 2,
+        "timestamp": "2025-05-09 16:54:24"
+    },
+    {
+        "id": 406,
+        "sheadNo": "Shead 5",
+        "tons": 3,
+        "timestamp": "2025-05-09 16:54:17"
+    },
+    {
+        "id": 405,
+        "sheadNo": "Shead 4",
+        "tons": 3,
+        "timestamp": "2025-05-09 16:54:12"
+    },
+    {
+        "id": 404,
+        "sheadNo": "Shead 3",
+        "tons": 3,
+        "timestamp": "2025-05-09 16:54:05"
+    },
+    {
+        "id": 403,
+        "sheadNo": "Shead 1",
+        "tons": 3,
+        "timestamp": "2025-05-09 16:53:41"
+    },
+    {
+        "id": 402,
+        "sheadNo": "Shead 8",
+        "tons": 2,
+        "timestamp": "2025-05-07 17:33:23"
+    },
+    {
+        "id": 401,
+        "sheadNo": "Shead 5",
+        "tons": 2,
+        "timestamp": "2025-05-07 17:33:16"
+    },
+    {
+        "id": 400,
+        "sheadNo": "Shead 4",
+        "tons": 2,
+        "timestamp": "2025-05-07 17:33:06"
+    },
+    {
+        "id": 399,
+        "sheadNo": "Shead 3",
+        "tons": 2,
+        "timestamp": "2025-05-07 17:33:01"
+    },
+    {
+        "id": 398,
+        "sheadNo": "Shead 2",
+        "tons": 2,
+        "timestamp": "2025-05-07 17:32:57"
+    },
+    {
+        "id": 397,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-05-07 17:32:52"
+    },
+    {
+        "id": 396,
+        "sheadNo": "Grower",
+        "tons": 2,
+        "timestamp": "2025-05-06 18:42:18"
+    },
+    {
+        "id": 395,
+        "sheadNo": "Shead 8",
+        "tons": 2,
+        "timestamp": "2025-05-06 18:42:09"
+    },
+    {
+        "id": 394,
+        "sheadNo": "Shead 5",
+        "tons": 2,
+        "timestamp": "2025-05-06 18:42:00"
+    },
+    {
+        "id": 393,
+        "sheadNo": "Shead 4",
+        "tons": 5,
+        "timestamp": "2025-05-06 18:41:47"
+    },
+    {
+        "id": 392,
+        "sheadNo": "Shead 3",
+        "tons": 2,
+        "timestamp": "2025-05-06 18:41:39"
+    },
+    {
+        "id": 391,
+        "sheadNo": "Shead 2",
+        "tons": 2,
+        "timestamp": "2025-05-06 18:41:33"
+    },
+    {
+        "id": 390,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-05-06 18:41:28"
+    },
+    {
+        "id": 389,
+        "sheadNo": "Shead 8",
+        "tons": 1,
+        "timestamp": "2025-05-05 18:22:13"
+    },
+    {
+        "id": 388,
+        "sheadNo": "Shead 5",
+        "tons": 2,
+        "timestamp": "2025-05-05 18:22:03"
+    },
+    {
+        "id": 387,
+        "sheadNo": "Shead 3",
+        "tons": 2,
+        "timestamp": "2025-05-05 18:21:46"
+    },
+    {
+        "id": 386,
+        "sheadNo": "Shead 2",
+        "tons": 2,
+        "timestamp": "2025-05-05 18:21:40"
+    },
+    {
+        "id": 385,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-05-05 18:21:33"
+    },
+    {
+        "id": 384,
+        "sheadNo": "Shead 2",
+        "tons": 2,
+        "timestamp": "2025-05-04 17:27:42"
+    },
+    {
+        "id": 383,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-05-04 17:27:37"
+    },
+    {
+        "id": 382,
+        "sheadNo": "Shead 8",
+        "tons": 3,
+        "timestamp": "2025-05-04 17:25:42"
+    },
+    {
+        "id": 381,
+        "sheadNo": "Shead 7",
+        "tons": 2,
+        "timestamp": "2025-05-04 17:25:37"
+    },
+    {
+        "id": 380,
+        "sheadNo": "Shead 5",
+        "tons": 3,
+        "timestamp": "2025-05-04 17:25:32"
+    },
+    {
+        "id": 379,
+        "sheadNo": "Shead 4",
+        "tons": 3,
+        "timestamp": "2025-05-04 17:27:28"
+    },
+    {
+        "id": 378,
+        "sheadNo": "Shead 3",
+        "tons": 3,
+        "timestamp": "2025-05-04 17:25:20"
+    },
+    {
+        "id": 377,
+        "sheadNo": "Grower",
+        "tons": 2,
+        "timestamp": "2025-05-04 17:25:15"
+    },
+    {
+        "id": 376,
+        "sheadNo": "Shead 3",
+        "tons": 3,
+        "timestamp": "2025-05-03 18:34:56"
+    },
+    {
+        "id": 375,
+        "sheadNo": "Shead 2",
+        "tons": 2,
+        "timestamp": "2025-05-03 18:34:51"
+    },
+    {
+        "id": 374,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-05-03 18:34:46"
+    },
+    {
+        "id": 373,
+        "sheadNo": "Shead 8",
+        "tons": 2,
+        "timestamp": "2025-05-02 18:05:25"
+    },
+    {
+        "id": 372,
+        "sheadNo": "Shead 7",
+        "tons": 2,
+        "timestamp": "2025-05-02 17:57:11"
+    },
+    {
+        "id": 371,
+        "sheadNo": "Shead 5",
+        "tons": 2,
+        "timestamp": "2025-05-02 17:57:05"
+    },
+    {
+        "id": 370,
+        "sheadNo": "Shead 4",
+        "tons": 2,
+        "timestamp": "2025-05-02 17:56:58"
+    },
+    {
+        "id": 369,
+        "sheadNo": "Shead 3",
+        "tons": 2,
+        "timestamp": "2025-05-02 17:56:43"
+    },
+    {
+        "id": 368,
+        "sheadNo": "Shead 2",
+        "tons": 2,
+        "timestamp": "2025-05-02 17:56:36"
+    },
+    {
+        "id": 367,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-05-02 17:56:32"
+    },
+    {
+        "id": 366,
+        "sheadNo": "Grower",
+        "tons": 2,
+        "timestamp": "2025-05-01 16:48:37"
+    },
+    {
+        "id": 365,
+        "sheadNo": "Shead 8",
+        "tons": 2,
+        "timestamp": "2025-05-01 16:48:21"
+    },
+    {
+        "id": 364,
+        "sheadNo": "Shead 5",
+        "tons": 2,
+        "timestamp": "2025-05-01 16:48:01"
+    },
+    {
+        "id": 363,
+        "sheadNo": "Shead 4",
+        "tons": 2,
+        "timestamp": "2025-05-01 16:47:46"
+    },
+    {
+        "id": 362,
+        "sheadNo": "Shead 3",
+        "tons": 2,
+        "timestamp": "2025-05-01 16:47:34"
+    },
+    {
+        "id": 361,
+        "sheadNo": "Shead 2",
+        "tons": 2,
+        "timestamp": "2025-05-01 16:47:16"
+    },
+    {
+        "id": 360,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-05-01 16:47:11"
+    },
+    {
+        "id": 359,
+        "sheadNo": "Grower",
+        "tons": 4,
+        "timestamp": "2025-04-30 18:14:12"
+    },
+    {
+        "id": 358,
+        "sheadNo": "Shead 8",
+        "tons": 2,
+        "timestamp": "2025-04-30 18:14:04"
+    },
+    {
+        "id": 357,
+        "sheadNo": "Shead 7",
+        "tons": 2,
+        "timestamp": "2025-04-30 18:13:58"
+    },
+    {
+        "id": 356,
+        "sheadNo": "Shead 5",
+        "tons": 2,
+        "timestamp": "2025-04-30 18:13:52"
+    },
+    {
+        "id": 355,
+        "sheadNo": "Shead 4",
+        "tons": 2,
+        "timestamp": "2025-04-30 18:13:46"
+    },
+    {
+        "id": 354,
+        "sheadNo": "Shead 3",
+        "tons": 2,
+        "timestamp": "2025-04-30 18:13:41"
+    },
+    {
+        "id": 353,
+        "sheadNo": "Shead 2",
+        "tons": 2,
+        "timestamp": "2025-04-30 18:13:31"
+    },
+    {
+        "id": 352,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-04-30 18:13:24"
+    },
+    {
+        "id": 351,
+        "sheadNo": "Chick",
+        "tons": 1,
+        "timestamp": "2025-04-29 18:07:52"
+    },
+    {
+        "id": 350,
+        "sheadNo": "Shead 8",
+        "tons": 2,
+        "timestamp": "2025-04-29 18:07:45"
+    },
+    {
+        "id": 349,
+        "sheadNo": "Shead 7",
+        "tons": 4,
+        "timestamp": "2025-04-29 18:07:38"
+    },
+    {
+        "id": 348,
+        "sheadNo": "Shead 5",
+        "tons": 2,
+        "timestamp": "2025-04-29 18:07:30"
+    },
+    {
+        "id": 347,
+        "sheadNo": "Shead 4",
+        "tons": 2,
+        "timestamp": "2025-04-29 18:07:23"
+    },
+    {
+        "id": 346,
+        "sheadNo": "Shead 3",
+        "tons": 2,
+        "timestamp": "2025-04-29 18:07:17"
+    },
+    {
+        "id": 345,
+        "sheadNo": "Shead 2",
+        "tons": 2,
+        "timestamp": "2025-04-29 18:07:12"
+    },
+    {
+        "id": 344,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-04-29 18:07:03"
+    },
+    {
+        "id": 343,
+        "sheadNo": "Shead 8",
+        "tons": 2,
+        "timestamp": "2025-04-28 17:59:46"
+    },
+    {
+        "id": 342,
+        "sheadNo": "Shead 5",
+        "tons": 2,
+        "timestamp": "2025-04-28 17:59:39"
+    },
+    {
+        "id": 341,
+        "sheadNo": "Shead 4",
+        "tons": 2,
+        "timestamp": "2025-04-28 17:59:32"
+    },
+    {
+        "id": 340,
+        "sheadNo": "Shead 3",
+        "tons": 3,
+        "timestamp": "2025-04-28 17:59:27"
+    },
+    {
+        "id": 339,
+        "sheadNo": "Shead 2",
+        "tons": 2,
+        "timestamp": "2025-04-28 17:59:20"
+    },
+    {
+        "id": 338,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-04-28 17:59:14"
+    },
+    {
+        "id": 337,
+        "sheadNo": "Shead 8",
+        "tons": 2,
+        "timestamp": "2025-04-27 17:47:54"
+    },
+    {
+        "id": 336,
+        "sheadNo": "Shead 5",
+        "tons": 2,
+        "timestamp": "2025-04-27 17:47:46"
+    },
+    {
+        "id": 335,
+        "sheadNo": "Shead 2",
+        "tons": 2,
+        "timestamp": "2025-04-27 17:47:39"
+    },
+    {
+        "id": 334,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-04-27 17:47:30"
+    },
+    {
+        "id": 333,
+        "sheadNo": "Shead 8",
+        "tons": 2,
+        "timestamp": "2025-04-26 15:12:12"
+    },
+    {
+        "id": 332,
+        "sheadNo": "Shead 3",
+        "tons": 2,
+        "timestamp": "2025-04-26 14:58:31"
+    },
+    {
+        "id": 331,
+        "sheadNo": "Shead 4",
+        "tons": 2,
+        "timestamp": "2025-04-26 14:58:20"
+    },
+    {
+        "id": 330,
+        "sheadNo": "Shead 2",
+        "tons": 2,
+        "timestamp": "2025-04-26 14:58:10"
+    },
+    {
+        "id": 329,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-04-26 14:58:02"
+    },
+    {
+        "id": 328,
+        "sheadNo": "Shead 7",
+        "tons": 2,
+        "timestamp": "2025-04-25 17:58:25"
+    },
+    {
+        "id": 327,
+        "sheadNo": "Chick",
+        "tons": 2,
+        "timestamp": "2025-04-25 17:57:22"
+    },
+    {
+        "id": 326,
+        "sheadNo": "Shead 5",
+        "tons": 2,
+        "timestamp": "2025-04-25 17:57:11"
+    },
+    {
+        "id": 325,
+        "sheadNo": "Shead 4",
+        "tons": 2,
+        "timestamp": "2025-04-25 17:57:03"
+    },
+    {
+        "id": 324,
+        "sheadNo": "Shead 3",
+        "tons": 3,
+        "timestamp": "2025-04-25 17:56:57"
+    },
+    {
+        "id": 323,
+        "sheadNo": "Shead 2",
+        "tons": 2,
+        "timestamp": "2025-04-25 17:56:48"
+    },
+    {
+        "id": 322,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-04-25 17:56:43"
+    },
+    {
+        "id": 321,
+        "sheadNo": "Shead 8",
+        "tons": 2,
+        "timestamp": "2025-04-24 17:06:22"
+    },
+    {
+        "id": 320,
+        "sheadNo": "Shead 5",
+        "tons": 2,
+        "timestamp": "2025-04-24 17:06:13"
+    },
+    {
+        "id": 319,
+        "sheadNo": "Shead 4",
+        "tons": 2,
+        "timestamp": "2025-04-24 17:06:08"
+    },
+    {
+        "id": 318,
+        "sheadNo": "Shead 3",
+        "tons": 2,
+        "timestamp": "2025-04-24 17:06:00"
+    },
+    {
+        "id": 317,
+        "sheadNo": "Shead 2",
+        "tons": 2,
+        "timestamp": "2025-04-24 17:05:52"
+    },
+    {
+        "id": 316,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-04-24 17:05:46"
+    },
+    {
+        "id": 315,
+        "sheadNo": "Shead 8",
+        "tons": 3,
+        "timestamp": "2025-04-23 17:54:11"
+    },
+    {
+        "id": 314,
+        "sheadNo": "Shead 4",
+        "tons": 3,
+        "timestamp": "2025-04-23 17:54:03"
+    },
+    {
+        "id": 313,
+        "sheadNo": "Shead 3",
+        "tons": 3,
+        "timestamp": "2025-04-23 17:53:57"
+    },
+    {
+        "id": 312,
+        "sheadNo": "Shead 2",
+        "tons": 3,
+        "timestamp": "2025-04-23 17:53:52"
+    },
+    {
+        "id": 311,
+        "sheadNo": "Shead 1",
+        "tons": 3,
+        "timestamp": "2025-04-23 17:53:46"
+    },
+    {
+        "id": 310,
+        "sheadNo": "Shead 8",
+        "tons": 4,
+        "timestamp": "2025-04-22 18:40:09"
+    },
+    {
+        "id": 309,
+        "sheadNo": "Shead 7",
+        "tons": 3,
+        "timestamp": "2025-04-22 18:39:59"
+    },
+    {
+        "id": 308,
+        "sheadNo": "Shead 5",
+        "tons": 4,
+        "timestamp": "2025-04-22 18:39:48"
+    },
+    {
+        "id": 307,
+        "sheadNo": "Shead 4",
+        "tons": 2,
+        "timestamp": "2025-04-22 18:39:41"
+    },
+    {
+        "id": 306,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-04-22 18:39:34"
+    },
+    {
+        "id": 305,
+        "sheadNo": "Shead 5",
+        "tons": 3,
+        "timestamp": "2025-04-21 18:14:33"
+    },
+    {
+        "id": 304,
+        "sheadNo": "Shead 4",
+        "tons": 3,
+        "timestamp": "2025-04-21 18:14:26"
+    },
+    {
+        "id": 303,
+        "sheadNo": "Shead 3",
+        "tons": 3,
+        "timestamp": "2025-04-21 18:14:19"
+    },
+    {
+        "id": 302,
+        "sheadNo": "Shead 2",
+        "tons": 3,
+        "timestamp": "2025-04-21 18:14:14"
+    },
+    {
+        "id": 301,
+        "sheadNo": "Shead 1",
+        "tons": 3,
+        "timestamp": "2025-04-21 18:14:07"
+    },
+    {
+        "id": 300,
+        "sheadNo": "Chick",
+        "tons": 2,
+        "timestamp": "2025-04-20 21:06:39"
+    },
+    {
+        "id": 299,
+        "sheadNo": "Shead 8",
+        "tons": 3,
+        "timestamp": "2025-04-20 21:06:32"
+    },
+    {
+        "id": 298,
+        "sheadNo": "Shead 2",
+        "tons": 2,
+        "timestamp": "2025-04-20 21:06:18"
+    },
+    {
+        "id": 297,
+        "sheadNo": "Shead 3",
+        "tons": 2,
+        "timestamp": "2025-04-19 18:29:39"
+    },
+    {
+        "id": 296,
+        "sheadNo": "Shead 4",
+        "tons": 3,
+        "timestamp": "2025-04-19 18:29:27"
+    },
+    {
+        "id": 295,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-04-19 18:29:21"
+    },
+    {
+        "id": 294,
+        "sheadNo": "Shead 7",
+        "tons": 4,
+        "timestamp": "2025-04-18 16:18:29"
+    },
+    {
+        "id": 293,
+        "sheadNo": "Shead 8",
+        "tons": 2,
+        "timestamp": "2025-04-18 15:22:24"
+    },
+    {
+        "id": 292,
+        "sheadNo": "Shead 5",
+        "tons": 2,
+        "timestamp": "2025-04-18 15:22:12"
+    },
+    {
+        "id": 291,
+        "sheadNo": "Shead 3",
+        "tons": 2,
+        "timestamp": "2025-04-18 15:22:03"
+    },
+    {
+        "id": 290,
+        "sheadNo": "Shead 1",
+        "tons": 1,
+        "timestamp": "2025-04-18 15:21:43"
+    },
+    {
+        "id": 289,
+        "sheadNo": "Chick",
+        "tons": 2,
+        "timestamp": "2025-04-17 12:41:47"
+    },
+    {
+        "id": 288,
+        "sheadNo": "Shead 8",
+        "tons": 4,
+        "timestamp": "2025-04-17 12:41:08"
+    },
+    {
+        "id": 287,
+        "sheadNo": "Shead 5",
+        "tons": 4,
+        "timestamp": "2025-04-17 12:41:02"
+    },
+    {
+        "id": 286,
+        "sheadNo": "Shead 4",
+        "tons": 3,
+        "timestamp": "2025-04-17 12:40:43"
+    },
+    {
+        "id": 285,
+        "sheadNo": "Shead 3",
+        "tons": 3,
+        "timestamp": "2025-04-17 12:40:38"
+    },
+    {
+        "id": 284,
+        "sheadNo": "Shead 2",
+        "tons": 3,
+        "timestamp": "2025-04-17 12:40:33"
+    },
+    {
+        "id": 283,
+        "sheadNo": "Shead 1",
+        "tons": 3,
+        "timestamp": "2025-04-17 12:40:27"
+    },
+    {
+        "id": 282,
+        "sheadNo": "Shead 7",
+        "tons": 4,
+        "timestamp": "2025-04-16 18:26:27"
+    },
+    {
+        "id": 281,
+        "sheadNo": "Shead 5",
+        "tons": 2,
+        "timestamp": "2025-04-16 18:25:31"
+    },
+    {
+        "id": 280,
+        "sheadNo": "Shead 4",
+        "tons": 2,
+        "timestamp": "2025-04-16 18:25:21"
+    },
+    {
+        "id": 279,
+        "sheadNo": "Shead 3",
+        "tons": 1,
+        "timestamp": "2025-04-16 18:25:13"
+    },
+    {
+        "id": 278,
+        "sheadNo": "Shead 2",
+        "tons": 2,
+        "timestamp": "2025-04-16 18:25:04"
+    },
+    {
+        "id": 277,
+        "sheadNo": "Shead 1",
+        "tons": 2,
+        "timestamp": "2025-04-16 18:24:40"
+    },
+    {
+        "id": 71,
+        "sheadNo": "shead_8",
+        "tons": 3,
+        "timestamp": "2025-02-14 21:38:19"
+    },
+    {
+        "id": 70,
+        "sheadNo": "shead_6",
+        "tons": 2,
+        "timestamp": "2025-02-14 21:37:53"
+    },
+    {
+        "id": 69,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-02-14 21:37:14"
+    },
+    {
+        "id": 68,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-02-14 21:37:02"
+    },
+    {
+        "id": 67,
+        "sheadNo": "shead_1",
+        "tons": 3,
+        "timestamp": "2025-02-14 21:36:44"
+    },
+    {
+        "id": 66,
+        "sheadNo": "grower",
+        "tons": 3,
+        "timestamp": "2025-02-06 20:21:27"
+    },
+    {
+        "id": 65,
+        "sheadNo": "shead_8",
+        "tons": 3,
+        "timestamp": "2025-02-06 20:20:49"
+    },
+    {
+        "id": 64,
+        "sheadNo": "shead_6",
+        "tons": 3,
+        "timestamp": "2025-02-06 20:20:35"
+    },
+    {
+        "id": 63,
+        "sheadNo": "shead_3",
+        "tons": 4,
+        "timestamp": "2025-02-06 20:20:23"
+    },
+    {
+        "id": 62,
+        "sheadNo": "shead_4",
+        "tons": 4,
+        "timestamp": "2025-02-06 20:20:08"
+    },
+    {
+        "id": 61,
+        "sheadNo": "shead_2",
+        "tons": 4,
+        "timestamp": "2025-02-06 20:19:21"
+    },
+    {
+        "id": 60,
+        "sheadNo": "shead_1",
+        "tons": 4,
+        "timestamp": "2025-02-06 20:19:42"
+    },
+    {
+        "id": 59,
+        "sheadNo": "grower",
+        "tons": 2,
+        "timestamp": "2025-02-01 20:20:40"
+    },
+    {
+        "id": 58,
+        "sheadNo": "shead_8",
+        "tons": 3,
+        "timestamp": "2025-02-01 20:20:25"
+    },
+    {
+        "id": 57,
+        "sheadNo": "shead_6",
+        "tons": 3,
+        "timestamp": "2025-02-01 20:20:13"
+    },
+    {
+        "id": 56,
+        "sheadNo": "shead_4",
+        "tons": 3,
+        "timestamp": "2025-02-01 20:20:00"
+    },
+    {
+        "id": 55,
+        "sheadNo": "shead_3",
+        "tons": 3,
+        "timestamp": "2025-02-01 20:19:52"
+    },
+    {
+        "id": 54,
+        "sheadNo": "shead_2",
+        "tons": 3,
+        "timestamp": "2025-02-01 20:18:45"
+    },
+    {
+        "id": 53,
+        "sheadNo": "shead_1",
+        "tons": 3,
+        "timestamp": "2025-02-01 20:18:38"
+    },
+    {
+        "id": 52,
+        "sheadNo": "grower",
+        "tons": 2,
+        "timestamp": "2025-01-28 23:30:16"
+    },
+    {
+        "id": 51,
+        "sheadNo": "chick",
+        "tons": 0,
+        "timestamp": "2025-01-28 23:29:58"
+    },
+    {
+        "id": 50,
+        "sheadNo": "shead_8",
+        "tons": 3,
+        "timestamp": "2025-01-28 23:29:27"
+    },
+    {
+        "id": 49,
+        "sheadNo": "shead_6",
+        "tons": 3,
+        "timestamp": "2025-01-28 23:29:09"
+    },
+    {
+        "id": 48,
+        "sheadNo": "shead_4",
+        "tons": 3,
+        "timestamp": "2025-01-28 23:28:56"
+    },
+    {
+        "id": 47,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-01-28 23:28:41"
+    },
+    {
+        "id": 46,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-01-28 23:28:31"
+    },
+    {
+        "id": 45,
+        "sheadNo": "shead_1",
+        "tons": 3,
+        "timestamp": "2025-01-28 23:28:21"
+    },
+    {
+        "id": 44,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-01-27 19:17:55"
+    },
+    {
+        "id": 43,
+        "sheadNo": "shead_6",
+        "tons": 2,
+        "timestamp": "2025-01-27 19:17:46"
+    },
+    {
+        "id": 42,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-01-27 19:17:24"
+    },
+    {
+        "id": 41,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-01-27 19:16:55"
+    },
+    {
+        "id": 40,
+        "sheadNo": "shead_4",
+        "tons": 3,
+        "timestamp": "2025-01-27 19:16:35"
+    },
+    {
+        "id": 39,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-01-27 19:16:18"
+    },
+    {
+        "id": 27,
+        "sheadNo": "grower",
+        "tons": 2,
+        "timestamp": "2025-01-26 22:49:31"
+    },
+    {
+        "id": 26,
+        "sheadNo": "chick",
+        "tons": 0,
+        "timestamp": "2025-01-27 19:20:23"
+    },
+    {
+        "id": 25,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-01-26 22:45:20"
+    },
+    {
+        "id": 24,
+        "sheadNo": "shead_6",
+        "tons": 3,
+        "timestamp": "2025-01-26 22:45:03"
+    },
+    {
+        "id": 23,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-01-26 22:44:49"
+    },
+    {
+        "id": 22,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-01-26 22:44:06"
+    },
+    {
+        "id": 21,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-01-26 22:44:04"
+    },
+    {
+        "id": 20,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-01-26 22:43:37"
+    },
+    {
+        "id": 19,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-01-26 22:43:27"
+    },
+    {
+        "id": 18,
+        "sheadNo": "shead_1",
+        "tons": 2,
+        "timestamp": "2025-01-26 22:43:11"
+    },
+    {
+        "id": 17,
+        "sheadNo": "shead_2",
+        "tons": 2,
+        "timestamp": "2025-01-24 16:35:12"
+    },
+    {
+        "id": 16,
+        "sheadNo": "chick",
+        "tons": 500,
+        "timestamp": "2025-01-24 16:34:50"
+    },
+    {
+        "id": 15,
+        "sheadNo": "shead_4",
+        "tons": 2,
+        "timestamp": "2025-01-23 20:17:46"
+    },
+    {
+        "id": 14,
+        "sheadNo": "shead_8",
+        "tons": 2,
+        "timestamp": "2025-01-23 20:17:20"
+    },
+    {
+        "id": 13,
+        "sheadNo": "shead_6",
+        "tons": 2,
+        "timestamp": "2025-01-23 20:13:41"
+    },
+    {
+        "id": 12,
+        "sheadNo": "shead_3",
+        "tons": 2,
+        "timestamp": "2025-01-23 20:11:49"
+    },
+    {
+        "id": 11,
+        "sheadNo": "shead_2",
+        "tons": 3,
+        "timestamp": "2025-01-23 20:11:26"
+    },
+    {
+        "id": 10,
+        "sheadNo": "shead_1",
+        "tons": 3,
+        "timestamp": "2025-01-23 20:06:01"
+    },
+    {
+        "id": 9,
+        "sheadNo": "shead_1",
+        "tons": 3,
+        "timestamp": "2025-01-23 16:19:28"
+    }
+]

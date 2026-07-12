@@ -1,0 +1,344 @@
+[08-Aug-2025 05:10:03 America/Chicago] PHP Parse error:  Unclosed '{' on line 297 in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json_to_web.php on line 299
+[18-Aug-2025 02:54:15 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_farms.weighbridge' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json.php:28
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json.php(28): mysqli->query('SELECT * FROM w...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json.php on line 28
+[18-Aug-2025 13:24:15 Asia/Kolkata] PHP Warning:  file_get_contents(https://sunfra.com/farm/sunfra/weighbridge/weighbridge_json.php?client_id=1): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json_to_web.php on line 11
+[18-Aug-2025 13:24:15 Asia/Kolkata] PHP Warning:  file_get_contents(https://sunfra.com/farm/sunfra/feedrawmaterial/feed_raw_material_json.php?client_id=1): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json_to_web.php on line 19
+[18-Aug-2025 02:54:26 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_farms.weighbridge' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json.php:28
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json.php(28): mysqli->query('SELECT * FROM w...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json.php on line 28
+[18-Aug-2025 13:24:26 Asia/Kolkata] PHP Warning:  file_get_contents(https://sunfra.com/farm/sunfra/weighbridge/weighbridge_json.php?client_id=1): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json_to_web.php on line 11
+[18-Aug-2025 13:24:26 Asia/Kolkata] PHP Warning:  file_get_contents(https://sunfra.com/farm/sunfra/feedrawmaterial/feed_raw_material_json.php?client_id=1): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json_to_web.php on line 19
+[18-Aug-2025 02:56:19 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_farms.weighbridge' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json.php:28
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json.php(28): mysqli->query('SELECT * FROM w...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json.php on line 28
+[18-Aug-2025 13:27:17 Asia/Kolkata] PHP Warning:  file_get_contents(https://sunfra.com/farm/sunfra/feedrawmaterial/feed_raw_material_json.php?client_id=1): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json_to_web.php on line 19
+[18-Aug-2025 13:27:43 Asia/Kolkata] PHP Warning:  file_get_contents(https://sunfra.com/farm/sunfra/feedrawmaterial/feed_raw_material_json.php?client_id=1): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json_to_web.php on line 19
+[18-Aug-2025 13:37:59 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_farms.weighbridge' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:147
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(147): mysqli->prepare('SELECT net, mat...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 147
+[18-Aug-2025 19:01:26 Asia/Kolkata] PHP Warning:  include(../config/db.php): Failed to open stream: No such file or directory in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json_to_web.php on line 14
+[18-Aug-2025 19:01:26 Asia/Kolkata] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json_to_web.php on line 14
+[18-Aug-2025 19:01:26 Asia/Kolkata] PHP Warning:  Undefined variable $conn in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json_to_web.php on line 21
+[18-Aug-2025 19:01:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json_to_web.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json_to_web.php on line 21
+[18-Aug-2025 19:01:37 Asia/Kolkata] PHP Warning:  include(../config/db.php): Failed to open stream: No such file or directory in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json_to_web.php on line 14
+[18-Aug-2025 19:01:37 Asia/Kolkata] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json_to_web.php on line 14
+[18-Aug-2025 19:01:37 Asia/Kolkata] PHP Warning:  Undefined variable $conn in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json_to_web.php on line 21
+[18-Aug-2025 19:01:37 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json_to_web.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json_to_web.php on line 21
+[18-Aug-2025 19:01:55 Asia/Kolkata] PHP Warning:  include(../config/db.php): Failed to open stream: No such file or directory in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json_to_web.php on line 14
+[18-Aug-2025 19:01:55 Asia/Kolkata] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json_to_web.php on line 14
+[18-Aug-2025 19:01:55 Asia/Kolkata] PHP Warning:  Undefined variable $conn in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json_to_web.php on line 21
+[18-Aug-2025 19:01:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json_to_web.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_json_to_web.php on line 21
+[19-Aug-2025 17:45:23 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8247' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[19-Aug-2025 17:46:10 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8247' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[20-Aug-2025 11:59:38 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8253' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[20-Aug-2025 12:02:25 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8253' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[23-Aug-2025 11:58:26 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8265' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[15-Sep-2025 12:08:04 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8221' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[15-Sep-2025 12:08:29 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8221' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[15-Sep-2025 12:09:00 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8221' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[18-Sep-2025 12:23:33 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8456' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[18-Sep-2025 12:23:42 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8456' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[18-Sep-2025 12:23:45 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8456' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[18-Sep-2025 12:24:10 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8456' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[29-Sep-2025 11:40:03 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8515' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[30-Sep-2025 12:42:11 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'empty' cannot be null in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:99
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(99): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 99
+[01-Oct-2025 15:14:29 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8533' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[02-Oct-2025 10:44:34 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8541' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[10-Oct-2025 15:11:22 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8575' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[21-Oct-2025 10:01:01 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8645' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[16-Nov-2025 11:05:28 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8778' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[20-Nov-2025 17:26:51 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8819' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[04-Dec-2025 10:40:21 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8882' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[04-Dec-2025 10:51:44 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8889' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[13-Dec-2025 12:19:50 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8923' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[13-Dec-2025 12:19:56 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8923' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[13-Dec-2025 12:21:50 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8923' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[13-Dec-2025 19:22:09 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'empty' cannot be null in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:99
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(99): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 99
+[13-Dec-2025 19:22:14 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'empty' cannot be null in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:99
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(99): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 99
+[13-Dec-2025 19:22:20 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'empty' cannot be null in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:99
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(99): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 99
+[14-Dec-2025 11:10:50 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8937' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[14-Dec-2025 11:11:00 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8937' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[14-Dec-2025 11:11:31 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8937' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[14-Dec-2025 11:33:57 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8945' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[23-Dec-2025 10:42:08 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9004' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[23-Dec-2025 10:42:19 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9004' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[23-Dec-2025 13:46:04 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8916' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[23-Dec-2025 13:46:16 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8916' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[24-Dec-2025 10:42:06 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '2006' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[29-Dec-2025 11:54:40 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9044' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[29-Dec-2025 11:54:48 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9044' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[29-Dec-2025 11:55:18 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9044' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[29-Dec-2025 11:56:02 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9044' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[29-Dec-2025 11:56:40 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9044' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[29-Dec-2025 11:57:50 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9044' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[29-Dec-2025 11:58:27 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9044' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[29-Dec-2025 12:01:18 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9044' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[29-Dec-2025 12:01:57 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9044' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[09-Jan-2026 11:11:14 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9107' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[27-Jan-2026 12:05:43 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9228' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[27-Jan-2026 12:05:56 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9228' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[27-Jan-2026 12:06:11 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9228' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[28-Feb-2026 18:41:56 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9398' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[28-Feb-2026 18:44:16 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9398' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[06-Mar-2026 11:41:43 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9474' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[06-Mar-2026 11:41:49 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9474' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[06-Mar-2026 11:42:00 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9474' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[07-Mar-2026 10:59:48 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9483' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[13-Mar-2026 11:06:46 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8525' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
+[13-Mar-2026 11:06:55 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '8525' for key 'PRIMARY' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php:213
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/weighbridge/weighbridge_save.php on line 213
