@@ -1,0 +1,29 @@
+.sidebar {
+  transition: all 0.3s ease;
+}
+
+.sidebar a:hover {
+  background-color: #2b6cb0;
+  color: white;
+}
+
+.collapsed {
+  width: 64px !important;
+}
+
+.collapsed .sidebar-text {
+  display: none;
+}
+
+.collapsed nav a {
+  justify-content: center;
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    display: none;
+  }
+  .sidebar.show {
+    display: block;
+  }
+}

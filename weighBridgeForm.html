@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weighbridge Form</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; padding: 0; background-color: #f4f4f9; color: #333; }
+        h1 { text-align: center; color: #555; }
+        .container { max-width: 800px; margin: 20px auto; padding: 10px; background: white; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); }
+        .form-group { margin: 10px 0; }
+        .form-group input, .form-group select { width: 100%; padding: 8px; border-radius: 5px; border: 1px solid #ddd; }
+        .form-group button { padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; }
+        .form-group button:hover { background-color: #0056b3; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        table, th, td { border: 1px solid #ddd; }
+        th, td { padding: 10px; text-align: center; }
+        .edit-button { background-color: #ffc107; padding: 5px 10px; border-radius: 5px; cursor: pointer; }
+        .edit-button:hover { background-color: #e0a800; }
+    </style>
+</head>
+<body>
+    <h1>Weighbridge Data</h1>
+    <div class="container">
+        <form id="weighbridgeForm">
+            <input type="hidden" id="action_type" value="new">
+            <input type="hidden" id="edit_row_id">
+            <div class="form-group">
+                <label for="entry_date">Date:</label>
+                <input type="date" id="entry_date" required>
+            </div>
+            <div class="form-group">
+                <label for="vehicle_number">Vehicle Number:</label>
+                <input type="text" id="vehicle_number" required>
+            </div>
+            <div class="form-group">
+                <label for="owner_name">Owner Name:</label>
+                <input type="text" id="owner_name">
+            </div>
+            <div class="form-group">
+                <label for="empty_weight">Empty Weight (kg):</label>
+                <input type="number" id="empty_weight" step="0.01" required>
+            </div>
+            <div class="form-group">
+                <label for="gross_weight">Gross Weight (kg):</label>
+                <input type="number" id="gross_weight" step="0.01" required>
+            </div>
+            <div class="form-group">
+                <label for="net_weight">Net Weight (kg):</label>
+                <input type="number" id="net_weight" step="0.01" required>
+            </div>
+            <div class="form-group">
+                <label for="type">Type:</label>
+                <input type="text" id="type">
+            </div>
+            <div class="form-group">
+                <label for="driver_number">Driver Number:</label>
+                <input type="text" id="driver_number">
+            </div>
+            <div class="form-group">
+                <label for="owner_number">Owner Number:</label>
+                <input type="text" id="owner_number">
+            </div>
+            <div class="form-group">
+                <label for="details">Details:</label>
+                <input type="text" id="details">
+            </div>
+            <div class="form-group">
+                <label for="materials">Materials:</label>
+                <input type="text" id="materials">
+            </div>
+            <div class="form-group">
+                <button type="submit">Submit</button>
+            </div>
+        </form>
+        <div class="form-group">
+            <button id="newEntryButton">New Entry</button>
+        </div>
+    </div>
+
+    <div class="container">
+        <h2>Existing Entries</h2>
+        <table id="dataTable">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Date</th>
+                    <th>Vehicle Number</th>
+                    <th>Owner Name</th>
+                    <th>Empty Weight</th>
+                    <th>Gross Weight</th>
+                    <th>Net Weight</th>
+                    <th>Type</th>
+                    <th>Driver Number</th>
+                    <th>Owner Number</th>
+                    <th>Details</th>
+                    <th>Materials</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+    <script>
+        // Function to load table data from the database
+        function loadTableData() {
+            fetch('storeOrUpdateWeighbridgeData.php', { method: 'GET' })
+                .then(response => response.json())
+                .then(data => {
+                    const tableBody = document.querySelector('#dataTable tbody');
+                    tableBody.innerHTML = '';
+                    data.forEach(row => {
+                        const tableRow = ` 
+                            <tr>
+                                <td>${row.id}</td>
+                                <td>${row.entry_date}</td>
+                                <td>${row.vehicle_number}</td>
+                                <td>${row.owner_name}</td>
+                                <td>${row.empty_weight}</td>
+                                <td>${row.gross_weight}</td>
+                                <td>${row.net_weight}</td>
+                                <td>${row.type}</td>
+                                <td>${row.driver_number}</td>
+                                <td>${row.owner_number}</td>
+                                <td>${row.details}</td>
+                                <td>${row.materials}</td>
+                                <td><button class="edit-button" onclick="editRow(${row.id})">Edit</button></td>
+                            </tr>`;
+                        tableBody.innerHTML += tableRow;
+                    });
+                });
+        }
+
+        // Function to handle form submission
+        document.getElementById('weighbridgeForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+
+            const formData = new FormData(this);
+            const actionType = document.getElementById('action_type').value;
+
+            fetch('storeOrUpdateWeighbridgeData.php', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                alert(data.message);
+                if (data.status === 'success') {
+                    loadTableData();
+                    resetForm();
+                }
+            });
+        });
+
+        // Function to reset form
+        function resetForm() {
+            document.getElementById('weighbridgeForm').reset();
+            document.getElementById('action_type').value = 'new';
+            document.getElementById('edit_row_id').value = '';
+        }
+
+        // Function to edit a row
+        function editRow(id) {
+            fetch('storeOrUpdateWeighbridgeData.php?id=' + id, { method: 'GET' })
+                .then(response => response.json())
+                .then(row => {
+                    document.getElementById('entry_date').value = row.entry_date;
+                    document.getElementById('vehicle_number').value = row.vehicle_number;
+                    document.getElementById('owner_name').value = row.owner_name;
+                    document.getElementById('empty_weight').value = row.empty_weight;
+                    document.getElementById('gross_weight').value = row.gross_weight;
+                    document.getElementById('net_weight').value = row.net_weight;
+                    document.getElementById('type').value = row.type;
+                    document.getElementById('driver_number').value = row.driver_number;
+                    document.getElementById('owner_number').value = row.owner_number;
+                    document.getElementById('details').value = row.details;
+                    document.getElementById('materials').value = row.materials;
+
+                    document.getElementById('action_type').value = 'edit';
+                    document.getElementById('edit_row_id').value = id;
+                });
+        }
+
+        // Load data when the page loads
+        window.onload = loadTableData;
+
+        // New entry button
+        document.getElementById('newEntryButton').addEventListener('click', resetForm);
+    </script>
+</body>
+</html>

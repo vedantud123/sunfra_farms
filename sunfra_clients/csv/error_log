@@ -1,0 +1,10 @@
+[02-Oct-2025 01:10:54 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 'Stone powder	')' at line 19 in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/csv/mjr_feed_raw_material_sequence.php:40
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/csv/mjr_feed_raw_material_sequence.php(40): mysqli->prepare('SELECT \r\n      ...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/csv/mjr_feed_raw_material_sequence.php on line 40
+[02-Oct-2025 01:10:57 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 'Stone powder	')' at line 19 in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/csv/mjr_feed_raw_material_sequence.php:40
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/csv/mjr_feed_raw_material_sequence.php(40): mysqli->prepare('SELECT \r\n      ...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/csv/mjr_feed_raw_material_sequence.php on line 40

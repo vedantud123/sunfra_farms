@@ -1,0 +1,8 @@
+[31-Jan-2025 04:10:03 America/Chicago] PHP Warning:  Undefined array key "user_name" in /home2/sunfra/public_html/sunfra.com/farm/sunfra_dealers/test.php on line 3
+[31-Jan-2025 04:24:09 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_global_user.feed_formula_detail' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/sunfra_dealers/test.php:38
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra_dealers/test.php(38): mysqli->query('SELECT \r\n      ...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra_dealers/test.php on line 38
+[03-Feb-2025 22:16:20 America/Chicago] PHP Parse error:  syntax error, unexpected token "if" in /home2/sunfra/public_html/sunfra.com/farm/sunfra_dealers/test.php on line 18
+[03-Feb-2025 22:16:24 America/Chicago] PHP Parse error:  syntax error, unexpected token "if" in /home2/sunfra/public_html/sunfra.com/farm/sunfra_dealers/test.php on line 18

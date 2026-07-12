@@ -1,0 +1,664 @@
+<?php
+session_start();
+date_default_timezone_set('Asia/Kolkata');
+ 
+$current_feature = "Egg Godown"; // Set per page
+ 
+// 1. Login check
+if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
+    header("Location: ../login/login.php");
+    exit;
+}
+$username  = $_SESSION['username'] ?? '';
+$client_id = $_SESSION['client_id'] ?? 0;
+ 
+if (empty($username) || !$client_id) {
+    header("Location: ../login/login.php");
+    exit;
+}
+
+$users_url = "https://sunfra.com/farm/sunfra_clients/login/farm_users_list.php";
+$users_response = @file_get_contents($users_url);
+ 
+if ($users_response === false) {
+    error_log("Admin API failure: $users_url");
+    header("Location: https://sunfra.com/farm/sunfra_clients/index.php");
+    exit;
+}
+ 
+$users = json_decode($users_response, true);
+if (json_last_error() !== JSON_ERROR_NONE) {
+    error_log("Admin JSON parse error: " . json_last_error_msg());
+    header("Location: https://sunfra.com/farm/sunfra_clients/index.php");
+    exit;
+}
+ 
+$is_admin = false;
+if (is_array($users)) {
+    foreach ($users as $u) {
+        if ($u['username'] === $username &&
+            intval($u['client_id']) === intval($client_id) &&
+            $u['status'] === 'admin'
+        ) {
+            $is_admin = true;
+            break;
+        }
+    }
+}
+ 
+// 3. Feature check (only for non-admins)
+if (!$is_admin) {
+    $feature_url = "https://sunfra.com/farm/sunfra_clients/configuration/config_supervisor_json.php?client_id=" . urlencode($client_id);
+    $feature_response = @file_get_contents($feature_url);
+ 
+    if ($feature_response === false) {
+        error_log("Feature API failure: $feature_url");
+        header("Location: https://sunfra.com/farm/sunfra_clients/index.php");
+        exit;
+    }
+ 
+    $features = json_decode($feature_response, true);
+    if (json_last_error() !== JSON_ERROR_NONE) {
+        error_log("Feature JSON parse error: " . json_last_error_msg());
+        header("Location: https://sunfra.com/farm/sunfra_clients/index.php");
+        exit;
+    }
+ 
+    $has_feature = false;
+    if (is_array($features)) {
+        foreach ($features as $f) {
+            if ($f['username'] === $username &&
+                intval($f['client_id']) === intval($client_id) &&
+                $f['feature'] === $current_feature
+            ) {
+                $has_feature = true;
+                break;
+            }
+        }
+    }
+ 
+    if (!$has_feature) {
+        header("Location: https://sunfra.com/farm/sunfra_clients/index.php");
+        exit;
+    }
+}
+
+$shead_url = "https://sunfra.com/farm/sunfra_clients/configuration/shead_number_json.php?client_id=$client_id";
+$shead_response = file_get_contents($shead_url);
+
+if ($shead_response === false) {
+    echo json_encode(["error" => "Unable to fetch shead data"]);
+    exit;
+}
+
+$shead_data = json_decode($shead_response, true);
+if (!is_array($shead_data)) {
+    echo json_encode(["error" => "Invalid JSON received"]);
+    exit;
+}
+
+$shead_list = [];
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Egg Godown Stock</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+  <style>
+    .egg-category {
+      margin-bottom: 15px;
+    }
+    .table td, .table th {
+      vertical-align: middle;
+      text-align: center;
+    }.sidebar {
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 70px;
+			height: 100vh;
+			background-color: #016795;
+			display: flex;
+			flex-direction: column;
+			align-items: flex-start;
+			padding-top: 10px;
+			overflow-y: auto;
+			transition: width 0.3s ease;
+			z-index: 1000;
+			box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+		  }
+		  .sidebar.expanded {
+			width: 250px;
+		  }
+		  .sidebar a {
+			color: white;
+			text-decoration: none;
+			width: 100%;
+			padding: 14px 20px;
+			display: flex;
+			align-items: center;
+			font-size: 15px;
+			transition: background-color 0.2s ease-in-out;
+			white-space: nowrap;
+		  }
+		  .sidebar a:hover {
+			background-color: #0194c7;
+		  }
+		  .sidebar i {
+			font-size: 16px;
+			min-width: 30px;
+			text-align: center;
+		  }
+		  .label {
+			margin-left: 10px;
+			white-space: nowrap;
+			display: none;
+		  }
+		  .sidebar.expanded .label {
+			display: inline;
+		  }
+		  .toggle-btn {
+			width: 100%;
+			cursor: pointer;
+			padding: 10px 20px;
+			background: none;
+			border: none;
+			color: white;
+			font-size: 18px;
+			text-align: left;
+			outline: none;
+			user-select: none;
+			display: flex;
+			align-items: center;
+		  }
+		  .toggle-btn i {
+			margin-right: 10px;
+		  }
+		  .attendance-submenu {
+			display: none;
+			flex-direction: column;
+			background: #1e293b;
+			width: 100%;
+			padding-left: 40px;
+			transition: all 0.3s ease;
+		  }
+		  .attendance-submenu button {
+			background: none;
+			border: none;
+			color: white;
+			text-align: left;
+			padding: 10px 20px;
+			font-size: 14px;
+			cursor: pointer;
+			transition: background-color 0.2s ease;
+		  }
+		  .attendance-submenu button:hover {
+			background-color: #2563EB;
+		  }.main-content {
+			  margin-left: 250px;
+			  transition: margin-left 0.3s;
+			}
+
+			.main-content.collapsed {
+			  margin-left: 50px;
+			}.content {
+			  margin-left: 70px;
+			  transition: margin-left 0.3s ease;
+			}
+
+			.sidebar.expanded ~ .content {
+			  margin-left: 250px;
+			}.content.expanded {
+			  margin-left: 250px;
+			}
+  </style>
+</head>
+<body style="background-color: #ADD8E6;">
+<div>
+<div class="sidebar" id="sidebar">
+  <button class="toggle-btn" id="sidebarToggleBtn" aria-label="Toggle menu" title="Toggle menu">
+    <i class="fas fa-bars"></i>
+    <span class="label">Menu</span>
+  </button>
+  <a href="https://sunfra.com/farm/sunfra_clients/index.php"><i class="fas fa-home"></i><span class="label">My Dashboard</span></a>
+  <a href="https://sunfra.com/farm/sunfra_clients/batch/batch_json_to_web.php"><i class="fas fa-globe"></i><span class="label">Batch</span></a>
+  <a href="https://sunfra.com/farm/sunfra_clients/weighbridge/weighbridge_json_to_web.php"><i class="fas fa-truck"></i><span class="label">WeighBridge</span></a>
+  <a href="https://sunfra.com/farm/sunfra_clients/tractor_production_mortality/tractor_production_mortality_json_to_web.php"><i class="fas fa-tractor"></i><span class="label">Tractor Production</span></a>
+
+  <div class="attendance-dropdown">
+    <a onclick="toggleAttendance()" class="attendance-toggle" href="javascript:void(0)">
+      <i class="fas fa-user-check"></i>
+      <span class="label">Attendance <i class="fas fa-caret-down" style="margin-left: 5px;"></i></span>
+    </a>
+    <div class="attendance-submenu" id="attendanceSubmenu">
+      <button onclick="location.href='https://sunfra.com/farm/sunfra_clients/attendance/labour_master_json_to_web.php'">👷‍♂️ Labour Details</button>
+      <button onclick="location.href='https://sunfra.com/farm/sunfra_clients/attendance/labour_attendance_json_to_web.php'">📅 Labour Attendance</button>
+      <button onclick="location.href='https://sunfra.com/farm/sunfra_clients/attendance/assigned_master_json_to_web.php'">📝 Assigned Master</button>
+    </div>
+  </div>
+	<div class="attendance-dropdown">
+	  <a onclick="toggleShed()" class="attendance-toggle">
+		<i class="fas fa-users-cog"></i>
+		<span class="label">Shead Supervisor <i class="fas fa-caret-down" style="margin-left: 5px;"></i></span>
+	  </a>
+	  <div class="attendance-submenu" id="shedSubmenu">
+		<button onclick="location.href='https://sunfra.com/farm/sunfra_clients/supervisor/supervisor_feed_feeding_shead_json_to_web.php'">🥣 Feed Feeding Shead</button>
+		<button onclick="location.href='https://sunfra.com/farm/sunfra_clients/supervisor/supervisor_shead_mortality_json_to_web.php'">💀 Shead Mortality</button>
+		<button onclick="location.href='https://sunfra.com/farm/sunfra_clients/supervisor/supervisor_shead_production_json_to_web.php'">📦 Production Shead</button>
+		<button onclick="location.href='https://sunfra.com/farm/sunfra_clients/supervisor/supervisor_birds_weight_json_to_web.php'">🐥 Birds Weight</button>
+	  </div>
+	</div>
+  <div class="attendance-dropdown">
+    <a onclick="toggleFeedPlant()" class="attendance-toggle" href="javascript:void(0)">
+      <i class="fas fa-industry"></i>
+      <span class="label">Feed Plant Supervisor <i class="fas fa-caret-down" style="margin-left: 5px;"></i></span>
+    </a>
+    <div class="attendance-submenu" id="feedPlantSubmenu">
+      <button onclick="location.href='https://sunfra.com/farm/sunfra_clients/feed_formula/feed_formula_json_to_web.php'">⚙️ Feed Formula</button>
+      <button onclick="location.href='https://sunfra.com/farm/sunfra_clients/feedrawmaterial/feed_raw_material_json_to_web.php'">📥 Feed Raw Material</button>
+      <button onclick="location.href='https://sunfra.com/farm/sunfra_clients/feedrawmaterial/feed_to_shead_json_to_web.php'">🚚 Feed Material To Shead</button>
+      <button onclick="location.href='https://sunfra.com/farm/sunfra_clients/feedrawmaterial/water_medicine_json_to_web.php'">🧪 Water Medicine</button>
+    </div>
+  </div>
+
+  <div class="attendance-dropdown">
+    <a onclick="toggleEggGodown()" class="attendance-toggle" href="javascript:void(0)">
+      <i class="fas fa-warehouse"></i>
+      <span class="label">Egg Godown <i class="fas fa-caret-down" style="margin-left: 5px;"></i></span>
+    </a>
+    <div class="attendance-submenu" id="eggGodownSubmenu">
+      <button onclick="location.href='https://sunfra.com/farm/sunfra_clients/egg_godown/egg_godown_stock_json_to_web.php'">🥚 Egg Production From Shead</button>
+      <button onclick="location.href='https://sunfra.com/farm/sunfra_clients/egg_godown/egg_godown_sale_json_to_web.php'">💰 Eggs for Sale</button>
+      <button onclick="location.href='https://sunfra.com/farm/sunfra_clients/egg_godown/egg_weight_json_to_web.php'">⚖️ Egg Weight</button>
+    	<button onclick="location.href='https://sunfra.com/farm/sunfra_clients/egg_godown/egg_damaged_json_to_web.php'">⚖️ Weekly Egg Damages</button>
+    </div>
+  </div>
+
+  <div class="attendance-dropdown">
+    <a onclick="toggleProfitLoss()" class="attendance-toggle" href="javascript:void(0)">
+      <i class="fas fa-chart-line"></i>
+      <span class="label">Profit & Loss <i class="fas fa-caret-down" style="margin-left: 5px;"></i></span>
+    </a>
+    <div class="attendance-submenu" id="profitLossSubmenu">
+      <button onclick="location.href='https://sunfra.com/farm/sunfra_clients/profit_and_loss_details/material_cost_json_to_web.php'">Feed Material Price</button>
+      <button onclick="location.href='https://sunfra.com/farm/sunfra_clients/profit_and_loss_details/egg_cutting_json_to_web.php'">Egg Price Per Piece</button>
+      <button onclick="location.href='https://sunfra.com/farm/sunfra_clients/profit_and_loss_details/profit_loss_json_to_web.php'">Profit & Loss Summary</button>
+      <button onclick="location.href='https://sunfra.com/farm/sunfra_clients/profit_and_loss_details/summary_report_json_to_web.php'">Summary Report</button>
+      <button onclick="location.href='https://sunfra.com/farm/sunfra_clients/profit_and_loss_details/vaccination_json_to_web.php'">Vaccination</button>
+      <button onclick="location.href='https://sunfra.com/farm/sunfra_clients/profit_and_loss_details/labour_salary_json_to_web.php'">Labour Salary</button>
+    </div>
+  </div>
+
+  <a href="https://sunfra.com/farm/sunfra_clients/task/task_status.php"><i class="fas fa-tasks"></i><span class="label">Task Status</span></a>
+  <a href="https://sunfra.com/farm/sunfra_clients/login/client_user_json_to_web.php"><i class="fas fa-user-plus"></i><span class="label">Registration</span></a>
+  <a href="https://sunfra.com/farm/sunfra_clients/configuration/configuration.php"><i class="fas fa-cogs"></i><span class="label">Configuration</span></a>
+  <a href="https://sunfra.com"><i class="fas fa-life-ring"></i><span class="label">Support</span></a>
+  <a href="https://sunfra.com/farm/sunfra_clients/login/logout.php"><i class="fas fa-sign-out-alt"></i><span class="label">Logout</span></a>
+</div>
+<main class="content main-content">
+  <div class="container py-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+      <h3>Egg Godown Stock - <span id="currentDate"></span></h3>
+      <div class="d-flex gap-2">
+		<button class="btn btn-success" id="balanceBtn">Balance</button>	
+        <input type="date" id="datePicker" class="form-control" style="max-width: 200px;">
+        <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#entryModal">Add New</button>
+      </div>
+    </div>
+
+    <table class="table table-bordered table-hover table-striped">
+      <thead class="table-dark">
+        <tr>
+          <th>Date</th>
+          <th>Shead Name</th>
+          <th>Good</th>
+          <th>Small</th>
+          <th>Big</th>
+          <th>Damaged</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+      <tbody id="dataBody">
+        <!-- Data from API will be loaded here -->
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Modal Form -->
+  <div class="modal fade" id="entryModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <form id="eggForm" class="p-3">
+          <h5 class="modal-title mb-3" id="modalTitle">Add Egg Stock</h5>
+			<input type="hidden" name="original_date" id="original_date" />
+			<input type="hidden" name="original_shead_name" id="original_shead_name" />
+
+          <div class="mb-3">
+			  <label for="shead_name" class="form-label">Shead Name:</label>
+			  <select name="shead_name" id="shead_name" class="form-select" required>
+				<option value="">Select option</option>
+				<?php 
+				foreach ($shead_data as $shead) {
+				  $val = htmlspecialchars($shead['shead_name']);
+				  echo "<option value=\"$val\">$val</option>";
+				}
+				?>
+			  </select>
+			</div>
+
+          <?php 
+          $types = ['Good', 'Damaged', 'Small', 'Big'];
+          foreach ($types as $type) {
+            echo "<div class='egg-category'>
+                    <label class='form-label'>$type:</label>
+                    <div class='row'>
+                      <div class='col'><input type='text' name='" . strtolower($type) . "_trays' class='form-control' placeholder='Trays'></div>
+                      <div class='col'><input type='text' name='" . strtolower($type) . "_loose' class='form-control' placeholder='Loose Eggs'></div>
+                    </div>
+                  </div>";
+          }
+          ?>
+
+          <div class="mb-3">
+            <label for="remarks" class="form-label">Remarks:</label>
+            <input type="text" name="remarks" id="remarks" class="form-control">
+          </div>
+
+          <div class="d-flex justify-content-end">
+            <button type="button" class="btn btn-secondary me-2" data-bs-dismiss="modal">Cancel</button>
+            <button type="submit" class="btn btn-success" id="modalSubmitBtn">Submit</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="balanceModal" tabindex="-1" aria-labelledby="balanceModalLabel" aria-hidden="true">
+	  <div class="modal-dialog modal-xl modal-dialog-centered">
+		<div class="modal-content">
+		  <div class="modal-header">
+			<h5 class="modal-title" id="balanceModalLabel">Egg Godown Balance</h5>
+			<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+		  </div>
+		  <div class="modal-body">
+
+			<!-- Date Selector -->
+			<div class="d-flex justify-content-start align-items-center mb-3 gap-2">
+			  <label for="balanceDate" class="fw-bold">Select Date:</label>
+			  <input type="date" id="balanceDate" class="form-control" style="max-width: 200px;">
+			</div>
+
+			<!-- Table -->
+			<div class="table-responsive">
+			  <table class="table table-bordered table-striped">
+				<thead class="table-dark">
+				  <tr>
+					<th>Date</th>
+					<th>Shead Name</th>
+					<th>Opening Balance</th>
+					<th>Production</th>
+					<th>Sale</th>
+					<th>Closing Balance</th>
+				  </tr>
+				</thead>
+				<tbody id="balanceTableBody">
+				  <tr>
+					<td colspan="6" class="text-center">No data available</td>
+				  </tr>
+				</tbody>
+				<tfoot class="table-secondary">
+				  <tr>
+					<td colspan="2"><strong>Total</strong></td>
+					<td id="totalOpening"><strong>0</strong></td>
+					<td id="totalProduction"><strong>0</strong></td>
+					<td id="totalSale"><strong>0</strong></td>
+					<td id="totalClosing"><strong>0</strong></td>
+				  </tr>
+				</tfoot>
+			  </table>
+			</div>
+
+		  </div>
+		</div>
+	  </div>
+	</div>
+</main>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/js/all.min.js" defer></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script>
+		const clientId = <?= json_encode($client_id) ?>;
+	  const modal = new bootstrap.Modal(document.getElementById("entryModal"));
+	  const form = document.querySelector("#entryModal form");
+
+	  function fetchAndRenderData(date) {
+		document.getElementById("currentDate").innerText = date;
+		const body = document.getElementById("dataBody");
+		body.innerHTML = '';
+
+		fetch(`https://sunfra.com/farm/sunfra_clients/egg_godown/egg_godown_stock_json.php?date=${date}&client_id=${clientId}`)
+		  .then(res => {
+			if (!res.ok) throw new Error("Network response was not ok");
+			return res.json();
+		  })
+		  .then(data => {
+			if (!data.length) {
+			  document.getElementById("dataBody").innerHTML = `<tr><td colspan="7">No data found</td></tr>`;
+			  return;
+			}
+			data.forEach(row => {
+			  const tr = document.createElement("tr");
+			  tr.innerHTML = `
+				<td>${row.date}</td>
+				<td>${row.shead_name}</td>
+				<td>${row.Good || 0}</td>
+				<td>${row.Small || 0}</td>
+				<td>${row.Big || 0}</td>
+				<td>${row.Damaged || 0}</td>
+				<td><button class='btn btn-sm btn-warning edit-btn' data-entry='${JSON.stringify(row)}'>Edit</button></td>
+			  `;
+			  body.appendChild(tr);
+			});
+		  })
+		  .catch(err => {
+			console.error("Fetch error:", err);
+			document.getElementById("dataBody").innerHTML = `<tr><td colspan="7">Error loading data</td></tr>`;
+		  });
+	  }
+
+	  function splitTrayValue(value) {
+		const [trays, loose] = value.toString().split(".");
+		return {
+		  trays: trays || "0",
+		  loose: loose ? loose.padEnd(2, '0') : "00"
+		};
+	  }
+
+	  document.addEventListener("click", function(e) {
+		  if (e.target.classList.contains("edit-btn")) {
+			const row = JSON.parse(e.target.getAttribute("data-entry"));
+			document.getElementById("modalTitle").innerText = "Edit Egg Stock";
+			document.getElementById("modalSubmitBtn").innerText = "Update";
+
+			document.getElementById("shead_name").value = row.shead_name;
+			document.getElementById("original_shead_name").value = row.shead_name;
+
+			document.getElementById("datePicker").value = row.date;
+			document.getElementById("original_date").value = row.date;
+
+			['Good', 'Damaged', 'Small', 'Big'].forEach(type => {
+			  const { trays, loose } = splitTrayValue(row[type] || "0.00");
+			  document.querySelector(`[name="${type.toLowerCase()}_trays"]`).value = trays;
+			  document.querySelector(`[name="${type.toLowerCase()}_loose"]`).value = loose;
+			});
+
+			document.getElementById("remarks").value = ""; // populate if applicable
+
+			modal.show();
+		  }
+		});
+
+		document.querySelector('[data-bs-target="#entryModal"]').addEventListener("click", () => {
+		  document.getElementById("modalTitle").innerText = "Add Egg Stock";
+		  document.getElementById("modalSubmitBtn").innerText = "Submit";
+		  form.reset();
+		  modal.show();
+		});
+
+	  const today = new Date().toISOString().split('T')[0];
+	  document.getElementById("datePicker").value = today;
+	  fetchAndRenderData(today);
+
+	  document.getElementById("datePicker").addEventListener("change", function () {
+		fetchAndRenderData(this.value);
+	  });
+	 document.getElementById("eggForm").addEventListener("submit", function (e) {
+	  e.preventDefault();
+
+	  const formData = new FormData(this);
+	  const json = {
+		client_id: clientId,
+		date: document.getElementById("datePicker").value,
+		original_date: formData.get("original_date"),
+		shead_name: formData.get("shead_name"),
+		original_shead_name: formData.get("original_shead_name"),
+		good_trays: formData.get("good_trays"),
+		good_loose: formData.get("good_loose"),
+		small_trays: formData.get("small_trays"),
+		small_loose: formData.get("small_loose"),
+		big_trays: formData.get("big_trays"),
+		big_loose: formData.get("big_loose"),
+		damaged_trays: formData.get("damaged_trays"),
+		damaged_loose: formData.get("damaged_loose"),
+		remarks: formData.get("remarks")
+	  };
+
+	  fetch("https://sunfra.com/farm/sunfra_clients/egg_godown/egg_godown_stock_save.php", {
+		method: "POST",
+		headers: { "Content-Type": "application/json" },
+		body: JSON.stringify(json)
+	  })
+	  .then(res => res.json())
+	  .then(response => {
+		if (response.status === "success") {
+		  modal.hide();
+		  fetchAndRenderData(document.getElementById("datePicker").value);
+		} else {
+		  alert("Error saving data: " + response.message);
+		}
+	  })
+	  .catch(err => {
+		console.error("Error:", err);
+		alert("Network error while saving data.");
+	  });
+	});
+
+  const sidebar = document.getElementById('sidebar');
+	const mainContent = document.querySelector('.content'); // or '.main-content'
+	const toggleBtn = document.getElementById('sidebarToggleBtn');
+
+	toggleBtn.addEventListener('click', () => {
+	  sidebar.classList.toggle('expanded');
+	  mainContent.classList.toggle('expanded'); 
+
+	  const icon = toggleBtn.querySelector('i');
+	  if (sidebar.classList.contains('expanded')) {
+		icon.classList.remove('fa-bars');
+		icon.classList.add('fa-times');
+	  } else {
+		icon.classList.add('fa-bars');
+		icon.classList.remove('fa-times');
+	  }
+	});
+
+	  function toggleAttendance() {
+		toggleSubmenu('attendanceSubmenu');
+	  }
+	  function toggleFeedPlant() {
+		toggleSubmenu('feedPlantSubmenu');
+	  }
+	  function toggleEggGodown() {
+		toggleSubmenu('eggGodownSubmenu');
+	  }
+	  function toggleProfitLoss() {
+		toggleSubmenu('profitLossSubmenu');
+	  }
+	  function toggleShed() {
+		toggleSubmenu('shedSubmenu');
+	  }
+	  function toggleSubmenu(id) {
+		const submenu = document.getElementById(id);
+		if (!submenu) return;
+		if (submenu.style.display === 'flex') {
+		  submenu.style.display = 'none';
+		} else {
+		  submenu.style.display = 'flex';
+		}
+	  }
+		document.getElementById("balanceBtn").addEventListener("click", function() {
+			const today = new Date().toISOString().split("T")[0];
+			document.getElementById("balanceDate").value = today;
+			loadBalanceData(today); 
+			const modal = new bootstrap.Modal(document.getElementById("balanceModal"));
+			modal.show();
+		  });
+
+		  document.getElementById("balanceDate").addEventListener("change", function() {
+			const selectedDate = this.value;
+			if (selectedDate) {
+			  loadBalanceData(selectedDate);
+			}
+		  });
+
+		  function loadBalanceData(date) {
+			const url = `https://sunfra.com/farm/sunfra_clients/egg_godown/egg_godown_balance_json.php?client_id=${clientId}&date=${date}`;
+
+			fetch(url)
+			  .then(response => response.json())
+			  .then(data => {
+				const tbody = document.getElementById("balanceTableBody");
+				tbody.innerHTML = "";
+
+				if (data.data && data.data.length > 0) {
+				  data.data.forEach(item => {
+					const row = `
+					  <tr>
+						<td>${item.date}</td>
+						<td>${item.shead_name}</td>
+						<td>${item.opening_balance}</td>
+						<td>${item.production}</td>
+						<td>${item.sale}</td>
+						<td>${item.closing_balance}</td>
+					  </tr>`;
+					tbody.insertAdjacentHTML("beforeend", row);
+				  });
+
+				  document.getElementById("totalOpening").innerHTML = `<strong>${data.totals.opening_balance}</strong>`;
+				  document.getElementById("totalProduction").innerHTML = `<strong>${data.totals.production}</strong>`;
+				  document.getElementById("totalSale").innerHTML = `<strong>${data.totals.sale}</strong>`;
+				  document.getElementById("totalClosing").innerHTML = `<strong>${data.totals.closing_balance}</strong>`;
+				} else {
+				  tbody.innerHTML = `<tr><td colspan="6" class="text-center">No data available</td></tr>`;
+				}
+			  })
+			  .catch(error => {
+				console.error("Error fetching balance data:", error);
+				document.getElementById("balanceTableBody").innerHTML = `<tr><td colspan="6" class="text-center text-danger">Error loading data</td></tr>`;
+			  });
+		  }
+		  document.addEventListener("DOMContentLoaded", function () {
+				fetch("https://sunfra.com/farm/sunfra_clients/egg_godown/cron_for_egg_godown_balance.php")
+					.then(response => response.text())
+					.then(data => {
+						console.log("API triggered:", data);
+					})
+					.catch(error => {
+						console.error("API error:", error);
+					});
+			});
+	</script>
+
+</body>
+</html>

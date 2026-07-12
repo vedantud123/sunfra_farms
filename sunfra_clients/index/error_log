@@ -1,0 +1,34 @@
+[11-Sep-2025 03:05:23 America/Chicago] PHP Warning:  Array to string conversion in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/feed_intake_json.php on line 42
+[11-Sep-2025 03:05:23 America/Chicago] PHP Warning:  Array to string conversion in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/feed_intake_json.php on line 42
+[11-Sep-2025 03:05:23 America/Chicago] PHP Warning:  Array to string conversion in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/feed_intake_json.php on line 42
+[11-Sep-2025 03:05:23 America/Chicago] PHP Warning:  Array to string conversion in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/feed_intake_json.php on line 42
+[11-Sep-2025 03:05:23 America/Chicago] PHP Warning:  Array to string conversion in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/feed_intake_json.php on line 42
+[11-Sep-2025 03:05:23 America/Chicago] PHP Warning:  Array to string conversion in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/feed_intake_json.php on line 42
+[11-Sep-2025 03:05:23 America/Chicago] PHP Warning:  Array to string conversion in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/feed_intake_json.php on line 42
+[11-Sep-2025 03:05:23 America/Chicago] PHP Warning:  Array to string conversion in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/feed_intake_json.php on line 42
+[11-Sep-2025 03:05:23 America/Chicago] PHP Warning:  Array to string conversion in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/feed_intake_json.php on line 42
+[11-Sep-2025 03:05:23 America/Chicago] PHP Warning:  Array to string conversion in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/feed_intake_json.php on line 42
+[11-Sep-2025 05:17:00 America/Chicago] PHP Warning:  Undefined variable $shead_data in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/egg_weight_json.php on line 26
+[11-Sep-2025 05:17:00 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/egg_weight_json.php on line 26
+[11-Sep-2025 05:17:00 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/egg_weight_json.php on line 26
+[11-Sep-2025 05:23:34 America/Chicago] PHP Parse error:  Unclosed '{' in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/egg_weight_json.php on line 7
+[19-Sep-2025 15:04:32 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/temperature_json.php:36
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/temperature_json.php(36): mysqli->query('\r\n    SELECT DA...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/temperature_json.php on line 36
+[19-Sep-2025 15:04:40 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/temperature_json.php:36
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/temperature_json.php(36): mysqli->query('\r\n    SELECT DA...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/temperature_json.php on line 36
+[19-Sep-2025 04:37:02 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/temperature_json.php:39
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/temperature_json.php(39): mysqli->query('\r\n    SELECT DA...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/temperature_json.php on line 39
+[19-Sep-2025 04:37:18 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/temperature_json.php:39
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/temperature_json.php(39): mysqli->query('\r\n    SELECT DA...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index/temperature_json.php on line 39

@@ -1,0 +1,15 @@
+[18-Nov-2025 08:36:02 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home2/sunfra/public_html/sunfra.com/farm/sensor/temperature.php:41
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sensor/temperature.php(41): mysqli->prepare('SELECT id FROM ...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sensor/temperature.php on line 41
+[12-Jan-2026 19:25:38 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/sunfra/public_html/sunfra.com/farm/sensor/voltage.php:3
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sensor/voltage.php(3): mysqli->__construct('localhost', 'sunfra_farms', Object(SensitiveParameterValue), 'sunfra_farms')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sensor/voltage.php on line 3
+[12-Jan-2026 19:25:47 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home2/sunfra/public_html/sunfra.com/farm/sensor/voltage.php:3
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sensor/voltage.php(3): mysqli->__construct('localhost', 'sunfra_farms', Object(SensitiveParameterValue), 'sunfra_farms')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sensor/voltage.php on line 3

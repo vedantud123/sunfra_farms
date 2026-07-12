@@ -1,0 +1,4 @@
+[02-Oct-2025 00:53:15 America/Chicago] PHP Warning:  Undefined array key "client_id" in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/feed_formula/feed_formula_json.php on line 12
+[02-Oct-2025 00:53:28 America/Chicago] PHP Warning:  Undefined array key "client_id" in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/feed_formula/feed_formula_json.php on line 12
+[03-Oct-2025 12:38:16 Asia/Kolkata] Feature API failure: https://sunfra.com/farm/sunfra_clients/configuration/config_supervisor_json.php?client_id=1
+[03-Oct-2025 12:38:22 Asia/Kolkata] Feature API failure: https://sunfra.com/farm/sunfra_clients/configuration/config_supervisor_json.php?client_id=1

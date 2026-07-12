@@ -1,0 +1,30 @@
+[08-Jan-2025 12:15:19 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'datetime' in 'field list' in /home2/sunfra/public_html/sunfra.com/farm/indicator/indicatorEdit.php:27
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/indicator/indicatorEdit.php(27): mysqli_query(Object(mysqli), 'INSERT INTO ind...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/indicator/indicatorEdit.php on line 27
+[22-Feb-2025 12:42:40 Asia/Kolkata] PHP Warning:  Undefined array key "mac_address" in /home2/sunfra/public_html/sunfra.com/farm/indicator/indicatorEdit.php on line 13
+[22-Feb-2025 12:42:40 Asia/Kolkata] PHP Warning:  Undefined array key "weight" in /home2/sunfra/public_html/sunfra.com/farm/indicator/indicatorEdit.php on line 14
+[22-Feb-2025 12:42:40 Asia/Kolkata] PHP Warning:  Undefined array key "device_id" in /home2/sunfra/public_html/sunfra.com/farm/indicator/indicatorEdit.php on line 15
+[22-Feb-2025 12:42:59 Asia/Kolkata] PHP Warning:  Undefined array key "mac_address" in /home2/sunfra/public_html/sunfra.com/farm/indicator/feed_to_shead_box.php on line 13
+[22-Feb-2025 12:42:59 Asia/Kolkata] PHP Warning:  Undefined array key "weight" in /home2/sunfra/public_html/sunfra.com/farm/indicator/feed_to_shead_box.php on line 14
+[22-Feb-2025 12:42:59 Asia/Kolkata] PHP Warning:  Undefined array key 11 in /home2/sunfra/public_html/sunfra.com/farm/indicator/feed_to_shead_box.php on line 15
+[22-Feb-2025 12:52:33 Asia/Kolkata] PHP Warning:  Undefined array key 11 in /home2/sunfra/public_html/sunfra.com/farm/indicator/feed_to_shead_box.php on line 15
+[22-Feb-2025 12:52:44 Asia/Kolkata] PHP Warning:  Undefined array key 11 in /home2/sunfra/public_html/sunfra.com/farm/indicator/feed_to_shead_box.php on line 15
+[22-Feb-2025 12:52:54 Asia/Kolkata] PHP Warning:  Undefined array key 11 in /home2/sunfra/public_html/sunfra.com/farm/indicator/feed_to_shead_box.php on line 15
+[22-Feb-2025 12:53:05 Asia/Kolkata] PHP Warning:  Undefined array key 11 in /home2/sunfra/public_html/sunfra.com/farm/indicator/feed_to_shead_box.php on line 15
+[22-Feb-2025 12:53:16 Asia/Kolkata] PHP Warning:  Undefined array key 11 in /home2/sunfra/public_html/sunfra.com/farm/indicator/feed_to_shead_box.php on line 15
+[22-Feb-2025 12:53:26 Asia/Kolkata] PHP Warning:  Undefined array key 11 in /home2/sunfra/public_html/sunfra.com/farm/indicator/feed_to_shead_box.php on line 15
+[22-Feb-2025 12:53:37 Asia/Kolkata] PHP Warning:  Undefined array key 11 in /home2/sunfra/public_html/sunfra.com/farm/indicator/feed_to_shead_box.php on line 15
+[22-Feb-2025 12:53:47 Asia/Kolkata] PHP Warning:  Undefined array key 11 in /home2/sunfra/public_html/sunfra.com/farm/indicator/feed_to_shead_box.php on line 15
+[22-Feb-2025 12:53:58 Asia/Kolkata] PHP Warning:  Undefined array key 11 in /home2/sunfra/public_html/sunfra.com/farm/indicator/feed_to_shead_box.php on line 15
+[22-Feb-2025 12:54:08 Asia/Kolkata] PHP Warning:  Undefined array key 11 in /home2/sunfra/public_html/sunfra.com/farm/indicator/feed_to_shead_box.php on line 15
+[22-Feb-2025 12:54:19 Asia/Kolkata] PHP Warning:  Undefined array key 11 in /home2/sunfra/public_html/sunfra.com/farm/indicator/feed_to_shead_box.php on line 15
+[22-Feb-2025 12:54:29 Asia/Kolkata] PHP Warning:  Undefined array key 11 in /home2/sunfra/public_html/sunfra.com/farm/indicator/feed_to_shead_box.php on line 15
+[22-Feb-2025 12:54:40 Asia/Kolkata] PHP Warning:  Undefined array key 11 in /home2/sunfra/public_html/sunfra.com/farm/indicator/feed_to_shead_box.php on line 15
+[22-Feb-2025 12:54:50 Asia/Kolkata] PHP Warning:  Undefined array key 11 in /home2/sunfra/public_html/sunfra.com/farm/indicator/feed_to_shead_box.php on line 15
+[22-Feb-2025 12:55:01 Asia/Kolkata] PHP Warning:  Undefined array key 11 in /home2/sunfra/public_html/sunfra.com/farm/indicator/feed_to_shead_box.php on line 15
+[22-Feb-2025 12:55:11 Asia/Kolkata] PHP Warning:  Undefined array key 11 in /home2/sunfra/public_html/sunfra.com/farm/indicator/feed_to_shead_box.php on line 15
+[25-Feb-2025 18:23:58 Asia/Kolkata] PHP Warning:  Undefined array key "mac_address" in /home2/sunfra/public_html/sunfra.com/farm/indicator/feed_to_shead_box.php on line 13
+[25-Feb-2025 18:23:58 Asia/Kolkata] PHP Warning:  Undefined array key "weight" in /home2/sunfra/public_html/sunfra.com/farm/indicator/feed_to_shead_box.php on line 14
+[25-Feb-2025 18:23:58 Asia/Kolkata] PHP Warning:  Undefined array key "device_id" in /home2/sunfra/public_html/sunfra.com/farm/indicator/feed_to_shead_box.php on line 15

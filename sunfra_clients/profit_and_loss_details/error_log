@@ -1,0 +1,14 @@
+[02-Oct-2025 20:22:45 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'batch_id' in 'field list' in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/profit_and_loss_details/profit_loss_process.php:305
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/profit_and_loss_details/profit_loss_process.php(305): mysqli->prepare('INSERT INTO pro...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/profit_and_loss_details/profit_loss_process.php on line 305
+[02-Oct-2025 20:22:45 Asia/Kolkata] PHP Warning:  file_get_contents(https://sunfra.com/farm/sunfra_clients/profit_and_loss_details/profit_loss_process.php?client_id=4): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/profit_and_loss_details/profit_loss_json.php on line 21
+[02-Oct-2025 20:22:48 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'batch_id' in 'field list' in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/profit_and_loss_details/profit_loss_process.php:305
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/profit_and_loss_details/profit_loss_process.php(305): mysqli->prepare('INSERT INTO pro...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/profit_and_loss_details/profit_loss_process.php on line 305
+[02-Oct-2025 20:22:48 Asia/Kolkata] PHP Warning:  file_get_contents(https://sunfra.com/farm/sunfra_clients/profit_and_loss_details/profit_loss_process.php?client_id=4): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/profit_and_loss_details/profit_loss_json.php on line 21

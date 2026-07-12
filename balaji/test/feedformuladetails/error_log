@@ -1,0 +1,140 @@
+[15-Jul-2025 01:08:59 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:09:03 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:09:05 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:09:11 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:13:00 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:13:11 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:13:13 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:13:16 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:14:59 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:15:01 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:17:50 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:17:53 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:19:38 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:28:09 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:28:12 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:28:15 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:29:41 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:31:42 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:31:43 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:31:44 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:31:45 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:31:47 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:31:47 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:31:49 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:31:58 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:32:00 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:34:07 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:40
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(40): mysqli->prepare('SELECT \r\n    fe...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 40
+[15-Jul-2025 01:34:08 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:40
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(40): mysqli->prepare('SELECT \r\n    fe...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 40

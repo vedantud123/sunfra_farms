@@ -1,0 +1,40 @@
+[06-Aug-2025 03:37:11 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'shead_1-Maize-2' for key 'feed_formula_unique' in /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php:48
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php(48): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php on line 48
+[06-Aug-2025 03:37:15 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'shead_1-Maize-2' for key 'feed_formula_unique' in /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php:48
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php(48): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php on line 48
+[06-Aug-2025 03:37:18 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'shead_1-Maize-2' for key 'feed_formula_unique' in /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php:48
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php(48): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php on line 48
+[14-Aug-2025 06:43:13 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'shead_1-Extra gain LC3-1' for key 'feed_formula_unique' in /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php:48
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php(48): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php on line 48
+[14-Aug-2025 06:43:22 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'shead_1-Extra gain LC3-1' for key 'feed_formula_unique' in /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php:48
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php(48): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php on line 48
+[14-Aug-2025 06:43:57 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'shead_1-Extra gain LC3-1' for key 'feed_formula_unique' in /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php:48
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php(48): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php on line 48
+[14-Aug-2025 06:44:10 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'shead_1-Maize-1' for key 'feed_formula_unique' in /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php:48
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php(48): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php on line 48
+[14-Aug-2025 06:45:22 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'shead_1-B.rice-1' for key 'feed_formula_unique' in /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php:48
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php(48): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test2/feed_formula/feed_formula_new_material.php on line 48

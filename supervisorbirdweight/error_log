@@ -1,0 +1,13 @@
+[21-Apr-2025 16:33:11 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'bird1' in 'field list' in /home2/sunfra/public_html/sunfra.com/farm/supervisorbirdweight/supervisor_bird_weightEdit.php:75
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/supervisorbirdweight/supervisor_bird_weightEdit.php(75): mysqli->prepare('INSERT INTO sup...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/supervisorbirdweight/supervisor_bird_weightEdit.php on line 75
+[21-Apr-2025 16:34:53 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'bird1' in 'field list' in /home2/sunfra/public_html/sunfra.com/farm/supervisorbirdweight/supervisor_bird_weightEdit.php:75
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/supervisorbirdweight/supervisor_bird_weightEdit.php(75): mysqli->prepare('INSERT INTO sup...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/supervisorbirdweight/supervisor_bird_weightEdit.php on line 75
+[21-Apr-2025 06:12:23 America/Chicago] PHP Fatal error:  Cannot use positional argument after argument unpacking in /home2/sunfra/public_html/sunfra.com/farm/supervisorbirdweight/supervisor_bird_weightEdit.php on line 171
+[21-Apr-2025 06:12:27 America/Chicago] PHP Fatal error:  Cannot use positional argument after argument unpacking in /home2/sunfra/public_html/sunfra.com/farm/supervisorbirdweight/supervisor_bird_weightEdit.php on line 171
+[21-Apr-2025 06:14:04 America/Chicago] PHP Fatal error:  Cannot use positional argument after argument unpacking in /home2/sunfra/public_html/sunfra.com/farm/supervisorbirdweight/supervisor_bird_weightEdit.php on line 171

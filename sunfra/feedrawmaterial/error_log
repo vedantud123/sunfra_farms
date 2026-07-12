@@ -1,0 +1,25 @@
+[10-Nov-2025 02:16:43 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sunfra_farms.water_medicine_log' doesn't exist in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feedrawmaterial/water_medicine_save.php:95
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/feedrawmaterial/water_medicine_save.php(95): mysqli->prepare('INSERT INTO wat...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feedrawmaterial/water_medicine_save.php on line 95
+[10-Nov-2025 02:17:33 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'place' in 'field list' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feedrawmaterial/water_medicine_save.php:93
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/feedrawmaterial/water_medicine_save.php(93): mysqli->prepare('INSERT INTO fee...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feedrawmaterial/water_medicine_save.php on line 93
+[10-Nov-2025 02:17:35 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'place' in 'field list' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feedrawmaterial/water_medicine_save.php:93
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/feedrawmaterial/water_medicine_save.php(93): mysqli->prepare('INSERT INTO fee...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feedrawmaterial/water_medicine_save.php on line 93
+[10-Nov-2025 02:30:41 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'name' in 'field list' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feedrawmaterial/water_medicine_save.php:97
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/feedrawmaterial/water_medicine_save.php(97): mysqli->prepare('INSERT INTO fee...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feedrawmaterial/water_medicine_save.php on line 97
+[10-Nov-2025 02:30:51 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'name' in 'field list' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feedrawmaterial/water_medicine_save.php:97
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/feedrawmaterial/water_medicine_save.php(97): mysqli->prepare('INSERT INTO fee...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feedrawmaterial/water_medicine_save.php on line 97

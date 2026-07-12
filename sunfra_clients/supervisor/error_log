@@ -1,0 +1,1 @@
+[19-Sep-2025 05:41:46 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, string given in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/supervisor/supervisor_all_form.php on line 25

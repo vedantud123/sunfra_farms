@@ -1,0 +1,15 @@
+[07-Apr-2025 17:54:29 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sunfra/public_html/sunfra.com/farm/sanitization/sanitization.php:42) in /home2/sunfra/public_html/sunfra.com/farm/sanitization/sanitization.php on line 61
+[07-Apr-2025 17:54:46 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sunfra/public_html/sunfra.com/farm/sanitization/sanitization.php:42) in /home2/sunfra/public_html/sunfra.com/farm/sanitization/sanitization.php on line 61
+[07-Apr-2025 17:56:11 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sunfra/public_html/sunfra.com/farm/sanitization/sanitization.php:43) in /home2/sunfra/public_html/sunfra.com/farm/sanitization/sanitization.php on line 67
+[07-Apr-2025 17:57:10 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sunfra/public_html/sunfra.com/farm/sanitization/sanitization.php:43) in /home2/sunfra/public_html/sunfra.com/farm/sanitization/sanitization.php on line 67
+[07-Apr-2025 17:57:51 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sunfra/public_html/sunfra.com/farm/sanitization/sanitization.php:43) in /home2/sunfra/public_html/sunfra.com/farm/sanitization/sanitization.php on line 66
+[10-Apr-2025 15:05:20 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC' at line 1 in /home2/sunfra/public_html/sunfra.com/farm/sanitization/sanitization.php:75
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sanitization/sanitization.php(75): mysqli->query('SELECT * FROM `...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sanitization/sanitization.php on line 75
+[10-Apr-2025 15:05:23 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC' at line 1 in /home2/sunfra/public_html/sunfra.com/farm/sanitization/sanitization.php:75
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sanitization/sanitization.php(75): mysqli->query('SELECT * FROM `...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sanitization/sanitization.php on line 75

@@ -1,0 +1,213 @@
+[23-Dec-2024 04:14:27 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php on line 11
+[23-Dec-2024 04:14:27 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #4 cannot be passed by reference in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php:72
+Stack trace:
+#0 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php on line 72
+[23-Dec-2024 04:16:13 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php on line 11
+[23-Dec-2024 04:16:13 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #4 cannot be passed by reference in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php:72
+Stack trace:
+#0 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php on line 72
+[23-Dec-2024 04:18:21 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php on line 25
+[23-Dec-2024 04:18:21 America/Chicago] PHP Warning:  Undefined array key "tarkiya" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php on line 28
+[23-Dec-2024 04:18:21 America/Chicago] PHP Warning:  Undefined array key "heart" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php on line 29
+[23-Dec-2024 04:18:21 America/Chicago] PHP Warning:  Undefined array key "lever" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php on line 30
+[23-Dec-2024 04:18:21 America/Chicago] PHP Warning:  Undefined array key "gizzard" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php on line 31
+[23-Dec-2024 04:18:21 America/Chicago] PHP Warning:  Undefined array key "kidney" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php on line 32
+[23-Dec-2024 04:18:21 America/Chicago] PHP Warning:  Undefined array key "ovaries" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php on line 33
+[23-Dec-2024 04:18:21 America/Chicago] PHP Warning:  Undefined array key "option_1" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php on line 34
+[23-Dec-2024 04:18:21 America/Chicago] PHP Warning:  Undefined array key "option_2" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php on line 35
+[23-Dec-2024 04:18:21 America/Chicago] PHP Warning:  Undefined array key "option_3" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php on line 36
+[23-Dec-2024 04:18:21 America/Chicago] PHP Warning:  Undefined array key "option_4" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php on line 37
+[23-Dec-2024 04:18:21 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , Please check)' at line 2 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php:47
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php(47): mysqli_query(Object(mysqli), 'INSERT INTO pos...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php on line 47
+[23-Dec-2024 07:12:11 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 11
+[23-Dec-2024 07:12:11 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 51
+[23-Dec-2024 07:12:11 America/Chicago] PHP Warning:  Undefined variable $tarkiya in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 56
+[23-Dec-2024 07:12:11 America/Chicago] PHP Warning:  Undefined variable $heart in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 61
+[23-Dec-2024 07:12:11 America/Chicago] PHP Warning:  Undefined variable $lever in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 66
+[23-Dec-2024 07:12:11 America/Chicago] PHP Warning:  Undefined variable $gizzard in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 71
+[23-Dec-2024 07:12:11 America/Chicago] PHP Warning:  Undefined variable $kidney in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 76
+[23-Dec-2024 07:12:11 America/Chicago] PHP Warning:  Undefined variable $ovaries in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 81
+[23-Dec-2024 07:12:11 America/Chicago] PHP Warning:  Undefined variable $option_1 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 86
+[23-Dec-2024 07:12:11 America/Chicago] PHP Warning:  Undefined variable $option_2 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 91
+[23-Dec-2024 07:12:11 America/Chicago] PHP Warning:  Undefined variable $option_3 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 96
+[23-Dec-2024 07:12:11 America/Chicago] PHP Warning:  Undefined variable $option_4 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 101
+[23-Dec-2024 07:12:11 America/Chicago] PHP Warning:  Undefined variable $remarks in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 106
+[23-Dec-2024 07:18:07 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 11
+[23-Dec-2024 07:18:07 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 51
+[23-Dec-2024 07:18:07 America/Chicago] PHP Warning:  Undefined variable $tarkiya in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 56
+[23-Dec-2024 07:18:07 America/Chicago] PHP Warning:  Undefined variable $heart in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 61
+[23-Dec-2024 07:18:07 America/Chicago] PHP Warning:  Undefined variable $lever in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 66
+[23-Dec-2024 07:18:07 America/Chicago] PHP Warning:  Undefined variable $gizzard in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 71
+[23-Dec-2024 07:18:07 America/Chicago] PHP Warning:  Undefined variable $kidney in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 76
+[23-Dec-2024 07:18:07 America/Chicago] PHP Warning:  Undefined variable $ovaries in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 81
+[23-Dec-2024 07:18:07 America/Chicago] PHP Warning:  Undefined variable $option_1 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 86
+[23-Dec-2024 07:18:07 America/Chicago] PHP Warning:  Undefined variable $option_2 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 91
+[23-Dec-2024 07:18:07 America/Chicago] PHP Warning:  Undefined variable $option_3 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 96
+[23-Dec-2024 07:18:07 America/Chicago] PHP Warning:  Undefined variable $option_4 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 101
+[23-Dec-2024 07:18:07 America/Chicago] PHP Warning:  Undefined variable $remarks in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 106
+[23-Dec-2024 23:17:51 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 11
+[23-Dec-2024 23:17:51 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 51
+[23-Dec-2024 23:17:51 America/Chicago] PHP Warning:  Undefined variable $tarkiya in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 56
+[23-Dec-2024 23:17:51 America/Chicago] PHP Warning:  Undefined variable $heart in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 61
+[23-Dec-2024 23:17:51 America/Chicago] PHP Warning:  Undefined variable $lever in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 66
+[23-Dec-2024 23:17:51 America/Chicago] PHP Warning:  Undefined variable $gizzard in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 71
+[23-Dec-2024 23:17:51 America/Chicago] PHP Warning:  Undefined variable $kidney in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 76
+[23-Dec-2024 23:17:51 America/Chicago] PHP Warning:  Undefined variable $ovaries in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 81
+[23-Dec-2024 23:17:51 America/Chicago] PHP Warning:  Undefined variable $option_1 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 86
+[23-Dec-2024 23:17:51 America/Chicago] PHP Warning:  Undefined variable $option_2 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 91
+[23-Dec-2024 23:17:51 America/Chicago] PHP Warning:  Undefined variable $option_3 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 96
+[23-Dec-2024 23:17:51 America/Chicago] PHP Warning:  Undefined variable $option_4 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 101
+[23-Dec-2024 23:17:51 America/Chicago] PHP Warning:  Undefined variable $remarks in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 106
+[23-Dec-2024 23:32:03 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 11
+[23-Dec-2024 23:32:03 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 51
+[23-Dec-2024 23:32:03 America/Chicago] PHP Warning:  Undefined variable $tarkiya in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 56
+[23-Dec-2024 23:32:03 America/Chicago] PHP Warning:  Undefined variable $heart in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 61
+[23-Dec-2024 23:32:03 America/Chicago] PHP Warning:  Undefined variable $lever in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 66
+[23-Dec-2024 23:32:03 America/Chicago] PHP Warning:  Undefined variable $gizzard in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 71
+[23-Dec-2024 23:32:03 America/Chicago] PHP Warning:  Undefined variable $kidney in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 76
+[23-Dec-2024 23:32:03 America/Chicago] PHP Warning:  Undefined variable $ovaries in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 81
+[23-Dec-2024 23:32:03 America/Chicago] PHP Warning:  Undefined variable $option_1 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 86
+[23-Dec-2024 23:32:03 America/Chicago] PHP Warning:  Undefined variable $option_2 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 91
+[23-Dec-2024 23:32:03 America/Chicago] PHP Warning:  Undefined variable $option_3 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 96
+[23-Dec-2024 23:32:03 America/Chicago] PHP Warning:  Undefined variable $option_4 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 101
+[23-Dec-2024 23:32:03 America/Chicago] PHP Warning:  Undefined variable $remarks in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 106
+[24-Dec-2024 06:49:49 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 11
+[24-Dec-2024 06:49:49 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 53
+[24-Dec-2024 06:49:49 America/Chicago] PHP Warning:  Undefined variable $tarkiya in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 58
+[24-Dec-2024 06:49:49 America/Chicago] PHP Warning:  Undefined variable $heart in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 63
+[24-Dec-2024 06:49:49 America/Chicago] PHP Warning:  Undefined variable $lever in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 68
+[24-Dec-2024 06:49:49 America/Chicago] PHP Warning:  Undefined variable $gizzard in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 73
+[24-Dec-2024 06:49:49 America/Chicago] PHP Warning:  Undefined variable $kidney in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 78
+[24-Dec-2024 06:49:49 America/Chicago] PHP Warning:  Undefined variable $ovaries in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 83
+[24-Dec-2024 06:49:49 America/Chicago] PHP Warning:  Undefined variable $option_1 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 88
+[24-Dec-2024 06:49:49 America/Chicago] PHP Warning:  Undefined variable $option_2 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 93
+[24-Dec-2024 06:49:49 America/Chicago] PHP Warning:  Undefined variable $option_3 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 98
+[24-Dec-2024 06:49:49 America/Chicago] PHP Warning:  Undefined variable $option_4 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 103
+[24-Dec-2024 06:49:49 America/Chicago] PHP Warning:  Undefined variable $remarks in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 108
+[25-Dec-2024 01:44:44 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 11
+[25-Dec-2024 01:44:44 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 53
+[25-Dec-2024 01:44:44 America/Chicago] PHP Warning:  Undefined variable $tarkiya in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 58
+[25-Dec-2024 01:44:44 America/Chicago] PHP Warning:  Undefined variable $heart in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 63
+[25-Dec-2024 01:44:44 America/Chicago] PHP Warning:  Undefined variable $lever in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 68
+[25-Dec-2024 01:44:44 America/Chicago] PHP Warning:  Undefined variable $gizzard in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 73
+[25-Dec-2024 01:44:44 America/Chicago] PHP Warning:  Undefined variable $kidney in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 78
+[25-Dec-2024 01:44:44 America/Chicago] PHP Warning:  Undefined variable $ovaries in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 83
+[25-Dec-2024 01:44:44 America/Chicago] PHP Warning:  Undefined variable $option_1 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 88
+[25-Dec-2024 01:44:44 America/Chicago] PHP Warning:  Undefined variable $option_2 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 93
+[25-Dec-2024 01:44:44 America/Chicago] PHP Warning:  Undefined variable $option_3 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 98
+[25-Dec-2024 01:44:44 America/Chicago] PHP Warning:  Undefined variable $option_4 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 103
+[25-Dec-2024 01:44:44 America/Chicago] PHP Warning:  Undefined variable $remarks in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 108
+[25-Dec-2024 01:45:31 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php on line 21
+[25-Dec-2024 07:26:10 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 11
+[25-Dec-2024 07:26:10 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 53
+[25-Dec-2024 07:26:10 America/Chicago] PHP Warning:  Undefined variable $tarkiya in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 58
+[25-Dec-2024 07:26:10 America/Chicago] PHP Warning:  Undefined variable $heart in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 63
+[25-Dec-2024 07:26:10 America/Chicago] PHP Warning:  Undefined variable $lever in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 68
+[25-Dec-2024 07:26:10 America/Chicago] PHP Warning:  Undefined variable $gizzard in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 73
+[25-Dec-2024 07:26:10 America/Chicago] PHP Warning:  Undefined variable $kidney in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 78
+[25-Dec-2024 07:26:10 America/Chicago] PHP Warning:  Undefined variable $ovaries in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 83
+[25-Dec-2024 07:26:10 America/Chicago] PHP Warning:  Undefined variable $option_1 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 88
+[25-Dec-2024 07:26:10 America/Chicago] PHP Warning:  Undefined variable $option_2 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 93
+[25-Dec-2024 07:26:10 America/Chicago] PHP Warning:  Undefined variable $option_3 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 98
+[25-Dec-2024 07:26:10 America/Chicago] PHP Warning:  Undefined variable $option_4 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 103
+[25-Dec-2024 07:26:10 America/Chicago] PHP Warning:  Undefined variable $remarks in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 108
+[27-Dec-2024 02:23:13 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 20
+[27-Dec-2024 02:23:13 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 62
+[27-Dec-2024 02:23:13 America/Chicago] PHP Warning:  Undefined variable $tarkiya in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 67
+[27-Dec-2024 02:23:13 America/Chicago] PHP Warning:  Undefined variable $heart in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 72
+[27-Dec-2024 02:23:13 America/Chicago] PHP Warning:  Undefined variable $lever in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 77
+[27-Dec-2024 02:23:13 America/Chicago] PHP Warning:  Undefined variable $gizzard in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 82
+[27-Dec-2024 02:23:13 America/Chicago] PHP Warning:  Undefined variable $kidney in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 87
+[27-Dec-2024 02:23:13 America/Chicago] PHP Warning:  Undefined variable $ovaries in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 92
+[27-Dec-2024 02:23:13 America/Chicago] PHP Warning:  Undefined variable $option_1 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 97
+[27-Dec-2024 02:23:13 America/Chicago] PHP Warning:  Undefined variable $option_2 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 102
+[27-Dec-2024 02:23:13 America/Chicago] PHP Warning:  Undefined variable $option_3 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 107
+[27-Dec-2024 02:23:13 America/Chicago] PHP Warning:  Undefined variable $option_4 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 112
+[27-Dec-2024 02:23:13 America/Chicago] PHP Warning:  Undefined variable $remarks in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 117
+[31-Dec-2024 00:43:11 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 20
+[31-Dec-2024 00:43:11 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 62
+[31-Dec-2024 00:43:11 America/Chicago] PHP Warning:  Undefined variable $tarkiya in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 67
+[31-Dec-2024 00:43:11 America/Chicago] PHP Warning:  Undefined variable $heart in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 72
+[31-Dec-2024 00:43:11 America/Chicago] PHP Warning:  Undefined variable $lever in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 77
+[31-Dec-2024 00:43:11 America/Chicago] PHP Warning:  Undefined variable $gizzard in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 82
+[31-Dec-2024 00:43:11 America/Chicago] PHP Warning:  Undefined variable $kidney in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 87
+[31-Dec-2024 00:43:11 America/Chicago] PHP Warning:  Undefined variable $ovaries in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 92
+[31-Dec-2024 00:43:11 America/Chicago] PHP Warning:  Undefined variable $option_1 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 97
+[31-Dec-2024 00:43:11 America/Chicago] PHP Warning:  Undefined variable $option_2 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 102
+[31-Dec-2024 00:43:11 America/Chicago] PHP Warning:  Undefined variable $option_3 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 107
+[31-Dec-2024 00:43:11 America/Chicago] PHP Warning:  Undefined variable $option_4 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 112
+[31-Dec-2024 00:43:11 America/Chicago] PHP Warning:  Undefined variable $remarks in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 117
+[31-Dec-2024 12:14:59 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php on line 33
+[31-Dec-2024 12:14:59 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php:63
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php(63): mysqli_stmt->bind_param('ssssssssssss', '3', 'uploads/1735627...', 'uploads/1735627...', 'uploads/1735627...', NULL, NULL, NULL, NULL, NULL, NULL, NULL, '', '2024-12-31 12:1...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php on line 63
+[31-Dec-2024 22:41:04 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 20
+[31-Dec-2024 22:41:04 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 62
+[31-Dec-2024 22:41:04 America/Chicago] PHP Warning:  Undefined variable $tarkiya in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 67
+[31-Dec-2024 22:41:04 America/Chicago] PHP Warning:  Undefined variable $heart in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 72
+[31-Dec-2024 22:41:04 America/Chicago] PHP Warning:  Undefined variable $lever in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 77
+[31-Dec-2024 22:41:04 America/Chicago] PHP Warning:  Undefined variable $gizzard in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 82
+[31-Dec-2024 22:41:04 America/Chicago] PHP Warning:  Undefined variable $kidney in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 87
+[31-Dec-2024 22:41:04 America/Chicago] PHP Warning:  Undefined variable $ovaries in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 92
+[31-Dec-2024 22:41:04 America/Chicago] PHP Warning:  Undefined variable $option_1 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 97
+[31-Dec-2024 22:41:04 America/Chicago] PHP Warning:  Undefined variable $option_2 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 102
+[31-Dec-2024 22:41:04 America/Chicago] PHP Warning:  Undefined variable $option_3 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 107
+[31-Dec-2024 22:41:04 America/Chicago] PHP Warning:  Undefined variable $option_4 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 112
+[31-Dec-2024 22:41:04 America/Chicago] PHP Warning:  Undefined variable $remarks in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 117
+[31-Dec-2024 22:45:33 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 12
+[31-Dec-2024 22:45:33 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 45
+[31-Dec-2024 22:45:33 America/Chicago] PHP Warning:  Undefined variable $tarkiya in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 50
+[31-Dec-2024 22:45:33 America/Chicago] PHP Warning:  Undefined variable $heart in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 55
+[31-Dec-2024 22:45:33 America/Chicago] PHP Warning:  Undefined variable $lever in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 60
+[31-Dec-2024 22:45:33 America/Chicago] PHP Warning:  Undefined variable $remarks in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 65
+[31-Dec-2024 22:45:42 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 12
+[31-Dec-2024 22:45:42 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 45
+[31-Dec-2024 22:45:42 America/Chicago] PHP Warning:  Undefined variable $tarkiya in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 50
+[31-Dec-2024 22:45:42 America/Chicago] PHP Warning:  Undefined variable $heart in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 55
+[31-Dec-2024 22:45:42 America/Chicago] PHP Warning:  Undefined variable $lever in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 60
+[31-Dec-2024 22:45:42 America/Chicago] PHP Warning:  Undefined variable $remarks in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 65
+[31-Dec-2024 22:48:31 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 12
+[31-Dec-2024 22:48:31 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 52
+[31-Dec-2024 22:48:31 America/Chicago] PHP Warning:  Undefined variable $tarkiya in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 58
+[31-Dec-2024 22:48:31 America/Chicago] PHP Warning:  Undefined variable $heart in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 64
+[31-Dec-2024 22:48:31 America/Chicago] PHP Warning:  Undefined variable $lever in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 70
+[31-Dec-2024 22:48:31 America/Chicago] PHP Warning:  Undefined variable $remarks in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 76
+[01-Jan-2025 10:19:32 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php on line 33
+[01-Jan-2025 10:19:32 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php:63
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php(63): mysqli_stmt->bind_param('ssssssssssss', '7', 'uploads/1735706...', 'uploads/1735706...', 'uploads/1735706...', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'This is super', '2025-01-01 10:1...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamEdit.php on line 63
+[31-Dec-2024 23:44:08 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 20
+[31-Dec-2024 23:44:08 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 62
+[31-Dec-2024 23:44:08 America/Chicago] PHP Warning:  Undefined variable $tarkiya in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 67
+[31-Dec-2024 23:44:08 America/Chicago] PHP Warning:  Undefined variable $heart in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 72
+[31-Dec-2024 23:44:08 America/Chicago] PHP Warning:  Undefined variable $lever in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 77
+[31-Dec-2024 23:44:08 America/Chicago] PHP Warning:  Undefined variable $gizzard in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 82
+[31-Dec-2024 23:44:08 America/Chicago] PHP Warning:  Undefined variable $kidney in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 87
+[31-Dec-2024 23:44:08 America/Chicago] PHP Warning:  Undefined variable $ovaries in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 92
+[31-Dec-2024 23:44:08 America/Chicago] PHP Warning:  Undefined variable $option_1 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 97
+[31-Dec-2024 23:44:08 America/Chicago] PHP Warning:  Undefined variable $option_2 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 102
+[31-Dec-2024 23:44:08 America/Chicago] PHP Warning:  Undefined variable $option_3 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 107
+[31-Dec-2024 23:44:08 America/Chicago] PHP Warning:  Undefined variable $option_4 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 112
+[31-Dec-2024 23:44:08 America/Chicago] PHP Warning:  Undefined variable $remarks in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 117
+[07-Feb-2025 04:44:04 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 20
+[07-Feb-2025 04:44:04 America/Chicago] PHP Warning:  Undefined variable $sheadNo in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 62
+[07-Feb-2025 04:44:04 America/Chicago] PHP Warning:  Undefined variable $tarkiya in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 67
+[07-Feb-2025 04:44:04 America/Chicago] PHP Warning:  Undefined variable $heart in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 72
+[07-Feb-2025 04:44:04 America/Chicago] PHP Warning:  Undefined variable $lever in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 77
+[07-Feb-2025 04:44:04 America/Chicago] PHP Warning:  Undefined variable $gizzard in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 82
+[07-Feb-2025 04:44:04 America/Chicago] PHP Warning:  Undefined variable $kidney in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 87
+[07-Feb-2025 04:44:04 America/Chicago] PHP Warning:  Undefined variable $ovaries in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 92
+[07-Feb-2025 04:44:04 America/Chicago] PHP Warning:  Undefined variable $option_1 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 97
+[07-Feb-2025 04:44:04 America/Chicago] PHP Warning:  Undefined variable $option_2 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 102
+[07-Feb-2025 04:44:04 America/Chicago] PHP Warning:  Undefined variable $option_3 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 107
+[07-Feb-2025 04:44:04 America/Chicago] PHP Warning:  Undefined variable $option_4 in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 112
+[07-Feb-2025 04:44:04 America/Chicago] PHP Warning:  Undefined variable $remarks in /home2/sunfra/public_html/sunfra.com/farm/postmartam/postmartamNewEdit.php on line 117

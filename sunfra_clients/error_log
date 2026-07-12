@@ -1,0 +1,16 @@
+[12-Sep-2025 08:05:57 America/Chicago] PHP Warning:  Undefined variable $labels in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index_test.php on line 1223
+[12-Sep-2025 08:05:57 America/Chicago] PHP Warning:  Undefined variable $temperatures in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index_test.php on line 1227
+[12-Sep-2025 08:05:57 America/Chicago] PHP Warning:  Undefined variable $feelslike in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index_test.php on line 1235
+[12-Sep-2025 08:16:08 America/Chicago] PHP Warning:  Undefined variable $labels in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index_test.php on line 1223
+[12-Sep-2025 08:16:08 America/Chicago] PHP Warning:  Undefined variable $temperatures in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index_test.php on line 1227
+[12-Sep-2025 08:16:08 America/Chicago] PHP Warning:  Undefined variable $feelslike in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index_test.php on line 1235
+[12-Sep-2025 08:16:25 America/Chicago] PHP Warning:  Undefined variable $labels in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index_test.php on line 1223
+[12-Sep-2025 08:16:25 America/Chicago] PHP Warning:  Undefined variable $temperatures in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index_test.php on line 1227
+[12-Sep-2025 08:16:25 America/Chicago] PHP Warning:  Undefined variable $feelslike in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index_test.php on line 1235
+[12-Sep-2025 08:19:26 America/Chicago] PHP Warning:  Undefined variable $labels in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index_test.php on line 1271
+[12-Sep-2025 08:19:26 America/Chicago] PHP Warning:  Undefined variable $temperatures in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index_test.php on line 1275
+[12-Sep-2025 08:19:26 America/Chicago] PHP Warning:  Undefined variable $feelslike in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index_test.php on line 1283
+[12-Sep-2025 08:19:51 America/Chicago] PHP Warning:  Undefined variable $labels in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index_test.php on line 1271
+[12-Sep-2025 08:19:51 America/Chicago] PHP Warning:  Undefined variable $temperatures in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index_test.php on line 1275
+[12-Sep-2025 08:19:51 America/Chicago] PHP Warning:  Undefined variable $feelslike in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index_test.php on line 1283
+[18-Sep-2025 03:04:47 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in /home2/sunfra/public_html/sunfra.com/farm/sunfra_clients/index_test.php on line 479

@@ -1,0 +1,352 @@
+[15-Jul-2025 01:08:59 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:09:03 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:09:05 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:09:11 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:13:00 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:13:11 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:13:13 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:13:16 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:14:59 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:15:01 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:17:50 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:17:53 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:19:38 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:28:09 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:28:12 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:28:15 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:29:41 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:31:42 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:31:43 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:31:44 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:31:45 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:31:47 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:31:47 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:31:49 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:31:58 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:32:00 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:17
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(17): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 17
+[15-Jul-2025 01:34:07 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:40
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(40): mysqli->prepare('SELECT \r\n    fe...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 40
+[15-Jul-2025 01:34:08 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'client_id' in 'where clause' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:40
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(40): mysqli->prepare('SELECT \r\n    fe...')
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 40
+[22-Jul-2025 02:25:31 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 151
+[22-Jul-2025 02:27:35 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 166
+[22-Jul-2025 02:31:35 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[22-Jul-2025 02:31:46 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[22-Jul-2025 02:44:22 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[22-Jul-2025 03:31:41 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[22-Jul-2025 03:33:27 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[22-Jul-2025 04:55:10 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[23-Jul-2025 01:47:25 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[23-Jul-2025 01:49:10 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[24-Jul-2025 22:23:22 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[24-Jul-2025 22:24:31 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[24-Jul-2025 23:25:40 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[24-Jul-2025 23:26:32 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[24-Jul-2025 23:30:53 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[24-Jul-2025 23:32:00 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[24-Jul-2025 23:34:00 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[24-Jul-2025 23:57:34 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[25-Jul-2025 00:04:34 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[25-Jul-2025 00:10:05 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[25-Jul-2025 00:10:18 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[25-Jul-2025 00:17:08 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[25-Jul-2025 00:24:36 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[25-Jul-2025 05:39:54 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[25-Jul-2025 05:40:17 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[25-Jul-2025 22:49:56 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[26-Jul-2025 00:37:28 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[26-Jul-2025 00:38:29 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[26-Jul-2025 00:48:50 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[26-Jul-2025 01:01:40 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[26-Jul-2025 04:11:35 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[26-Jul-2025 05:20:57 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[26-Jul-2025 05:56:37 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[26-Jul-2025 11:56:41 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[27-Jul-2025 12:17:58 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[29-Jul-2025 03:20:02 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[29-Jul-2025 03:25:14 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[29-Jul-2025 03:27:09 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[29-Jul-2025 04:00:08 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[29-Jul-2025 04:02:42 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[29-Jul-2025 06:02:23 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[30-Jul-2025 03:27:45 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[30-Jul-2025 13:29:18 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[31-Jul-2025 06:25:22 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[31-Jul-2025 06:30:46 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[31-Jul-2025 06:38:53 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[31-Jul-2025 06:39:36 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[31-Jul-2025 06:47:56 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[31-Jul-2025 06:51:41 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[31-Jul-2025 07:09:25 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[31-Jul-2025 07:09:26 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[31-Jul-2025 07:09:26 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[31-Jul-2025 07:09:26 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[31-Jul-2025 07:23:22 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[31-Jul-2025 07:24:58 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[01-Aug-2025 03:27:00 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[02-Aug-2025 00:33:49 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[02-Aug-2025 00:34:03 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[02-Aug-2025 00:34:43 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[02-Aug-2025 00:34:57 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[02-Aug-2025 00:50:45 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[02-Aug-2025 00:51:22 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[02-Aug-2025 00:53:21 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[02-Aug-2025 00:58:39 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[02-Aug-2025 01:25:17 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[02-Aug-2025 03:54:30 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[02-Aug-2025 04:05:23 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[02-Aug-2025 04:06:27 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[02-Aug-2025 04:08:11 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[02-Aug-2025 04:11:09 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[02-Aug-2025 04:12:26 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[02-Aug-2025 04:13:35 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[02-Aug-2025 04:17:28 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[02-Aug-2025 04:32:13 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[03-Aug-2025 04:15:00 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[03-Aug-2025 04:35:18 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[03-Aug-2025 04:36:19 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[03-Aug-2025 07:30:46 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[03-Aug-2025 07:33:42 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[03-Aug-2025 07:48:11 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[04-Aug-2025 06:32:54 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[04-Aug-2025 06:33:26 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 04:16:33 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 08:29:28 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 08:34:35 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 08:34:39 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 08:36:52 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 08:40:46 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 08:40:47 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 08:41:46 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 08:42:16 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 08:45:07 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 08:47:23 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 08:55:46 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 09:00:30 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 09:04:16 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 09:22:39 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 09:23:34 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 09:24:24 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 09:26:38 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 09:36:50 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 09:38:47 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 09:47:19 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 09:52:37 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 09:55:40 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[05-Aug-2025 23:04:20 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[11-Aug-2025 04:10:17 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[11-Aug-2025 04:21:22 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[11-Aug-2025 04:28:34 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[11-Aug-2025 04:30:51 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[11-Aug-2025 05:44:51 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[11-Aug-2025 05:57:47 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[11-Aug-2025 06:09:02 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[11-Aug-2025 06:09:04 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[11-Aug-2025 06:11:19 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[11-Aug-2025 06:11:33 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[11-Aug-2025 06:12:22 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[11-Aug-2025 06:15:35 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[11-Aug-2025 06:15:59 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[11-Aug-2025 06:30:52 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[11-Aug-2025 06:35:21 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[11-Aug-2025 06:36:09 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[19-Aug-2025 07:49:29 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[19-Aug-2025 07:51:26 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[19-Aug-2025 07:52:43 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[22-Aug-2025 06:42:35 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[22-Aug-2025 06:44:56 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[22-Aug-2025 23:10:47 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[22-Aug-2025 23:13:49 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[08-Sep-2025 05:30:59 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[08-Sep-2025 06:31:46 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[08-Sep-2025 06:32:11 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[08-Sep-2025 06:48:03 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[08-Sep-2025 07:12:26 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[08-Sep-2025 07:55:29 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[09-Sep-2025 12:08:09 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[19-Sep-2025 04:41:56 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[19-Sep-2025 04:49:54 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[19-Sep-2025 04:51:07 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'chick-DORB-3' for key 'feed_formula_unique' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:100
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(100): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 100
+[19-Sep-2025 04:51:15 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'chick-DORB-3' for key 'feed_formula_unique' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:100
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(100): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 100
+[19-Sep-2025 04:51:21 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'chick-DORB-3' for key 'feed_formula_unique' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:100
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(100): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 100
+[19-Sep-2025 04:51:47 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[19-Sep-2025 04:52:16 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'chick-DORB-3' for key 'feed_formula_unique' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:100
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(100): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 100
+[19-Sep-2025 05:08:00 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[19-Sep-2025 05:13:52 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[19-Sep-2025 05:35:36 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[19-Sep-2025 05:39:44 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[19-Sep-2025 05:41:36 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[19-Sep-2025 06:06:20 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[19-Sep-2025 06:33:56 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[19-Sep-2025 06:52:21 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[19-Sep-2025 07:31:03 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[19-Sep-2025 07:33:45 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'chick-DORB-3' for key 'feed_formula_unique' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:162
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(162): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 162
+[19-Sep-2025 07:33:54 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'chick-DORB-3' for key 'feed_formula_unique' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:162
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(162): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 162
+[19-Sep-2025 07:37:46 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[19-Sep-2025 23:46:42 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[19-Sep-2025 23:49:14 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[20-Sep-2025 04:05:25 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[20-Sep-2025 04:15:00 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[20-Sep-2025 07:35:04 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[29-Sep-2025 23:44:31 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[03-Oct-2025 07:47:55 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[06-Oct-2025 10:32:57 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[06-Oct-2025 10:33:53 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[06-Oct-2025 10:42:17 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[06-Oct-2025 10:43:33 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[06-Oct-2025 10:44:23 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'chick-C P Feed-3' for key 'feed_formula_unique' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:100
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(100): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 100
+[06-Oct-2025 10:45:00 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'chick-C P Feed-3' for key 'feed_formula_unique' in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php:100
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php(100): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_edit.php on line 100
+[06-Oct-2025 10:45:16 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[06-Oct-2025 10:45:21 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[06-Oct-2025 10:47:47 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[06-Oct-2025 10:48:46 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[06-Oct-2025 10:50:25 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[06-Oct-2025 10:50:59 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[17-Nov-2025 03:21:02 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[17-Nov-2025 06:13:26 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[17-Nov-2025 06:18:50 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[19-Jan-2026 09:24:59 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[19-Jan-2026 09:30:29 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170
+[27-Jan-2026 07:52:39 America/Chicago] PHP Warning:  Undefined variable $clientName in /home2/sunfra/public_html/sunfra.com/farm/test/feedformuladetails/feed_formula_details.php on line 170

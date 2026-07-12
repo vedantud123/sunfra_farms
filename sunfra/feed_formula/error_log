@@ -1,0 +1,65 @@
+[13-Feb-2026 06:34:16 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'shead_1-Maize' for key 'feed_formulaType' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php:60
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php(60): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php on line 60
+[13-Feb-2026 06:34:24 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'shead_1-Maize' for key 'feed_formulaType' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php:60
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php(60): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php on line 60
+[13-Feb-2026 06:34:42 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'shead_1-Maize' for key 'feed_formulaType' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php:60
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php(60): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php on line 60
+[13-Feb-2026 06:34:56 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'shead_1-Maize' for key 'feed_formulaType' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php:60
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php(60): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php on line 60
+[13-Feb-2026 06:35:05 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'shead_1-Maize' for key 'feed_formulaType' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php:60
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php(60): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php on line 60
+[13-Feb-2026 06:35:06 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'shead_1-Maize' for key 'feed_formulaType' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php:60
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php(60): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php on line 60
+[13-Feb-2026 06:36:48 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'shead_1-Maize' for key 'feed_formulaType' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php:60
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php(60): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php on line 60
+[13-Feb-2026 06:36:52 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'shead_1-Maize' for key 'feed_formulaType' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php:60
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php(60): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php on line 60
+[13-Feb-2026 06:36:55 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'shead_1-Maize' for key 'feed_formulaType' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php:60
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php(60): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php on line 60
+[13-Feb-2026 06:37:27 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'shead_1-Maize' for key 'feed_formulaType' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php:60
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php(60): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php on line 60
+[13-Feb-2026 06:37:36 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'shead_1-Maize' for key 'feed_formulaType' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php:60
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php(60): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php on line 60
+[13-Feb-2026 06:47:17 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'shead_1-Maize' for key 'feed_formulaType' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php:76
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php(76): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php on line 76
+[13-Feb-2026 06:47:37 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'shead_1-Maize' for key 'feed_formulaType' in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php:76
+Stack trace:
+#0 /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php(76): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/sunfra/public_html/sunfra.com/farm/sunfra/feed_formula/feed_formula_json.php on line 76
